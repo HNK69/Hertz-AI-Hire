@@ -1,0 +1,162 @@
+{% extends 'base.html' %}
+{% block content %}
+
+<div class="container mt-4">
+  <h3>Technical Interview</h3>
+  <p class="text-muted">Your AI interviewer will ask a few project-based and technical questions.</p>
+
+  <div id="chat-box" class="border rounded p-3 mb-3" style="height: 400px; overflow-y: auto; background: #f8f9fa;">
+    <div id="chat-content"></div>
+  </div>
+
+  <form id="chat-form">
+    {% csrf_token %}
+    <div class="input-group mb-3">
+      <input type="text" id="user-input" class="form-control" placeholder="Type your answer..." />
+      <button type="button" id="send-btn" class="btn btn-primary">Send</button>
+    </div>
+    <button type="button" id="submit-btn" class="btn btn-success mt-2" style="display: none;">Submit Interview</button>
+  </form>
+</div>
+
+<script>
+document.addEventListener("DOMContentLoaded", async () => {
+  const chatBox = document.getElementById("chat-content");
+  const userInput = document.getElementById("user-input");
+  const sendBtn = document.getElementById("send-btn");
+  const submitBtn = document.getElementById("submit-btn");
+
+  let questions = [];
+  let currentIndex = 0;
+  let transcript = [];
+
+  function appendMessage(sender, text) {
+    const div = document.createElement("div");
+    div.className = sender === "bot" ? "text-white mb-2" : "text-light mb-2 text-end";
+    div.innerHTML = `<strong>${sender === "bot" ? "Interviewer" : "You"}:</strong> ${text}`;
+    chatBox.appendChild(div);
+    chatBox.scrollTop = chatBox.scrollHeight;
+  }
+
+  try {
+    const res = await fetch("/tech/questions/");
+    const data = await res.json();
+    questions = data.questions || [];
+  } catch (e) {
+    appendMessage("bot", "Error loading questions. Please retry.");
+    return;
+  }
+
+  if (questions.length > 0) {
+    appendMessage("bot", questions[currentIndex]);
+  }
+
+  sendBtn.addEventListener("click", () => {
+    const answer = userInput.value.trim();
+    if (!answer) return;
+    appendMessage("user", answer);
+    transcript.push({ q: questions[currentIndex], a: answer });
+    userInput.value = "";
+
+    currentIndex++;
+    if (currentIndex < questions.length) {
+      setTimeout(() => appendMessage("bot", questions[currentIndex]), 600);
+    } else {
+      appendMessage("bot", "That concludes your technical interview. Click Submit to finish.");
+      sendBtn.disabled = true;
+      userInput.disabled = true;
+      submitBtn.style.display = "inline-block";
+    }
+  });
+
+  submitBtn.addEventListener("click", async () => {
+    appendMessage("bot", "Saving your responses...");
+    try {
+      const csrfToken = document.querySelector('[name=csrfmiddlewaretoken]').value;
+      const res = await fetch("/tech/submit/", {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json",
+          "X-CSRFToken": csrfToken
+        },
+        body: JSON.stringify({ transcript })
+      });
+
+      const data = await res.json();
+      if (res.ok) {
+        appendMessage("bot", `Responses saved successfully! Score: ${data.avg_score}/5`);
+        setTimeout(() => (window.location.href = "/interview/hr/"), 2000);
+      } else {
+        appendMessage("bot", "Error saving responses: " + (data.error || "Unknown error"));
+      }
+    } catch (err) {
+      appendMessage("bot", "Error connecting to server.");
+    }
+  });
+});
+</script>
+<script>
+  // --- Balanced Anti-Cheat System ---
+  let warningCount = 0;
+  const maxWarnings = 3;
+  let lastWarningTime = 0;
+
+  function issueWarning(reason) {
+    const now = Date.now();
+    // prevent rapid-fire alerts (<3 seconds apart)
+    if (now - lastWarningTime < 3000) return;
+    lastWarningTime = now;
+
+    warningCount++;
+    alert(`⚠️ Warning ${warningCount}/${maxWarnings}: ${reason}`);
+
+    if (warningCount >= maxWarnings) {
+      alert("🚫 Test terminated due to multiple violations.");
+      window.location.href = "/rejected/";
+    }
+  }
+
+  // 1️⃣ Leaving tab or switching window
+  let leftTab = false;
+  document.addEventListener("visibilitychange", () => {
+    if (document.hidden && !leftTab) {
+      leftTab = true;
+      issueWarning("You left the test tab.");
+    } else if (!document.hidden) {
+      leftTab = false;
+    }
+  });
+
+  // 2️⃣ Block copy / paste / right-click
+  ["copy", "paste", "cut"].forEach(evt =>
+    document.addEventListener(evt, e => {
+      e.preventDefault();
+      issueWarning("Clipboard actions are disabled during the test.");
+    })
+  );
+
+  document.addEventListener("contextmenu", e => {
+    e.preventDefault();
+    issueWarning("Right-click is disabled during the test.");
+  });
+
+  // 3️⃣ Detect dev-tools open (basic)
+  window.addEventListener("keydown", e => {
+    if (
+      e.key === "F12" ||
+      (e.ctrlKey && e.shiftKey && (e.key === "I" || e.key === "J"))
+    ) {
+      e.preventDefault();
+      issueWarning("Developer tools are not allowed.");
+    }
+  });
+
+  // 4️⃣ Optional external-monitor check
+  window.addEventListener("resize", () => {
+    if (window.outerWidth > screen.width + 150) {
+      issueWarning("External display or virtual desktop detected.");
+    }
+  });
+</script>
+
+{% endblock %}

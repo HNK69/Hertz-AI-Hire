@@ -1,0 +1,86 @@
+{% extends "base.html" %}
+{% block title %}Dashboard{% endblock %}
+{% block content %}
+
+<div class="row">
+  <div class="col-md-8">
+    <h3>Dashboard</h3>
+    <p>Current stage: <strong>{{ profile.get_current_stage_display }}</strong></p>
+    <p>Status: <strong>{{ profile.status }}</strong></p>
+
+    {% if profile.violations > 0 %}
+    <div class="alert alert-warning mt-3">
+      ⚠ You have {{ profile.violations }} violation{{ profile.violations|pluralize }}.
+      {% if profile.violations >= 3 %}
+        Your test access has been revoked due to multiple violations.
+      {% else %}
+        {{ remaining_violations }} more and your access will be locked.
+      {% endif %}
+    </div>
+    {% endif %}
+
+    <div class="mb-3">
+      <a class="btn btn-primary" href="{% url 'assess:upload_resume' %}">Upload / Replace Resume</a>
+      <a class="btn btn-secondary" href="{% url 'assess:aptitude_test' %}">Start Aptitude</a>
+      <a class="btn btn-secondary" href="{% url 'assess:coding_test' %}">Start Coding</a>
+      <a class="btn btn-secondary" href="{% url 'assess:tech_interview' %}">Tech Interview</a>
+      <a class="btn btn-secondary" href="{% url 'assess:hr_interview' %}">HR Interview</a>
+    </div>
+
+    <h5>Submissions</h5>
+    <ul class="list-group">
+      {% for s in submissions %}
+        <li class="list-group-item">
+          {{ s.test_type }} — score: {{ s.score }} — {{ s.submitted_at|date:"SHORT_DATETIME_FORMAT" }}
+        </li>
+      {% empty %}
+        <li class="list-group-item">No submissions yet.</li>
+      {% endfor %}
+    </ul>
+  </div>
+
+  <div class="col-md-4">
+    <h5>Quick Links</h5>
+    <ul class="list-group">
+      <li class="list-group-item"><a href="{% url 'assess:wait' %}">Wait / Status</a></li>
+      <li class="list-group-item"><a href="{% url 'assess:rejected' %}">Rejection Report</a></li>
+      <li class="list-group-item"><a href="{% url 'assess:result' %}">Final Result</a></li>
+    </ul>
+  </div>
+</div>
+
+<hr>
+
+<p><strong>Skills Detected:</strong></p>
+{% if profile.skills %}
+  <ul id="skills-list">
+    {% for skill in profile.skills|slice:":4" %}
+      <li>{{ skill }}</li>
+    {% endfor %}
+  </ul>
+
+  {% if profile.skills|length > 4 %}
+    <button id="show-more-btn" class="btn btn-link p-0">
+      +{{ profile.skills|length|add:"-4" }} more
+    </button>
+  {% endif %}
+
+  <script>
+    document.addEventListener("DOMContentLoaded", function() {
+      const btn = document.getElementById("show-more-btn");
+      if (!btn) return;
+
+      const skillsList = document.getElementById("skills-list");
+      const allSkills = {{ profile.skills|safe }};
+
+      btn.addEventListener("click", function() {
+        skillsList.innerHTML = allSkills.map(s => `<li>${s}</li>`).join("");
+        btn.remove();  // remove button after expanding
+      });
+    });
+  </script>
+{% else %}
+  <p class="text-muted">No skills parsed yet.</p>
+{% endif %}
+
+{% endblock %}

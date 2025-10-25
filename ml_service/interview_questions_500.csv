@@ -1,0 +1,3351 @@
+"title","description","starter_code","test_cases","skill_tags","difficulty"
+"Two Sum Variant — DSA #1","Given an array and a target, return indices of two numbers that add to target. Provide optimal time and space complexity.","def solve(nums, target=None):
+    # implement and return result
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""2 7 11 15|9"", ""output"": ""0 1""}, {""input"": ""3 2 4|6"", ""output"": ""1 2""}, {""input"": ""-1 0 1|0"", ""output"": """"}]","python,dsa,algorithms,logic","easy"
+"Reverse Linked List — DSA #2","Reverse a singly linked list and return the head of the reversed list. Provide optimal time and space complexity.","def solve(nums, target=None):
+    # implement and return result
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""1->2->3->4->5"", ""output"": ""5->4->3->2->1""}, {""input"": ""1->2"", ""output"": ""2->1""}, {""input"": """", ""output"": """"}]","python,dsa,algorithms,logic","medium"
+"Detect Cycle in Linked List — DSA #3","Given head of a linked list, return true if there is a cycle. Provide optimal time and space complexity.","def solve(nums, target=None):
+    # implement and return result
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""1->2->3->4->2"", ""output"": ""true""}, {""input"": ""1->2->3->4"", ""output"": ""false""}]","python,dsa,algorithms,logic","medium"
+"Merge Two Sorted Lists — DSA #4","Merge two sorted linked lists into one sorted list. Provide optimal time and space complexity.","def solve(nums, target=None):
+    # implement and return result
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""1,2,4|1,3,4"", ""output"": ""1,1,2,3,4,4""}]","python,dsa,algorithms,logic","easy"
+"Binary Search — DSA #5","Implement binary search to find target index in sorted array or -1 if not present. Provide optimal time and space complexity.","def solve(nums, target=None):
+    # implement and return result
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""1 2 3 4 5|3"", ""output"": ""2""}, {""input"": ""1 3 5 7|2"", ""output"": ""-1""}]","python,dsa,algorithms,logic","medium"
+"Kth Smallest Element — DSA #6","Return the k-th smallest element in an unsorted array. Provide optimal time and space complexity.","def solve(nums, target=None):
+    # implement and return result
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""3 2 1 5 6|2"", ""output"": ""3""}]","python,dsa,algorithms,logic","medium"
+"Valid Parentheses — DSA #7","Check if the parentheses string is valid. Provide optimal time and space complexity.","def solve(nums, target=None):
+    # implement and return result
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""()"", ""output"": ""true""}, {""input"": ""()[]{}"", ""output"": ""true""}, {""input"": ""(]"", ""output"": ""false""}]","python,dsa,algorithms,logic","hard"
+"Longest Increasing Subsequence — DSA #8","Return length of LIS in an integer array. Provide optimal time and space complexity.","def solve(nums, target=None):
+    # implement and return result
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""10 9 2 5 3 7 101 18"", ""output"": ""4""}]","python,dsa,algorithms,logic","easy"
+"Top K Frequent Elements — DSA #9","Return the k most frequent elements from an array. Provide optimal time and space complexity.","def solve(nums, target=None):
+    # implement and return result
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""1 1 1 2 2 3|2"", ""output"": ""1 2""}]","python,dsa,algorithms,logic","easy"
+"Rotate Array — DSA #10","Rotate an array to the right by k steps. Provide optimal time and space complexity.","def solve(nums, target=None):
+    # implement and return result
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""1 2 3 4 5|2"", ""output"": ""4 5 1 2 3""}]","python,dsa,algorithms,logic","easy"
+"Two Sum Variant — DSA #11","Given an array and a target, return indices of two numbers that add to target. Provide optimal time and space complexity.","def solve(nums, target=None):
+    # implement and return result
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""2 7 11 15|9"", ""output"": ""0 1""}, {""input"": ""3 2 4|6"", ""output"": ""1 2""}, {""input"": ""-1 0 1|0"", ""output"": """"}]","python,dsa,algorithms,logic","medium"
+"Reverse Linked List — DSA #12","Reverse a singly linked list and return the head of the reversed list. Provide optimal time and space complexity.","def solve(nums, target=None):
+    # implement and return result
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""1->2->3->4->5"", ""output"": ""5->4->3->2->1""}, {""input"": ""1->2"", ""output"": ""2->1""}, {""input"": """", ""output"": """"}]","python,dsa,algorithms,logic","easy"
+"Detect Cycle in Linked List — DSA #13","Given head of a linked list, return true if there is a cycle. Provide optimal time and space complexity.","def solve(nums, target=None):
+    # implement and return result
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""1->2->3->4->2"", ""output"": ""true""}, {""input"": ""1->2->3->4"", ""output"": ""false""}]","python,dsa,algorithms,logic","easy"
+"Merge Two Sorted Lists — DSA #14","Merge two sorted linked lists into one sorted list. Provide optimal time and space complexity.","def solve(nums, target=None):
+    # implement and return result
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""1,2,4|1,3,4"", ""output"": ""1,1,2,3,4,4""}]","python,dsa,algorithms,logic","medium"
+"Binary Search — DSA #15","Implement binary search to find target index in sorted array or -1 if not present. Provide optimal time and space complexity.","def solve(nums, target=None):
+    # implement and return result
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""1 2 3 4 5|3"", ""output"": ""2""}, {""input"": ""1 3 5 7|2"", ""output"": ""-1""}]","python,dsa,algorithms,logic","easy"
+"Kth Smallest Element — DSA #16","Return the k-th smallest element in an unsorted array. Provide optimal time and space complexity.","def solve(nums, target=None):
+    # implement and return result
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""3 2 1 5 6|2"", ""output"": ""3""}]","python,dsa,algorithms,logic","medium"
+"Valid Parentheses — DSA #17","Check if the parentheses string is valid. Provide optimal time and space complexity.","def solve(nums, target=None):
+    # implement and return result
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""()"", ""output"": ""true""}, {""input"": ""()[]{}"", ""output"": ""true""}, {""input"": ""(]"", ""output"": ""false""}]","python,dsa,algorithms,logic","easy"
+"Longest Increasing Subsequence — DSA #18","Return length of LIS in an integer array. Provide optimal time and space complexity.","def solve(nums, target=None):
+    # implement and return result
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""10 9 2 5 3 7 101 18"", ""output"": ""4""}]","python,dsa,algorithms,logic","medium"
+"Top K Frequent Elements — DSA #19","Return the k most frequent elements from an array. Provide optimal time and space complexity.","def solve(nums, target=None):
+    # implement and return result
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""1 1 1 2 2 3|2"", ""output"": ""1 2""}]","python,dsa,algorithms,logic","medium"
+"Rotate Array — DSA #20","Rotate an array to the right by k steps. Provide optimal time and space complexity.","def solve(nums, target=None):
+    # implement and return result
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""1 2 3 4 5|2"", ""output"": ""4 5 1 2 3""}]","python,dsa,algorithms,logic","medium"
+"Two Sum Variant — DSA #21","Given an array and a target, return indices of two numbers that add to target. Provide optimal time and space complexity.","def solve(nums, target=None):
+    # implement and return result
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""2 7 11 15|9"", ""output"": ""0 1""}, {""input"": ""3 2 4|6"", ""output"": ""1 2""}, {""input"": ""-1 0 1|0"", ""output"": """"}]","python,dsa,algorithms,logic","medium"
+"Reverse Linked List — DSA #22","Reverse a singly linked list and return the head of the reversed list. Provide optimal time and space complexity.","def solve(nums, target=None):
+    # implement and return result
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""1->2->3->4->5"", ""output"": ""5->4->3->2->1""}, {""input"": ""1->2"", ""output"": ""2->1""}, {""input"": """", ""output"": """"}]","python,dsa,algorithms,logic","easy"
+"Detect Cycle in Linked List — DSA #23","Given head of a linked list, return true if there is a cycle. Provide optimal time and space complexity.","def solve(nums, target=None):
+    # implement and return result
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""1->2->3->4->2"", ""output"": ""true""}, {""input"": ""1->2->3->4"", ""output"": ""false""}]","python,dsa,algorithms,logic","easy"
+"Merge Two Sorted Lists — DSA #24","Merge two sorted linked lists into one sorted list. Provide optimal time and space complexity.","def solve(nums, target=None):
+    # implement and return result
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""1,2,4|1,3,4"", ""output"": ""1,1,2,3,4,4""}]","python,dsa,algorithms,logic","medium"
+"Binary Search — DSA #25","Implement binary search to find target index in sorted array or -1 if not present. Provide optimal time and space complexity.","def solve(nums, target=None):
+    # implement and return result
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""1 2 3 4 5|3"", ""output"": ""2""}, {""input"": ""1 3 5 7|2"", ""output"": ""-1""}]","python,dsa,algorithms,logic","medium"
+"Kth Smallest Element — DSA #26","Return the k-th smallest element in an unsorted array. Provide optimal time and space complexity.","def solve(nums, target=None):
+    # implement and return result
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""3 2 1 5 6|2"", ""output"": ""3""}]","python,dsa,algorithms,logic","easy"
+"Valid Parentheses — DSA #27","Check if the parentheses string is valid. Provide optimal time and space complexity.","def solve(nums, target=None):
+    # implement and return result
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""()"", ""output"": ""true""}, {""input"": ""()[]{}"", ""output"": ""true""}, {""input"": ""(]"", ""output"": ""false""}]","python,dsa,algorithms,logic","easy"
+"Longest Increasing Subsequence — DSA #28","Return length of LIS in an integer array. Provide optimal time and space complexity.","def solve(nums, target=None):
+    # implement and return result
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""10 9 2 5 3 7 101 18"", ""output"": ""4""}]","python,dsa,algorithms,logic","hard"
+"Top K Frequent Elements — DSA #29","Return the k most frequent elements from an array. Provide optimal time and space complexity.","def solve(nums, target=None):
+    # implement and return result
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""1 1 1 2 2 3|2"", ""output"": ""1 2""}]","python,dsa,algorithms,logic","hard"
+"Rotate Array — DSA #30","Rotate an array to the right by k steps. Provide optimal time and space complexity.","def solve(nums, target=None):
+    # implement and return result
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""1 2 3 4 5|2"", ""output"": ""4 5 1 2 3""}]","python,dsa,algorithms,logic","easy"
+"Two Sum Variant — DSA #31","Given an array and a target, return indices of two numbers that add to target. Provide optimal time and space complexity.","def solve(nums, target=None):
+    # implement and return result
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""2 7 11 15|9"", ""output"": ""0 1""}, {""input"": ""3 2 4|6"", ""output"": ""1 2""}, {""input"": ""-1 0 1|0"", ""output"": """"}]","python,dsa,algorithms,logic","medium"
+"Reverse Linked List — DSA #32","Reverse a singly linked list and return the head of the reversed list. Provide optimal time and space complexity.","def solve(nums, target=None):
+    # implement and return result
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""1->2->3->4->5"", ""output"": ""5->4->3->2->1""}, {""input"": ""1->2"", ""output"": ""2->1""}, {""input"": """", ""output"": """"}]","python,dsa,algorithms,logic","medium"
+"Detect Cycle in Linked List — DSA #33","Given head of a linked list, return true if there is a cycle. Provide optimal time and space complexity.","def solve(nums, target=None):
+    # implement and return result
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""1->2->3->4->2"", ""output"": ""true""}, {""input"": ""1->2->3->4"", ""output"": ""false""}]","python,dsa,algorithms,logic","hard"
+"Merge Two Sorted Lists — DSA #34","Merge two sorted linked lists into one sorted list. Provide optimal time and space complexity.","def solve(nums, target=None):
+    # implement and return result
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""1,2,4|1,3,4"", ""output"": ""1,1,2,3,4,4""}]","python,dsa,algorithms,logic","medium"
+"Binary Search — DSA #35","Implement binary search to find target index in sorted array or -1 if not present. Provide optimal time and space complexity.","def solve(nums, target=None):
+    # implement and return result
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""1 2 3 4 5|3"", ""output"": ""2""}, {""input"": ""1 3 5 7|2"", ""output"": ""-1""}]","python,dsa,algorithms,logic","medium"
+"Kth Smallest Element — DSA #36","Return the k-th smallest element in an unsorted array. Provide optimal time and space complexity.","def solve(nums, target=None):
+    # implement and return result
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""3 2 1 5 6|2"", ""output"": ""3""}]","python,dsa,algorithms,logic","easy"
+"Valid Parentheses — DSA #37","Check if the parentheses string is valid. Provide optimal time and space complexity.","def solve(nums, target=None):
+    # implement and return result
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""()"", ""output"": ""true""}, {""input"": ""()[]{}"", ""output"": ""true""}, {""input"": ""(]"", ""output"": ""false""}]","python,dsa,algorithms,logic","easy"
+"Longest Increasing Subsequence — DSA #38","Return length of LIS in an integer array. Provide optimal time and space complexity.","def solve(nums, target=None):
+    # implement and return result
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""10 9 2 5 3 7 101 18"", ""output"": ""4""}]","python,dsa,algorithms,logic","easy"
+"Top K Frequent Elements — DSA #39","Return the k most frequent elements from an array. Provide optimal time and space complexity.","def solve(nums, target=None):
+    # implement and return result
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""1 1 1 2 2 3|2"", ""output"": ""1 2""}]","python,dsa,algorithms,logic","medium"
+"Rotate Array — DSA #40","Rotate an array to the right by k steps. Provide optimal time and space complexity.","def solve(nums, target=None):
+    # implement and return result
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""1 2 3 4 5|2"", ""output"": ""4 5 1 2 3""}]","python,dsa,algorithms,logic","hard"
+"Two Sum Variant — DSA #41","Given an array and a target, return indices of two numbers that add to target. Provide optimal time and space complexity.","def solve(nums, target=None):
+    # implement and return result
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""2 7 11 15|9"", ""output"": ""0 1""}, {""input"": ""3 2 4|6"", ""output"": ""1 2""}, {""input"": ""-1 0 1|0"", ""output"": """"}]","python,dsa,algorithms,logic","medium"
+"Reverse Linked List — DSA #42","Reverse a singly linked list and return the head of the reversed list. Provide optimal time and space complexity.","def solve(nums, target=None):
+    # implement and return result
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""1->2->3->4->5"", ""output"": ""5->4->3->2->1""}, {""input"": ""1->2"", ""output"": ""2->1""}, {""input"": """", ""output"": """"}]","python,dsa,algorithms,logic","medium"
+"Detect Cycle in Linked List — DSA #43","Given head of a linked list, return true if there is a cycle. Provide optimal time and space complexity.","def solve(nums, target=None):
+    # implement and return result
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""1->2->3->4->2"", ""output"": ""true""}, {""input"": ""1->2->3->4"", ""output"": ""false""}]","python,dsa,algorithms,logic","easy"
+"Merge Two Sorted Lists — DSA #44","Merge two sorted linked lists into one sorted list. Provide optimal time and space complexity.","def solve(nums, target=None):
+    # implement and return result
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""1,2,4|1,3,4"", ""output"": ""1,1,2,3,4,4""}]","python,dsa,algorithms,logic","medium"
+"Binary Search — DSA #45","Implement binary search to find target index in sorted array or -1 if not present. Provide optimal time and space complexity.","def solve(nums, target=None):
+    # implement and return result
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""1 2 3 4 5|3"", ""output"": ""2""}, {""input"": ""1 3 5 7|2"", ""output"": ""-1""}]","python,dsa,algorithms,logic","medium"
+"Kth Smallest Element — DSA #46","Return the k-th smallest element in an unsorted array. Provide optimal time and space complexity.","def solve(nums, target=None):
+    # implement and return result
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""3 2 1 5 6|2"", ""output"": ""3""}]","python,dsa,algorithms,logic","easy"
+"Valid Parentheses — DSA #47","Check if the parentheses string is valid. Provide optimal time and space complexity.","def solve(nums, target=None):
+    # implement and return result
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""()"", ""output"": ""true""}, {""input"": ""()[]{}"", ""output"": ""true""}, {""input"": ""(]"", ""output"": ""false""}]","python,dsa,algorithms,logic","easy"
+"Longest Increasing Subsequence — DSA #48","Return length of LIS in an integer array. Provide optimal time and space complexity.","def solve(nums, target=None):
+    # implement and return result
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""10 9 2 5 3 7 101 18"", ""output"": ""4""}]","python,dsa,algorithms,logic","medium"
+"Top K Frequent Elements — DSA #49","Return the k most frequent elements from an array. Provide optimal time and space complexity.","def solve(nums, target=None):
+    # implement and return result
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""1 1 1 2 2 3|2"", ""output"": ""1 2""}]","python,dsa,algorithms,logic","easy"
+"Rotate Array — DSA #50","Rotate an array to the right by k steps. Provide optimal time and space complexity.","def solve(nums, target=None):
+    # implement and return result
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""1 2 3 4 5|2"", ""output"": ""4 5 1 2 3""}]","python,dsa,algorithms,logic","hard"
+"Two Sum Variant — DSA #51","Given an array and a target, return indices of two numbers that add to target. Provide optimal time and space complexity.","def solve(nums, target=None):
+    # implement and return result
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""2 7 11 15|9"", ""output"": ""0 1""}, {""input"": ""3 2 4|6"", ""output"": ""1 2""}, {""input"": ""-1 0 1|0"", ""output"": """"}]","python,dsa,algorithms,logic","medium"
+"Reverse Linked List — DSA #52","Reverse a singly linked list and return the head of the reversed list. Provide optimal time and space complexity.","def solve(nums, target=None):
+    # implement and return result
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""1->2->3->4->5"", ""output"": ""5->4->3->2->1""}, {""input"": ""1->2"", ""output"": ""2->1""}, {""input"": """", ""output"": """"}]","python,dsa,algorithms,logic","easy"
+"Detect Cycle in Linked List — DSA #53","Given head of a linked list, return true if there is a cycle. Provide optimal time and space complexity.","def solve(nums, target=None):
+    # implement and return result
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""1->2->3->4->2"", ""output"": ""true""}, {""input"": ""1->2->3->4"", ""output"": ""false""}]","python,dsa,algorithms,logic","medium"
+"Merge Two Sorted Lists — DSA #54","Merge two sorted linked lists into one sorted list. Provide optimal time and space complexity.","def solve(nums, target=None):
+    # implement and return result
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""1,2,4|1,3,4"", ""output"": ""1,1,2,3,4,4""}]","python,dsa,algorithms,logic","hard"
+"Binary Search — DSA #55","Implement binary search to find target index in sorted array or -1 if not present. Provide optimal time and space complexity.","def solve(nums, target=None):
+    # implement and return result
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""1 2 3 4 5|3"", ""output"": ""2""}, {""input"": ""1 3 5 7|2"", ""output"": ""-1""}]","python,dsa,algorithms,logic","easy"
+"Kth Smallest Element — DSA #56","Return the k-th smallest element in an unsorted array. Provide optimal time and space complexity.","def solve(nums, target=None):
+    # implement and return result
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""3 2 1 5 6|2"", ""output"": ""3""}]","python,dsa,algorithms,logic","medium"
+"Valid Parentheses — DSA #57","Check if the parentheses string is valid. Provide optimal time and space complexity.","def solve(nums, target=None):
+    # implement and return result
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""()"", ""output"": ""true""}, {""input"": ""()[]{}"", ""output"": ""true""}, {""input"": ""(]"", ""output"": ""false""}]","python,dsa,algorithms,logic","medium"
+"Longest Increasing Subsequence — DSA #58","Return length of LIS in an integer array. Provide optimal time and space complexity.","def solve(nums, target=None):
+    # implement and return result
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""10 9 2 5 3 7 101 18"", ""output"": ""4""}]","python,dsa,algorithms,logic","medium"
+"Top K Frequent Elements — DSA #59","Return the k most frequent elements from an array. Provide optimal time and space complexity.","def solve(nums, target=None):
+    # implement and return result
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""1 1 1 2 2 3|2"", ""output"": ""1 2""}]","python,dsa,algorithms,logic","medium"
+"Rotate Array — DSA #60","Rotate an array to the right by k steps. Provide optimal time and space complexity.","def solve(nums, target=None):
+    # implement and return result
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""1 2 3 4 5|2"", ""output"": ""4 5 1 2 3""}]","python,dsa,algorithms,logic","medium"
+"Two Sum Variant — DSA #61","Given an array and a target, return indices of two numbers that add to target. Provide optimal time and space complexity.","def solve(nums, target=None):
+    # implement and return result
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""2 7 11 15|9"", ""output"": ""0 1""}, {""input"": ""3 2 4|6"", ""output"": ""1 2""}, {""input"": ""-1 0 1|0"", ""output"": """"}]","python,dsa,algorithms,logic","medium"
+"Reverse Linked List — DSA #62","Reverse a singly linked list and return the head of the reversed list. Provide optimal time and space complexity.","def solve(nums, target=None):
+    # implement and return result
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""1->2->3->4->5"", ""output"": ""5->4->3->2->1""}, {""input"": ""1->2"", ""output"": ""2->1""}, {""input"": """", ""output"": """"}]","python,dsa,algorithms,logic","medium"
+"Detect Cycle in Linked List — DSA #63","Given head of a linked list, return true if there is a cycle. Provide optimal time and space complexity.","def solve(nums, target=None):
+    # implement and return result
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""1->2->3->4->2"", ""output"": ""true""}, {""input"": ""1->2->3->4"", ""output"": ""false""}]","python,dsa,algorithms,logic","hard"
+"Merge Two Sorted Lists — DSA #64","Merge two sorted linked lists into one sorted list. Provide optimal time and space complexity.","def solve(nums, target=None):
+    # implement and return result
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""1,2,4|1,3,4"", ""output"": ""1,1,2,3,4,4""}]","python,dsa,algorithms,logic","easy"
+"Binary Search — DSA #65","Implement binary search to find target index in sorted array or -1 if not present. Provide optimal time and space complexity.","def solve(nums, target=None):
+    # implement and return result
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""1 2 3 4 5|3"", ""output"": ""2""}, {""input"": ""1 3 5 7|2"", ""output"": ""-1""}]","python,dsa,algorithms,logic","easy"
+"Kth Smallest Element — DSA #66","Return the k-th smallest element in an unsorted array. Provide optimal time and space complexity.","def solve(nums, target=None):
+    # implement and return result
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""3 2 1 5 6|2"", ""output"": ""3""}]","python,dsa,algorithms,logic","medium"
+"Valid Parentheses — DSA #67","Check if the parentheses string is valid. Provide optimal time and space complexity.","def solve(nums, target=None):
+    # implement and return result
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""()"", ""output"": ""true""}, {""input"": ""()[]{}"", ""output"": ""true""}, {""input"": ""(]"", ""output"": ""false""}]","python,dsa,algorithms,logic","easy"
+"Longest Increasing Subsequence — DSA #68","Return length of LIS in an integer array. Provide optimal time and space complexity.","def solve(nums, target=None):
+    # implement and return result
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""10 9 2 5 3 7 101 18"", ""output"": ""4""}]","python,dsa,algorithms,logic","easy"
+"Top K Frequent Elements — DSA #69","Return the k most frequent elements from an array. Provide optimal time and space complexity.","def solve(nums, target=None):
+    # implement and return result
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""1 1 1 2 2 3|2"", ""output"": ""1 2""}]","python,dsa,algorithms,logic","easy"
+"Rotate Array — DSA #70","Rotate an array to the right by k steps. Provide optimal time and space complexity.","def solve(nums, target=None):
+    # implement and return result
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""1 2 3 4 5|2"", ""output"": ""4 5 1 2 3""}]","python,dsa,algorithms,logic","easy"
+"Two Sum Variant — DSA #71","Given an array and a target, return indices of two numbers that add to target. Provide optimal time and space complexity.","def solve(nums, target=None):
+    # implement and return result
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""2 7 11 15|9"", ""output"": ""0 1""}, {""input"": ""3 2 4|6"", ""output"": ""1 2""}, {""input"": ""-1 0 1|0"", ""output"": """"}]","python,dsa,algorithms,logic","easy"
+"Reverse Linked List — DSA #72","Reverse a singly linked list and return the head of the reversed list. Provide optimal time and space complexity.","def solve(nums, target=None):
+    # implement and return result
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""1->2->3->4->5"", ""output"": ""5->4->3->2->1""}, {""input"": ""1->2"", ""output"": ""2->1""}, {""input"": """", ""output"": """"}]","python,dsa,algorithms,logic","hard"
+"Detect Cycle in Linked List — DSA #73","Given head of a linked list, return true if there is a cycle. Provide optimal time and space complexity.","def solve(nums, target=None):
+    # implement and return result
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""1->2->3->4->2"", ""output"": ""true""}, {""input"": ""1->2->3->4"", ""output"": ""false""}]","python,dsa,algorithms,logic","medium"
+"Merge Two Sorted Lists — DSA #74","Merge two sorted linked lists into one sorted list. Provide optimal time and space complexity.","def solve(nums, target=None):
+    # implement and return result
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""1,2,4|1,3,4"", ""output"": ""1,1,2,3,4,4""}]","python,dsa,algorithms,logic","medium"
+"Binary Search — DSA #75","Implement binary search to find target index in sorted array or -1 if not present. Provide optimal time and space complexity.","def solve(nums, target=None):
+    # implement and return result
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""1 2 3 4 5|3"", ""output"": ""2""}, {""input"": ""1 3 5 7|2"", ""output"": ""-1""}]","python,dsa,algorithms,logic","easy"
+"Kth Smallest Element — DSA #76","Return the k-th smallest element in an unsorted array. Provide optimal time and space complexity.","def solve(nums, target=None):
+    # implement and return result
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""3 2 1 5 6|2"", ""output"": ""3""}]","python,dsa,algorithms,logic","medium"
+"Valid Parentheses — DSA #77","Check if the parentheses string is valid. Provide optimal time and space complexity.","def solve(nums, target=None):
+    # implement and return result
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""()"", ""output"": ""true""}, {""input"": ""()[]{}"", ""output"": ""true""}, {""input"": ""(]"", ""output"": ""false""}]","python,dsa,algorithms,logic","medium"
+"Longest Increasing Subsequence — DSA #78","Return length of LIS in an integer array. Provide optimal time and space complexity.","def solve(nums, target=None):
+    # implement and return result
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""10 9 2 5 3 7 101 18"", ""output"": ""4""}]","python,dsa,algorithms,logic","medium"
+"Top K Frequent Elements — DSA #79","Return the k most frequent elements from an array. Provide optimal time and space complexity.","def solve(nums, target=None):
+    # implement and return result
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""1 1 1 2 2 3|2"", ""output"": ""1 2""}]","python,dsa,algorithms,logic","easy"
+"Rotate Array — DSA #80","Rotate an array to the right by k steps. Provide optimal time and space complexity.","def solve(nums, target=None):
+    # implement and return result
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""1 2 3 4 5|2"", ""output"": ""4 5 1 2 3""}]","python,dsa,algorithms,logic","easy"
+"Two Sum Variant — DSA #81","Given an array and a target, return indices of two numbers that add to target. Provide optimal time and space complexity.","def solve(nums, target=None):
+    # implement and return result
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""2 7 11 15|9"", ""output"": ""0 1""}, {""input"": ""3 2 4|6"", ""output"": ""1 2""}, {""input"": ""-1 0 1|0"", ""output"": """"}]","python,dsa,algorithms,logic","medium"
+"Reverse Linked List — DSA #82","Reverse a singly linked list and return the head of the reversed list. Provide optimal time and space complexity.","def solve(nums, target=None):
+    # implement and return result
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""1->2->3->4->5"", ""output"": ""5->4->3->2->1""}, {""input"": ""1->2"", ""output"": ""2->1""}, {""input"": """", ""output"": """"}]","python,dsa,algorithms,logic","easy"
+"Detect Cycle in Linked List — DSA #83","Given head of a linked list, return true if there is a cycle. Provide optimal time and space complexity.","def solve(nums, target=None):
+    # implement and return result
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""1->2->3->4->2"", ""output"": ""true""}, {""input"": ""1->2->3->4"", ""output"": ""false""}]","python,dsa,algorithms,logic","easy"
+"Merge Two Sorted Lists — DSA #84","Merge two sorted linked lists into one sorted list. Provide optimal time and space complexity.","def solve(nums, target=None):
+    # implement and return result
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""1,2,4|1,3,4"", ""output"": ""1,1,2,3,4,4""}]","python,dsa,algorithms,logic","medium"
+"Binary Search — DSA #85","Implement binary search to find target index in sorted array or -1 if not present. Provide optimal time and space complexity.","def solve(nums, target=None):
+    # implement and return result
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""1 2 3 4 5|3"", ""output"": ""2""}, {""input"": ""1 3 5 7|2"", ""output"": ""-1""}]","python,dsa,algorithms,logic","medium"
+"Kth Smallest Element — DSA #86","Return the k-th smallest element in an unsorted array. Provide optimal time and space complexity.","def solve(nums, target=None):
+    # implement and return result
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""3 2 1 5 6|2"", ""output"": ""3""}]","python,dsa,algorithms,logic","medium"
+"Valid Parentheses — DSA #87","Check if the parentheses string is valid. Provide optimal time and space complexity.","def solve(nums, target=None):
+    # implement and return result
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""()"", ""output"": ""true""}, {""input"": ""()[]{}"", ""output"": ""true""}, {""input"": ""(]"", ""output"": ""false""}]","python,dsa,algorithms,logic","easy"
+"Longest Increasing Subsequence — DSA #88","Return length of LIS in an integer array. Provide optimal time and space complexity.","def solve(nums, target=None):
+    # implement and return result
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""10 9 2 5 3 7 101 18"", ""output"": ""4""}]","python,dsa,algorithms,logic","easy"
+"Top K Frequent Elements — DSA #89","Return the k most frequent elements from an array. Provide optimal time and space complexity.","def solve(nums, target=None):
+    # implement and return result
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""1 1 1 2 2 3|2"", ""output"": ""1 2""}]","python,dsa,algorithms,logic","hard"
+"Rotate Array — DSA #90","Rotate an array to the right by k steps. Provide optimal time and space complexity.","def solve(nums, target=None):
+    # implement and return result
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""1 2 3 4 5|2"", ""output"": ""4 5 1 2 3""}]","python,dsa,algorithms,logic","medium"
+"Two Sum Variant — DSA #91","Given an array and a target, return indices of two numbers that add to target. Provide optimal time and space complexity.","def solve(nums, target=None):
+    # implement and return result
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""2 7 11 15|9"", ""output"": ""0 1""}, {""input"": ""3 2 4|6"", ""output"": ""1 2""}, {""input"": ""-1 0 1|0"", ""output"": """"}]","python,dsa,algorithms,logic","hard"
+"Reverse Linked List — DSA #92","Reverse a singly linked list and return the head of the reversed list. Provide optimal time and space complexity.","def solve(nums, target=None):
+    # implement and return result
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""1->2->3->4->5"", ""output"": ""5->4->3->2->1""}, {""input"": ""1->2"", ""output"": ""2->1""}, {""input"": """", ""output"": """"}]","python,dsa,algorithms,logic","medium"
+"Detect Cycle in Linked List — DSA #93","Given head of a linked list, return true if there is a cycle. Provide optimal time and space complexity.","def solve(nums, target=None):
+    # implement and return result
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""1->2->3->4->2"", ""output"": ""true""}, {""input"": ""1->2->3->4"", ""output"": ""false""}]","python,dsa,algorithms,logic","easy"
+"Merge Two Sorted Lists — DSA #94","Merge two sorted linked lists into one sorted list. Provide optimal time and space complexity.","def solve(nums, target=None):
+    # implement and return result
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""1,2,4|1,3,4"", ""output"": ""1,1,2,3,4,4""}]","python,dsa,algorithms,logic","medium"
+"Binary Search — DSA #95","Implement binary search to find target index in sorted array or -1 if not present. Provide optimal time and space complexity.","def solve(nums, target=None):
+    # implement and return result
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""1 2 3 4 5|3"", ""output"": ""2""}, {""input"": ""1 3 5 7|2"", ""output"": ""-1""}]","python,dsa,algorithms,logic","easy"
+"Kth Smallest Element — DSA #96","Return the k-th smallest element in an unsorted array. Provide optimal time and space complexity.","def solve(nums, target=None):
+    # implement and return result
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""3 2 1 5 6|2"", ""output"": ""3""}]","python,dsa,algorithms,logic","easy"
+"Valid Parentheses — DSA #97","Check if the parentheses string is valid. Provide optimal time and space complexity.","def solve(nums, target=None):
+    # implement and return result
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""()"", ""output"": ""true""}, {""input"": ""()[]{}"", ""output"": ""true""}, {""input"": ""(]"", ""output"": ""false""}]","python,dsa,algorithms,logic","medium"
+"Longest Increasing Subsequence — DSA #98","Return length of LIS in an integer array. Provide optimal time and space complexity.","def solve(nums, target=None):
+    # implement and return result
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""10 9 2 5 3 7 101 18"", ""output"": ""4""}]","python,dsa,algorithms,logic","medium"
+"Top K Frequent Elements — DSA #99","Return the k most frequent elements from an array. Provide optimal time and space complexity.","def solve(nums, target=None):
+    # implement and return result
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""1 1 1 2 2 3|2"", ""output"": ""1 2""}]","python,dsa,algorithms,logic","easy"
+"Rotate Array — DSA #100","Rotate an array to the right by k steps. Provide optimal time and space complexity.","def solve(nums, target=None):
+    # implement and return result
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""1 2 3 4 5|2"", ""output"": ""4 5 1 2 3""}]","python,dsa,algorithms,logic","easy"
+"String Anagram Groups — Python #1","Group anagrams from a list of strings. Aim for idiomatic Python solutions and tests.","def solve(*args, **kwargs):
+    # write your Python implementation here
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""eat,tea,tan,ate,nat,bat"", ""output"": ""[ [\""eat\"",\""tea\"",\""ate\""], [\""tan\"",\""nat\""], [\""bat\""] ]""}]","python,oop,modules,threads,regex","hard"
+"LRU Cache — Python #2","Implement an LRU Cache with get and put operations. Aim for idiomatic Python solutions and tests.","def solve(*args, **kwargs):
+    # write your Python implementation here
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""2|get(1),put(1,1),put(2,2),get(1),put(3,3),get(2)"", ""output"": ""1,-1, -1""}]","python,oop,modules,threads,regex","medium"
+"Serialize/Deserialize Binary Tree — Python #3","Serialize and deserialize a binary tree. Aim for idiomatic Python solutions and tests.","def solve(*args, **kwargs):
+    # write your Python implementation here
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""1 2 3 null null 4 5"", ""output"": ""1 2 3 4 5""}]","python,oop,modules,threads,regex","easy"
+"Decorator Usage — Python #4","Write a timing decorator that measures function runtime. Aim for idiomatic Python solutions and tests.","def solve(*args, **kwargs):
+    # write your Python implementation here
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""sleep 0.01"", ""output"": ""~0.01""}]","python,oop,modules,threads,regex","hard"
+"Context Manager — Python #5","Create a context manager that times a code block. Aim for idiomatic Python solutions and tests.","def solve(*args, **kwargs):
+    # write your Python implementation here
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""simple block"", ""output"": ""timed""}]","python,oop,modules,threads,regex","easy"
+"CSV Parser — Python #6","Parse a CSV and return rows as lists handling quotes and escapes. Aim for idiomatic Python solutions and tests.","def solve(*args, **kwargs):
+    # write your Python implementation here
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""a,b,\""c, d\"",e"", ""output"": ""[a,b,c d,e]""}]","python,oop,modules,threads,regex","easy"
+"Data Class Usage — Python #7","Use dataclasses to model and manipulate records. Aim for idiomatic Python solutions and tests.","def solve(*args, **kwargs):
+    # write your Python implementation here
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""John,30"", ""output"": ""{\""name\"":\""John\"",\""age\"":30}""}]","python,oop,modules,threads,regex","easy"
+"Iterator Implementation — Python #8","Implement a custom iterator for a nested list. Aim for idiomatic Python solutions and tests.","def solve(*args, **kwargs):
+    # write your Python implementation here
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""[1,[2,3],4]"", ""output"": ""[1,2,3,4]""}]","python,oop,modules,threads,regex","easy"
+"Thread-safe Counter — Python #9","Implement a thread-safe counter using locks. Aim for idiomatic Python solutions and tests.","def solve(*args, **kwargs):
+    # write your Python implementation here
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""calls in parallel"", ""output"": ""counter==n""}]","python,oop,modules,threads,regex","hard"
+"Regex Extractor — Python #10","Extract dates from text using regex and return sorted unique list. Aim for idiomatic Python solutions and tests.","def solve(*args, **kwargs):
+    # write your Python implementation here
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""On 2021-05-01 and 2020/12/31"", ""output"": ""[2020/12/31,2021-05-01]""}]","python,oop,modules,threads,regex","medium"
+"String Anagram Groups — Python #11","Group anagrams from a list of strings. Aim for idiomatic Python solutions and tests.","def solve(*args, **kwargs):
+    # write your Python implementation here
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""eat,tea,tan,ate,nat,bat"", ""output"": ""[ [\""eat\"",\""tea\"",\""ate\""], [\""tan\"",\""nat\""], [\""bat\""] ]""}]","python,oop,modules,threads,regex","medium"
+"LRU Cache — Python #12","Implement an LRU Cache with get and put operations. Aim for idiomatic Python solutions and tests.","def solve(*args, **kwargs):
+    # write your Python implementation here
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""2|get(1),put(1,1),put(2,2),get(1),put(3,3),get(2)"", ""output"": ""1,-1, -1""}]","python,oop,modules,threads,regex","hard"
+"Serialize/Deserialize Binary Tree — Python #13","Serialize and deserialize a binary tree. Aim for idiomatic Python solutions and tests.","def solve(*args, **kwargs):
+    # write your Python implementation here
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""1 2 3 null null 4 5"", ""output"": ""1 2 3 4 5""}]","python,oop,modules,threads,regex","hard"
+"Decorator Usage — Python #14","Write a timing decorator that measures function runtime. Aim for idiomatic Python solutions and tests.","def solve(*args, **kwargs):
+    # write your Python implementation here
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""sleep 0.01"", ""output"": ""~0.01""}]","python,oop,modules,threads,regex","easy"
+"Context Manager — Python #15","Create a context manager that times a code block. Aim for idiomatic Python solutions and tests.","def solve(*args, **kwargs):
+    # write your Python implementation here
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""simple block"", ""output"": ""timed""}]","python,oop,modules,threads,regex","medium"
+"CSV Parser — Python #16","Parse a CSV and return rows as lists handling quotes and escapes. Aim for idiomatic Python solutions and tests.","def solve(*args, **kwargs):
+    # write your Python implementation here
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""a,b,\""c, d\"",e"", ""output"": ""[a,b,c d,e]""}]","python,oop,modules,threads,regex","medium"
+"Data Class Usage — Python #17","Use dataclasses to model and manipulate records. Aim for idiomatic Python solutions and tests.","def solve(*args, **kwargs):
+    # write your Python implementation here
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""John,30"", ""output"": ""{\""name\"":\""John\"",\""age\"":30}""}]","python,oop,modules,threads,regex","easy"
+"Iterator Implementation — Python #18","Implement a custom iterator for a nested list. Aim for idiomatic Python solutions and tests.","def solve(*args, **kwargs):
+    # write your Python implementation here
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""[1,[2,3],4]"", ""output"": ""[1,2,3,4]""}]","python,oop,modules,threads,regex","easy"
+"Thread-safe Counter — Python #19","Implement a thread-safe counter using locks. Aim for idiomatic Python solutions and tests.","def solve(*args, **kwargs):
+    # write your Python implementation here
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""calls in parallel"", ""output"": ""counter==n""}]","python,oop,modules,threads,regex","medium"
+"Regex Extractor — Python #20","Extract dates from text using regex and return sorted unique list. Aim for idiomatic Python solutions and tests.","def solve(*args, **kwargs):
+    # write your Python implementation here
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""On 2021-05-01 and 2020/12/31"", ""output"": ""[2020/12/31,2021-05-01]""}]","python,oop,modules,threads,regex","medium"
+"String Anagram Groups — Python #21","Group anagrams from a list of strings. Aim for idiomatic Python solutions and tests.","def solve(*args, **kwargs):
+    # write your Python implementation here
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""eat,tea,tan,ate,nat,bat"", ""output"": ""[ [\""eat\"",\""tea\"",\""ate\""], [\""tan\"",\""nat\""], [\""bat\""] ]""}]","python,oop,modules,threads,regex","medium"
+"LRU Cache — Python #22","Implement an LRU Cache with get and put operations. Aim for idiomatic Python solutions and tests.","def solve(*args, **kwargs):
+    # write your Python implementation here
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""2|get(1),put(1,1),put(2,2),get(1),put(3,3),get(2)"", ""output"": ""1,-1, -1""}]","python,oop,modules,threads,regex","hard"
+"Serialize/Deserialize Binary Tree — Python #23","Serialize and deserialize a binary tree. Aim for idiomatic Python solutions and tests.","def solve(*args, **kwargs):
+    # write your Python implementation here
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""1 2 3 null null 4 5"", ""output"": ""1 2 3 4 5""}]","python,oop,modules,threads,regex","easy"
+"Decorator Usage — Python #24","Write a timing decorator that measures function runtime. Aim for idiomatic Python solutions and tests.","def solve(*args, **kwargs):
+    # write your Python implementation here
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""sleep 0.01"", ""output"": ""~0.01""}]","python,oop,modules,threads,regex","hard"
+"Context Manager — Python #25","Create a context manager that times a code block. Aim for idiomatic Python solutions and tests.","def solve(*args, **kwargs):
+    # write your Python implementation here
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""simple block"", ""output"": ""timed""}]","python,oop,modules,threads,regex","easy"
+"CSV Parser — Python #26","Parse a CSV and return rows as lists handling quotes and escapes. Aim for idiomatic Python solutions and tests.","def solve(*args, **kwargs):
+    # write your Python implementation here
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""a,b,\""c, d\"",e"", ""output"": ""[a,b,c d,e]""}]","python,oop,modules,threads,regex","medium"
+"Data Class Usage — Python #27","Use dataclasses to model and manipulate records. Aim for idiomatic Python solutions and tests.","def solve(*args, **kwargs):
+    # write your Python implementation here
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""John,30"", ""output"": ""{\""name\"":\""John\"",\""age\"":30}""}]","python,oop,modules,threads,regex","easy"
+"Iterator Implementation — Python #28","Implement a custom iterator for a nested list. Aim for idiomatic Python solutions and tests.","def solve(*args, **kwargs):
+    # write your Python implementation here
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""[1,[2,3],4]"", ""output"": ""[1,2,3,4]""}]","python,oop,modules,threads,regex","medium"
+"Thread-safe Counter — Python #29","Implement a thread-safe counter using locks. Aim for idiomatic Python solutions and tests.","def solve(*args, **kwargs):
+    # write your Python implementation here
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""calls in parallel"", ""output"": ""counter==n""}]","python,oop,modules,threads,regex","easy"
+"Regex Extractor — Python #30","Extract dates from text using regex and return sorted unique list. Aim for idiomatic Python solutions and tests.","def solve(*args, **kwargs):
+    # write your Python implementation here
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""On 2021-05-01 and 2020/12/31"", ""output"": ""[2020/12/31,2021-05-01]""}]","python,oop,modules,threads,regex","easy"
+"String Anagram Groups — Python #31","Group anagrams from a list of strings. Aim for idiomatic Python solutions and tests.","def solve(*args, **kwargs):
+    # write your Python implementation here
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""eat,tea,tan,ate,nat,bat"", ""output"": ""[ [\""eat\"",\""tea\"",\""ate\""], [\""tan\"",\""nat\""], [\""bat\""] ]""}]","python,oop,modules,threads,regex","hard"
+"LRU Cache — Python #32","Implement an LRU Cache with get and put operations. Aim for idiomatic Python solutions and tests.","def solve(*args, **kwargs):
+    # write your Python implementation here
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""2|get(1),put(1,1),put(2,2),get(1),put(3,3),get(2)"", ""output"": ""1,-1, -1""}]","python,oop,modules,threads,regex","medium"
+"Serialize/Deserialize Binary Tree — Python #33","Serialize and deserialize a binary tree. Aim for idiomatic Python solutions and tests.","def solve(*args, **kwargs):
+    # write your Python implementation here
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""1 2 3 null null 4 5"", ""output"": ""1 2 3 4 5""}]","python,oop,modules,threads,regex","medium"
+"Decorator Usage — Python #34","Write a timing decorator that measures function runtime. Aim for idiomatic Python solutions and tests.","def solve(*args, **kwargs):
+    # write your Python implementation here
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""sleep 0.01"", ""output"": ""~0.01""}]","python,oop,modules,threads,regex","easy"
+"Context Manager — Python #35","Create a context manager that times a code block. Aim for idiomatic Python solutions and tests.","def solve(*args, **kwargs):
+    # write your Python implementation here
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""simple block"", ""output"": ""timed""}]","python,oop,modules,threads,regex","easy"
+"CSV Parser — Python #36","Parse a CSV and return rows as lists handling quotes and escapes. Aim for idiomatic Python solutions and tests.","def solve(*args, **kwargs):
+    # write your Python implementation here
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""a,b,\""c, d\"",e"", ""output"": ""[a,b,c d,e]""}]","python,oop,modules,threads,regex","easy"
+"Data Class Usage — Python #37","Use dataclasses to model and manipulate records. Aim for idiomatic Python solutions and tests.","def solve(*args, **kwargs):
+    # write your Python implementation here
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""John,30"", ""output"": ""{\""name\"":\""John\"",\""age\"":30}""}]","python,oop,modules,threads,regex","easy"
+"Iterator Implementation — Python #38","Implement a custom iterator for a nested list. Aim for idiomatic Python solutions and tests.","def solve(*args, **kwargs):
+    # write your Python implementation here
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""[1,[2,3],4]"", ""output"": ""[1,2,3,4]""}]","python,oop,modules,threads,regex","medium"
+"Thread-safe Counter — Python #39","Implement a thread-safe counter using locks. Aim for idiomatic Python solutions and tests.","def solve(*args, **kwargs):
+    # write your Python implementation here
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""calls in parallel"", ""output"": ""counter==n""}]","python,oop,modules,threads,regex","easy"
+"Regex Extractor — Python #40","Extract dates from text using regex and return sorted unique list. Aim for idiomatic Python solutions and tests.","def solve(*args, **kwargs):
+    # write your Python implementation here
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""On 2021-05-01 and 2020/12/31"", ""output"": ""[2020/12/31,2021-05-01]""}]","python,oop,modules,threads,regex","medium"
+"String Anagram Groups — Python #41","Group anagrams from a list of strings. Aim for idiomatic Python solutions and tests.","def solve(*args, **kwargs):
+    # write your Python implementation here
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""eat,tea,tan,ate,nat,bat"", ""output"": ""[ [\""eat\"",\""tea\"",\""ate\""], [\""tan\"",\""nat\""], [\""bat\""] ]""}]","python,oop,modules,threads,regex","medium"
+"LRU Cache — Python #42","Implement an LRU Cache with get and put operations. Aim for idiomatic Python solutions and tests.","def solve(*args, **kwargs):
+    # write your Python implementation here
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""2|get(1),put(1,1),put(2,2),get(1),put(3,3),get(2)"", ""output"": ""1,-1, -1""}]","python,oop,modules,threads,regex","medium"
+"Serialize/Deserialize Binary Tree — Python #43","Serialize and deserialize a binary tree. Aim for idiomatic Python solutions and tests.","def solve(*args, **kwargs):
+    # write your Python implementation here
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""1 2 3 null null 4 5"", ""output"": ""1 2 3 4 5""}]","python,oop,modules,threads,regex","hard"
+"Decorator Usage — Python #44","Write a timing decorator that measures function runtime. Aim for idiomatic Python solutions and tests.","def solve(*args, **kwargs):
+    # write your Python implementation here
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""sleep 0.01"", ""output"": ""~0.01""}]","python,oop,modules,threads,regex","medium"
+"Context Manager — Python #45","Create a context manager that times a code block. Aim for idiomatic Python solutions and tests.","def solve(*args, **kwargs):
+    # write your Python implementation here
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""simple block"", ""output"": ""timed""}]","python,oop,modules,threads,regex","easy"
+"CSV Parser — Python #46","Parse a CSV and return rows as lists handling quotes and escapes. Aim for idiomatic Python solutions and tests.","def solve(*args, **kwargs):
+    # write your Python implementation here
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""a,b,\""c, d\"",e"", ""output"": ""[a,b,c d,e]""}]","python,oop,modules,threads,regex","easy"
+"Data Class Usage — Python #47","Use dataclasses to model and manipulate records. Aim for idiomatic Python solutions and tests.","def solve(*args, **kwargs):
+    # write your Python implementation here
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""John,30"", ""output"": ""{\""name\"":\""John\"",\""age\"":30}""}]","python,oop,modules,threads,regex","medium"
+"Iterator Implementation — Python #48","Implement a custom iterator for a nested list. Aim for idiomatic Python solutions and tests.","def solve(*args, **kwargs):
+    # write your Python implementation here
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""[1,[2,3],4]"", ""output"": ""[1,2,3,4]""}]","python,oop,modules,threads,regex","easy"
+"Thread-safe Counter — Python #49","Implement a thread-safe counter using locks. Aim for idiomatic Python solutions and tests.","def solve(*args, **kwargs):
+    # write your Python implementation here
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""calls in parallel"", ""output"": ""counter==n""}]","python,oop,modules,threads,regex","easy"
+"Regex Extractor — Python #50","Extract dates from text using regex and return sorted unique list. Aim for idiomatic Python solutions and tests.","def solve(*args, **kwargs):
+    # write your Python implementation here
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""On 2021-05-01 and 2020/12/31"", ""output"": ""[2020/12/31,2021-05-01]""}]","python,oop,modules,threads,regex","medium"
+"String Anagram Groups — Python #51","Group anagrams from a list of strings. Aim for idiomatic Python solutions and tests.","def solve(*args, **kwargs):
+    # write your Python implementation here
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""eat,tea,tan,ate,nat,bat"", ""output"": ""[ [\""eat\"",\""tea\"",\""ate\""], [\""tan\"",\""nat\""], [\""bat\""] ]""}]","python,oop,modules,threads,regex","hard"
+"LRU Cache — Python #52","Implement an LRU Cache with get and put operations. Aim for idiomatic Python solutions and tests.","def solve(*args, **kwargs):
+    # write your Python implementation here
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""2|get(1),put(1,1),put(2,2),get(1),put(3,3),get(2)"", ""output"": ""1,-1, -1""}]","python,oop,modules,threads,regex","hard"
+"Serialize/Deserialize Binary Tree — Python #53","Serialize and deserialize a binary tree. Aim for idiomatic Python solutions and tests.","def solve(*args, **kwargs):
+    # write your Python implementation here
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""1 2 3 null null 4 5"", ""output"": ""1 2 3 4 5""}]","python,oop,modules,threads,regex","easy"
+"Decorator Usage — Python #54","Write a timing decorator that measures function runtime. Aim for idiomatic Python solutions and tests.","def solve(*args, **kwargs):
+    # write your Python implementation here
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""sleep 0.01"", ""output"": ""~0.01""}]","python,oop,modules,threads,regex","medium"
+"Context Manager — Python #55","Create a context manager that times a code block. Aim for idiomatic Python solutions and tests.","def solve(*args, **kwargs):
+    # write your Python implementation here
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""simple block"", ""output"": ""timed""}]","python,oop,modules,threads,regex","medium"
+"CSV Parser — Python #56","Parse a CSV and return rows as lists handling quotes and escapes. Aim for idiomatic Python solutions and tests.","def solve(*args, **kwargs):
+    # write your Python implementation here
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""a,b,\""c, d\"",e"", ""output"": ""[a,b,c d,e]""}]","python,oop,modules,threads,regex","hard"
+"Data Class Usage — Python #57","Use dataclasses to model and manipulate records. Aim for idiomatic Python solutions and tests.","def solve(*args, **kwargs):
+    # write your Python implementation here
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""John,30"", ""output"": ""{\""name\"":\""John\"",\""age\"":30}""}]","python,oop,modules,threads,regex","easy"
+"Iterator Implementation — Python #58","Implement a custom iterator for a nested list. Aim for idiomatic Python solutions and tests.","def solve(*args, **kwargs):
+    # write your Python implementation here
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""[1,[2,3],4]"", ""output"": ""[1,2,3,4]""}]","python,oop,modules,threads,regex","medium"
+"Thread-safe Counter — Python #59","Implement a thread-safe counter using locks. Aim for idiomatic Python solutions and tests.","def solve(*args, **kwargs):
+    # write your Python implementation here
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""calls in parallel"", ""output"": ""counter==n""}]","python,oop,modules,threads,regex","medium"
+"Regex Extractor — Python #60","Extract dates from text using regex and return sorted unique list. Aim for idiomatic Python solutions and tests.","def solve(*args, **kwargs):
+    # write your Python implementation here
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""On 2021-05-01 and 2020/12/31"", ""output"": ""[2020/12/31,2021-05-01]""}]","python,oop,modules,threads,regex","easy"
+"String Anagram Groups — Python #61","Group anagrams from a list of strings. Aim for idiomatic Python solutions and tests.","def solve(*args, **kwargs):
+    # write your Python implementation here
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""eat,tea,tan,ate,nat,bat"", ""output"": ""[ [\""eat\"",\""tea\"",\""ate\""], [\""tan\"",\""nat\""], [\""bat\""] ]""}]","python,oop,modules,threads,regex","easy"
+"LRU Cache — Python #62","Implement an LRU Cache with get and put operations. Aim for idiomatic Python solutions and tests.","def solve(*args, **kwargs):
+    # write your Python implementation here
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""2|get(1),put(1,1),put(2,2),get(1),put(3,3),get(2)"", ""output"": ""1,-1, -1""}]","python,oop,modules,threads,regex","medium"
+"Serialize/Deserialize Binary Tree — Python #63","Serialize and deserialize a binary tree. Aim for idiomatic Python solutions and tests.","def solve(*args, **kwargs):
+    # write your Python implementation here
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""1 2 3 null null 4 5"", ""output"": ""1 2 3 4 5""}]","python,oop,modules,threads,regex","easy"
+"Decorator Usage — Python #64","Write a timing decorator that measures function runtime. Aim for idiomatic Python solutions and tests.","def solve(*args, **kwargs):
+    # write your Python implementation here
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""sleep 0.01"", ""output"": ""~0.01""}]","python,oop,modules,threads,regex","hard"
+"Context Manager — Python #65","Create a context manager that times a code block. Aim for idiomatic Python solutions and tests.","def solve(*args, **kwargs):
+    # write your Python implementation here
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""simple block"", ""output"": ""timed""}]","python,oop,modules,threads,regex","easy"
+"CSV Parser — Python #66","Parse a CSV and return rows as lists handling quotes and escapes. Aim for idiomatic Python solutions and tests.","def solve(*args, **kwargs):
+    # write your Python implementation here
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""a,b,\""c, d\"",e"", ""output"": ""[a,b,c d,e]""}]","python,oop,modules,threads,regex","medium"
+"Data Class Usage — Python #67","Use dataclasses to model and manipulate records. Aim for idiomatic Python solutions and tests.","def solve(*args, **kwargs):
+    # write your Python implementation here
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""John,30"", ""output"": ""{\""name\"":\""John\"",\""age\"":30}""}]","python,oop,modules,threads,regex","easy"
+"Iterator Implementation — Python #68","Implement a custom iterator for a nested list. Aim for idiomatic Python solutions and tests.","def solve(*args, **kwargs):
+    # write your Python implementation here
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""[1,[2,3],4]"", ""output"": ""[1,2,3,4]""}]","python,oop,modules,threads,regex","medium"
+"Thread-safe Counter — Python #69","Implement a thread-safe counter using locks. Aim for idiomatic Python solutions and tests.","def solve(*args, **kwargs):
+    # write your Python implementation here
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""calls in parallel"", ""output"": ""counter==n""}]","python,oop,modules,threads,regex","medium"
+"Regex Extractor — Python #70","Extract dates from text using regex and return sorted unique list. Aim for idiomatic Python solutions and tests.","def solve(*args, **kwargs):
+    # write your Python implementation here
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""On 2021-05-01 and 2020/12/31"", ""output"": ""[2020/12/31,2021-05-01]""}]","python,oop,modules,threads,regex","hard"
+"String Anagram Groups — Python #71","Group anagrams from a list of strings. Aim for idiomatic Python solutions and tests.","def solve(*args, **kwargs):
+    # write your Python implementation here
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""eat,tea,tan,ate,nat,bat"", ""output"": ""[ [\""eat\"",\""tea\"",\""ate\""], [\""tan\"",\""nat\""], [\""bat\""] ]""}]","python,oop,modules,threads,regex","medium"
+"LRU Cache — Python #72","Implement an LRU Cache with get and put operations. Aim for idiomatic Python solutions and tests.","def solve(*args, **kwargs):
+    # write your Python implementation here
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""2|get(1),put(1,1),put(2,2),get(1),put(3,3),get(2)"", ""output"": ""1,-1, -1""}]","python,oop,modules,threads,regex","medium"
+"Serialize/Deserialize Binary Tree — Python #73","Serialize and deserialize a binary tree. Aim for idiomatic Python solutions and tests.","def solve(*args, **kwargs):
+    # write your Python implementation here
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""1 2 3 null null 4 5"", ""output"": ""1 2 3 4 5""}]","python,oop,modules,threads,regex","hard"
+"Decorator Usage — Python #74","Write a timing decorator that measures function runtime. Aim for idiomatic Python solutions and tests.","def solve(*args, **kwargs):
+    # write your Python implementation here
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""sleep 0.01"", ""output"": ""~0.01""}]","python,oop,modules,threads,regex","easy"
+"Context Manager — Python #75","Create a context manager that times a code block. Aim for idiomatic Python solutions and tests.","def solve(*args, **kwargs):
+    # write your Python implementation here
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""simple block"", ""output"": ""timed""}]","python,oop,modules,threads,regex","medium"
+"CSV Parser — Python #76","Parse a CSV and return rows as lists handling quotes and escapes. Aim for idiomatic Python solutions and tests.","def solve(*args, **kwargs):
+    # write your Python implementation here
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""a,b,\""c, d\"",e"", ""output"": ""[a,b,c d,e]""}]","python,oop,modules,threads,regex","medium"
+"Data Class Usage — Python #77","Use dataclasses to model and manipulate records. Aim for idiomatic Python solutions and tests.","def solve(*args, **kwargs):
+    # write your Python implementation here
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""John,30"", ""output"": ""{\""name\"":\""John\"",\""age\"":30}""}]","python,oop,modules,threads,regex","easy"
+"Iterator Implementation — Python #78","Implement a custom iterator for a nested list. Aim for idiomatic Python solutions and tests.","def solve(*args, **kwargs):
+    # write your Python implementation here
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""[1,[2,3],4]"", ""output"": ""[1,2,3,4]""}]","python,oop,modules,threads,regex","easy"
+"Thread-safe Counter — Python #79","Implement a thread-safe counter using locks. Aim for idiomatic Python solutions and tests.","def solve(*args, **kwargs):
+    # write your Python implementation here
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""calls in parallel"", ""output"": ""counter==n""}]","python,oop,modules,threads,regex","hard"
+"Regex Extractor — Python #80","Extract dates from text using regex and return sorted unique list. Aim for idiomatic Python solutions and tests.","def solve(*args, **kwargs):
+    # write your Python implementation here
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""On 2021-05-01 and 2020/12/31"", ""output"": ""[2020/12/31,2021-05-01]""}]","python,oop,modules,threads,regex","hard"
+"String Anagram Groups — Python #81","Group anagrams from a list of strings. Aim for idiomatic Python solutions and tests.","def solve(*args, **kwargs):
+    # write your Python implementation here
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""eat,tea,tan,ate,nat,bat"", ""output"": ""[ [\""eat\"",\""tea\"",\""ate\""], [\""tan\"",\""nat\""], [\""bat\""] ]""}]","python,oop,modules,threads,regex","medium"
+"LRU Cache — Python #82","Implement an LRU Cache with get and put operations. Aim for idiomatic Python solutions and tests.","def solve(*args, **kwargs):
+    # write your Python implementation here
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""2|get(1),put(1,1),put(2,2),get(1),put(3,3),get(2)"", ""output"": ""1,-1, -1""}]","python,oop,modules,threads,regex","easy"
+"Serialize/Deserialize Binary Tree — Python #83","Serialize and deserialize a binary tree. Aim for idiomatic Python solutions and tests.","def solve(*args, **kwargs):
+    # write your Python implementation here
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""1 2 3 null null 4 5"", ""output"": ""1 2 3 4 5""}]","python,oop,modules,threads,regex","medium"
+"Decorator Usage — Python #84","Write a timing decorator that measures function runtime. Aim for idiomatic Python solutions and tests.","def solve(*args, **kwargs):
+    # write your Python implementation here
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""sleep 0.01"", ""output"": ""~0.01""}]","python,oop,modules,threads,regex","medium"
+"Context Manager — Python #85","Create a context manager that times a code block. Aim for idiomatic Python solutions and tests.","def solve(*args, **kwargs):
+    # write your Python implementation here
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""simple block"", ""output"": ""timed""}]","python,oop,modules,threads,regex","hard"
+"CSV Parser — Python #86","Parse a CSV and return rows as lists handling quotes and escapes. Aim for idiomatic Python solutions and tests.","def solve(*args, **kwargs):
+    # write your Python implementation here
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""a,b,\""c, d\"",e"", ""output"": ""[a,b,c d,e]""}]","python,oop,modules,threads,regex","medium"
+"Data Class Usage — Python #87","Use dataclasses to model and manipulate records. Aim for idiomatic Python solutions and tests.","def solve(*args, **kwargs):
+    # write your Python implementation here
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""John,30"", ""output"": ""{\""name\"":\""John\"",\""age\"":30}""}]","python,oop,modules,threads,regex","hard"
+"Iterator Implementation — Python #88","Implement a custom iterator for a nested list. Aim for idiomatic Python solutions and tests.","def solve(*args, **kwargs):
+    # write your Python implementation here
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""[1,[2,3],4]"", ""output"": ""[1,2,3,4]""}]","python,oop,modules,threads,regex","hard"
+"Thread-safe Counter — Python #89","Implement a thread-safe counter using locks. Aim for idiomatic Python solutions and tests.","def solve(*args, **kwargs):
+    # write your Python implementation here
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""calls in parallel"", ""output"": ""counter==n""}]","python,oop,modules,threads,regex","hard"
+"Regex Extractor — Python #90","Extract dates from text using regex and return sorted unique list. Aim for idiomatic Python solutions and tests.","def solve(*args, **kwargs):
+    # write your Python implementation here
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""On 2021-05-01 and 2020/12/31"", ""output"": ""[2020/12/31,2021-05-01]""}]","python,oop,modules,threads,regex","medium"
+"String Anagram Groups — Python #91","Group anagrams from a list of strings. Aim for idiomatic Python solutions and tests.","def solve(*args, **kwargs):
+    # write your Python implementation here
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""eat,tea,tan,ate,nat,bat"", ""output"": ""[ [\""eat\"",\""tea\"",\""ate\""], [\""tan\"",\""nat\""], [\""bat\""] ]""}]","python,oop,modules,threads,regex","medium"
+"LRU Cache — Python #92","Implement an LRU Cache with get and put operations. Aim for idiomatic Python solutions and tests.","def solve(*args, **kwargs):
+    # write your Python implementation here
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""2|get(1),put(1,1),put(2,2),get(1),put(3,3),get(2)"", ""output"": ""1,-1, -1""}]","python,oop,modules,threads,regex","medium"
+"Serialize/Deserialize Binary Tree — Python #93","Serialize and deserialize a binary tree. Aim for idiomatic Python solutions and tests.","def solve(*args, **kwargs):
+    # write your Python implementation here
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""1 2 3 null null 4 5"", ""output"": ""1 2 3 4 5""}]","python,oop,modules,threads,regex","medium"
+"Decorator Usage — Python #94","Write a timing decorator that measures function runtime. Aim for idiomatic Python solutions and tests.","def solve(*args, **kwargs):
+    # write your Python implementation here
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""sleep 0.01"", ""output"": ""~0.01""}]","python,oop,modules,threads,regex","easy"
+"Context Manager — Python #95","Create a context manager that times a code block. Aim for idiomatic Python solutions and tests.","def solve(*args, **kwargs):
+    # write your Python implementation here
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""simple block"", ""output"": ""timed""}]","python,oop,modules,threads,regex","medium"
+"CSV Parser — Python #96","Parse a CSV and return rows as lists handling quotes and escapes. Aim for idiomatic Python solutions and tests.","def solve(*args, **kwargs):
+    # write your Python implementation here
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""a,b,\""c, d\"",e"", ""output"": ""[a,b,c d,e]""}]","python,oop,modules,threads,regex","easy"
+"Data Class Usage — Python #97","Use dataclasses to model and manipulate records. Aim for idiomatic Python solutions and tests.","def solve(*args, **kwargs):
+    # write your Python implementation here
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""John,30"", ""output"": ""{\""name\"":\""John\"",\""age\"":30}""}]","python,oop,modules,threads,regex","easy"
+"Iterator Implementation — Python #98","Implement a custom iterator for a nested list. Aim for idiomatic Python solutions and tests.","def solve(*args, **kwargs):
+    # write your Python implementation here
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""[1,[2,3],4]"", ""output"": ""[1,2,3,4]""}]","python,oop,modules,threads,regex","hard"
+"Thread-safe Counter — Python #99","Implement a thread-safe counter using locks. Aim for idiomatic Python solutions and tests.","def solve(*args, **kwargs):
+    # write your Python implementation here
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""calls in parallel"", ""output"": ""counter==n""}]","python,oop,modules,threads,regex","medium"
+"Regex Extractor — Python #100","Extract dates from text using regex and return sorted unique list. Aim for idiomatic Python solutions and tests.","def solve(*args, **kwargs):
+    # write your Python implementation here
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""On 2021-05-01 and 2020/12/31"", ""output"": ""[2020/12/31,2021-05-01]""}]","python,oop,modules,threads,regex","hard"
+"Design a RESTful Endpoint — Web/Backend #1","Design a REST API endpoint that paginates and returns JSON for posts. Focus on correctness, security and edge cases.","from flask import Flask, request, jsonify
+app = Flask(__name__)
+
+@app.route('/')
+def index():
+    return jsonify({""status"":""ok""})
+
+# implement endpoints
+
+if __name__ == '__main__':
+    app.run()","[{""input"": ""POST /posts?page=1"", ""output"": ""200 list""}, {""input"": ""POST /posts?page=1000"", ""output"": ""[]""}]","python,flask,api,web,security","hard"
+"SQL Join and Aggregation — Web/Backend #2","Write SQL query to compute monthly active users from events table. Focus on correctness, security and edge cases.","/* SQL */
+-- write your SQL query below
+-- Example table: events(user_id INT, event_time TIMESTAMP, event_type TEXT)
+","[{""input"": ""sample events table"", ""output"": ""expected rows""}]","sql,databases,analytics","easy"
+"Authentication Flow — Web/Backend #3","Implement token-based authentication for login and protected endpoints. Focus on correctness, security and edge cases.","from flask import Flask, request, jsonify
+app = Flask(__name__)
+
+@app.route('/')
+def index():
+    return jsonify({""status"":""ok""})
+
+# implement endpoints
+
+if __name__ == '__main__':
+    app.run()","[{""input"": ""POST /posts?page=1"", ""output"": ""200 list""}, {""input"": ""POST /posts?page=1000"", ""output"": ""[]""}]","python,flask,api,web,security","medium"
+"Rate Limiter — Web/Backend #4","Implement a simple in-memory rate limiter for API requests per IP. Focus on correctness, security and edge cases.","from flask import Flask, request, jsonify
+app = Flask(__name__)
+
+@app.route('/')
+def index():
+    return jsonify({""status"":""ok""})
+
+# implement endpoints
+
+if __name__ == '__main__':
+    app.run()","[{""input"": ""POST /posts?page=1"", ""output"": ""200 list""}, {""input"": ""POST /posts?page=1000"", ""output"": ""[]""}]","python,flask,api,web,security","medium"
+"Database Schema Design — Web/Backend #5","Design normalized schema for e-commerce orders and products. Focus on correctness, security and edge cases.","/* backend skeleton */
+// implement service logic
+","[{""input"": ""sample input"", ""output"": ""expected output""}]","web,backend,design","medium"
+"Cache Invalidation — Web/Backend #6","Design cache strategy and demonstrate cache invalidation for product updates. Focus on correctness, security and edge cases.","/* backend skeleton */
+// implement service logic
+","[{""input"": ""sample input"", ""output"": ""expected output""}]","web,backend,design","easy"
+"File Upload API — Web/Backend #7","Implement chunked file upload API that resumes after interruption. Focus on correctness, security and edge cases.","from flask import Flask, request, jsonify
+app = Flask(__name__)
+
+@app.route('/')
+def index():
+    return jsonify({""status"":""ok""})
+
+# implement endpoints
+
+if __name__ == '__main__':
+    app.run()","[{""input"": ""POST /posts?page=1"", ""output"": ""200 list""}, {""input"": ""POST /posts?page=1000"", ""output"": ""[]""}]","python,flask,api,web,security","medium"
+"Webhook Consumer — Web/Backend #8","Design webhook consumer that handles duplicates and retries. Focus on correctness, security and edge cases.","/* backend skeleton */
+// implement service logic
+","[{""input"": ""sample input"", ""output"": ""expected output""}]","web,backend,design","hard"
+"GraphQL Basic Resolver — Web/Backend #9","Implement resolver for nested product reviews. Focus on correctness, security and edge cases.","# pseudo GraphQL resolver example
+# implement resolver function
+","[{""input"": ""product_id=1"", ""output"": ""reviews list""}]","graphql,api,web","hard"
+"CI/CD Pipeline Script — Web/Backend #10","Write script to deploy a Flask app via Docker and a CI step. Focus on correctness, security and edge cases.","# Dockerfile + deploy script (outline)
+# FROM python:3.10
+","[{""input"": ""docker build"", ""output"": ""success""}]","devops,ci,cd,docker","medium"
+"Design a RESTful Endpoint — Web/Backend #11","Design a REST API endpoint that paginates and returns JSON for posts. Focus on correctness, security and edge cases.","from flask import Flask, request, jsonify
+app = Flask(__name__)
+
+@app.route('/')
+def index():
+    return jsonify({""status"":""ok""})
+
+# implement endpoints
+
+if __name__ == '__main__':
+    app.run()","[{""input"": ""POST /posts?page=1"", ""output"": ""200 list""}, {""input"": ""POST /posts?page=1000"", ""output"": ""[]""}]","python,flask,api,web,security","easy"
+"SQL Join and Aggregation — Web/Backend #12","Write SQL query to compute monthly active users from events table. Focus on correctness, security and edge cases.","/* SQL */
+-- write your SQL query below
+-- Example table: events(user_id INT, event_time TIMESTAMP, event_type TEXT)
+","[{""input"": ""sample events table"", ""output"": ""expected rows""}]","sql,databases,analytics","medium"
+"Authentication Flow — Web/Backend #13","Implement token-based authentication for login and protected endpoints. Focus on correctness, security and edge cases.","from flask import Flask, request, jsonify
+app = Flask(__name__)
+
+@app.route('/')
+def index():
+    return jsonify({""status"":""ok""})
+
+# implement endpoints
+
+if __name__ == '__main__':
+    app.run()","[{""input"": ""POST /posts?page=1"", ""output"": ""200 list""}, {""input"": ""POST /posts?page=1000"", ""output"": ""[]""}]","python,flask,api,web,security","medium"
+"Rate Limiter — Web/Backend #14","Implement a simple in-memory rate limiter for API requests per IP. Focus on correctness, security and edge cases.","from flask import Flask, request, jsonify
+app = Flask(__name__)
+
+@app.route('/')
+def index():
+    return jsonify({""status"":""ok""})
+
+# implement endpoints
+
+if __name__ == '__main__':
+    app.run()","[{""input"": ""POST /posts?page=1"", ""output"": ""200 list""}, {""input"": ""POST /posts?page=1000"", ""output"": ""[]""}]","python,flask,api,web,security","easy"
+"Database Schema Design — Web/Backend #15","Design normalized schema for e-commerce orders and products. Focus on correctness, security and edge cases.","/* backend skeleton */
+// implement service logic
+","[{""input"": ""sample input"", ""output"": ""expected output""}]","web,backend,design","medium"
+"Cache Invalidation — Web/Backend #16","Design cache strategy and demonstrate cache invalidation for product updates. Focus on correctness, security and edge cases.","/* backend skeleton */
+// implement service logic
+","[{""input"": ""sample input"", ""output"": ""expected output""}]","web,backend,design","hard"
+"File Upload API — Web/Backend #17","Implement chunked file upload API that resumes after interruption. Focus on correctness, security and edge cases.","from flask import Flask, request, jsonify
+app = Flask(__name__)
+
+@app.route('/')
+def index():
+    return jsonify({""status"":""ok""})
+
+# implement endpoints
+
+if __name__ == '__main__':
+    app.run()","[{""input"": ""POST /posts?page=1"", ""output"": ""200 list""}, {""input"": ""POST /posts?page=1000"", ""output"": ""[]""}]","python,flask,api,web,security","easy"
+"Webhook Consumer — Web/Backend #18","Design webhook consumer that handles duplicates and retries. Focus on correctness, security and edge cases.","/* backend skeleton */
+// implement service logic
+","[{""input"": ""sample input"", ""output"": ""expected output""}]","web,backend,design","medium"
+"GraphQL Basic Resolver — Web/Backend #19","Implement resolver for nested product reviews. Focus on correctness, security and edge cases.","# pseudo GraphQL resolver example
+# implement resolver function
+","[{""input"": ""product_id=1"", ""output"": ""reviews list""}]","graphql,api,web","hard"
+"CI/CD Pipeline Script — Web/Backend #20","Write script to deploy a Flask app via Docker and a CI step. Focus on correctness, security and edge cases.","# Dockerfile + deploy script (outline)
+# FROM python:3.10
+","[{""input"": ""docker build"", ""output"": ""success""}]","devops,ci,cd,docker","hard"
+"Design a RESTful Endpoint — Web/Backend #21","Design a REST API endpoint that paginates and returns JSON for posts. Focus on correctness, security and edge cases.","from flask import Flask, request, jsonify
+app = Flask(__name__)
+
+@app.route('/')
+def index():
+    return jsonify({""status"":""ok""})
+
+# implement endpoints
+
+if __name__ == '__main__':
+    app.run()","[{""input"": ""POST /posts?page=1"", ""output"": ""200 list""}, {""input"": ""POST /posts?page=1000"", ""output"": ""[]""}]","python,flask,api,web,security","easy"
+"SQL Join and Aggregation — Web/Backend #22","Write SQL query to compute monthly active users from events table. Focus on correctness, security and edge cases.","/* SQL */
+-- write your SQL query below
+-- Example table: events(user_id INT, event_time TIMESTAMP, event_type TEXT)
+","[{""input"": ""sample events table"", ""output"": ""expected rows""}]","sql,databases,analytics","hard"
+"Authentication Flow — Web/Backend #23","Implement token-based authentication for login and protected endpoints. Focus on correctness, security and edge cases.","from flask import Flask, request, jsonify
+app = Flask(__name__)
+
+@app.route('/')
+def index():
+    return jsonify({""status"":""ok""})
+
+# implement endpoints
+
+if __name__ == '__main__':
+    app.run()","[{""input"": ""POST /posts?page=1"", ""output"": ""200 list""}, {""input"": ""POST /posts?page=1000"", ""output"": ""[]""}]","python,flask,api,web,security","hard"
+"Rate Limiter — Web/Backend #24","Implement a simple in-memory rate limiter for API requests per IP. Focus on correctness, security and edge cases.","from flask import Flask, request, jsonify
+app = Flask(__name__)
+
+@app.route('/')
+def index():
+    return jsonify({""status"":""ok""})
+
+# implement endpoints
+
+if __name__ == '__main__':
+    app.run()","[{""input"": ""POST /posts?page=1"", ""output"": ""200 list""}, {""input"": ""POST /posts?page=1000"", ""output"": ""[]""}]","python,flask,api,web,security","easy"
+"Database Schema Design — Web/Backend #25","Design normalized schema for e-commerce orders and products. Focus on correctness, security and edge cases.","/* backend skeleton */
+// implement service logic
+","[{""input"": ""sample input"", ""output"": ""expected output""}]","web,backend,design","medium"
+"Cache Invalidation — Web/Backend #26","Design cache strategy and demonstrate cache invalidation for product updates. Focus on correctness, security and edge cases.","/* backend skeleton */
+// implement service logic
+","[{""input"": ""sample input"", ""output"": ""expected output""}]","web,backend,design","easy"
+"File Upload API — Web/Backend #27","Implement chunked file upload API that resumes after interruption. Focus on correctness, security and edge cases.","from flask import Flask, request, jsonify
+app = Flask(__name__)
+
+@app.route('/')
+def index():
+    return jsonify({""status"":""ok""})
+
+# implement endpoints
+
+if __name__ == '__main__':
+    app.run()","[{""input"": ""POST /posts?page=1"", ""output"": ""200 list""}, {""input"": ""POST /posts?page=1000"", ""output"": ""[]""}]","python,flask,api,web,security","medium"
+"Webhook Consumer — Web/Backend #28","Design webhook consumer that handles duplicates and retries. Focus on correctness, security and edge cases.","/* backend skeleton */
+// implement service logic
+","[{""input"": ""sample input"", ""output"": ""expected output""}]","web,backend,design","hard"
+"GraphQL Basic Resolver — Web/Backend #29","Implement resolver for nested product reviews. Focus on correctness, security and edge cases.","# pseudo GraphQL resolver example
+# implement resolver function
+","[{""input"": ""product_id=1"", ""output"": ""reviews list""}]","graphql,api,web","medium"
+"CI/CD Pipeline Script — Web/Backend #30","Write script to deploy a Flask app via Docker and a CI step. Focus on correctness, security and edge cases.","# Dockerfile + deploy script (outline)
+# FROM python:3.10
+","[{""input"": ""docker build"", ""output"": ""success""}]","devops,ci,cd,docker","easy"
+"Design a RESTful Endpoint — Web/Backend #31","Design a REST API endpoint that paginates and returns JSON for posts. Focus on correctness, security and edge cases.","from flask import Flask, request, jsonify
+app = Flask(__name__)
+
+@app.route('/')
+def index():
+    return jsonify({""status"":""ok""})
+
+# implement endpoints
+
+if __name__ == '__main__':
+    app.run()","[{""input"": ""POST /posts?page=1"", ""output"": ""200 list""}, {""input"": ""POST /posts?page=1000"", ""output"": ""[]""}]","python,flask,api,web,security","medium"
+"SQL Join and Aggregation — Web/Backend #32","Write SQL query to compute monthly active users from events table. Focus on correctness, security and edge cases.","/* SQL */
+-- write your SQL query below
+-- Example table: events(user_id INT, event_time TIMESTAMP, event_type TEXT)
+","[{""input"": ""sample events table"", ""output"": ""expected rows""}]","sql,databases,analytics","hard"
+"Authentication Flow — Web/Backend #33","Implement token-based authentication for login and protected endpoints. Focus on correctness, security and edge cases.","from flask import Flask, request, jsonify
+app = Flask(__name__)
+
+@app.route('/')
+def index():
+    return jsonify({""status"":""ok""})
+
+# implement endpoints
+
+if __name__ == '__main__':
+    app.run()","[{""input"": ""POST /posts?page=1"", ""output"": ""200 list""}, {""input"": ""POST /posts?page=1000"", ""output"": ""[]""}]","python,flask,api,web,security","medium"
+"Rate Limiter — Web/Backend #34","Implement a simple in-memory rate limiter for API requests per IP. Focus on correctness, security and edge cases.","from flask import Flask, request, jsonify
+app = Flask(__name__)
+
+@app.route('/')
+def index():
+    return jsonify({""status"":""ok""})
+
+# implement endpoints
+
+if __name__ == '__main__':
+    app.run()","[{""input"": ""POST /posts?page=1"", ""output"": ""200 list""}, {""input"": ""POST /posts?page=1000"", ""output"": ""[]""}]","python,flask,api,web,security","easy"
+"Database Schema Design — Web/Backend #35","Design normalized schema for e-commerce orders and products. Focus on correctness, security and edge cases.","/* backend skeleton */
+// implement service logic
+","[{""input"": ""sample input"", ""output"": ""expected output""}]","web,backend,design","medium"
+"Cache Invalidation — Web/Backend #36","Design cache strategy and demonstrate cache invalidation for product updates. Focus on correctness, security and edge cases.","/* backend skeleton */
+// implement service logic
+","[{""input"": ""sample input"", ""output"": ""expected output""}]","web,backend,design","easy"
+"File Upload API — Web/Backend #37","Implement chunked file upload API that resumes after interruption. Focus on correctness, security and edge cases.","from flask import Flask, request, jsonify
+app = Flask(__name__)
+
+@app.route('/')
+def index():
+    return jsonify({""status"":""ok""})
+
+# implement endpoints
+
+if __name__ == '__main__':
+    app.run()","[{""input"": ""POST /posts?page=1"", ""output"": ""200 list""}, {""input"": ""POST /posts?page=1000"", ""output"": ""[]""}]","python,flask,api,web,security","medium"
+"Webhook Consumer — Web/Backend #38","Design webhook consumer that handles duplicates and retries. Focus on correctness, security and edge cases.","/* backend skeleton */
+// implement service logic
+","[{""input"": ""sample input"", ""output"": ""expected output""}]","web,backend,design","medium"
+"GraphQL Basic Resolver — Web/Backend #39","Implement resolver for nested product reviews. Focus on correctness, security and edge cases.","# pseudo GraphQL resolver example
+# implement resolver function
+","[{""input"": ""product_id=1"", ""output"": ""reviews list""}]","graphql,api,web","medium"
+"CI/CD Pipeline Script — Web/Backend #40","Write script to deploy a Flask app via Docker and a CI step. Focus on correctness, security and edge cases.","# Dockerfile + deploy script (outline)
+# FROM python:3.10
+","[{""input"": ""docker build"", ""output"": ""success""}]","devops,ci,cd,docker","hard"
+"Design a RESTful Endpoint — Web/Backend #41","Design a REST API endpoint that paginates and returns JSON for posts. Focus on correctness, security and edge cases.","from flask import Flask, request, jsonify
+app = Flask(__name__)
+
+@app.route('/')
+def index():
+    return jsonify({""status"":""ok""})
+
+# implement endpoints
+
+if __name__ == '__main__':
+    app.run()","[{""input"": ""POST /posts?page=1"", ""output"": ""200 list""}, {""input"": ""POST /posts?page=1000"", ""output"": ""[]""}]","python,flask,api,web,security","easy"
+"SQL Join and Aggregation — Web/Backend #42","Write SQL query to compute monthly active users from events table. Focus on correctness, security and edge cases.","/* SQL */
+-- write your SQL query below
+-- Example table: events(user_id INT, event_time TIMESTAMP, event_type TEXT)
+","[{""input"": ""sample events table"", ""output"": ""expected rows""}]","sql,databases,analytics","hard"
+"Authentication Flow — Web/Backend #43","Implement token-based authentication for login and protected endpoints. Focus on correctness, security and edge cases.","from flask import Flask, request, jsonify
+app = Flask(__name__)
+
+@app.route('/')
+def index():
+    return jsonify({""status"":""ok""})
+
+# implement endpoints
+
+if __name__ == '__main__':
+    app.run()","[{""input"": ""POST /posts?page=1"", ""output"": ""200 list""}, {""input"": ""POST /posts?page=1000"", ""output"": ""[]""}]","python,flask,api,web,security","easy"
+"Rate Limiter — Web/Backend #44","Implement a simple in-memory rate limiter for API requests per IP. Focus on correctness, security and edge cases.","from flask import Flask, request, jsonify
+app = Flask(__name__)
+
+@app.route('/')
+def index():
+    return jsonify({""status"":""ok""})
+
+# implement endpoints
+
+if __name__ == '__main__':
+    app.run()","[{""input"": ""POST /posts?page=1"", ""output"": ""200 list""}, {""input"": ""POST /posts?page=1000"", ""output"": ""[]""}]","python,flask,api,web,security","easy"
+"Database Schema Design — Web/Backend #45","Design normalized schema for e-commerce orders and products. Focus on correctness, security and edge cases.","/* backend skeleton */
+// implement service logic
+","[{""input"": ""sample input"", ""output"": ""expected output""}]","web,backend,design","easy"
+"Cache Invalidation — Web/Backend #46","Design cache strategy and demonstrate cache invalidation for product updates. Focus on correctness, security and edge cases.","/* backend skeleton */
+// implement service logic
+","[{""input"": ""sample input"", ""output"": ""expected output""}]","web,backend,design","easy"
+"File Upload API — Web/Backend #47","Implement chunked file upload API that resumes after interruption. Focus on correctness, security and edge cases.","from flask import Flask, request, jsonify
+app = Flask(__name__)
+
+@app.route('/')
+def index():
+    return jsonify({""status"":""ok""})
+
+# implement endpoints
+
+if __name__ == '__main__':
+    app.run()","[{""input"": ""POST /posts?page=1"", ""output"": ""200 list""}, {""input"": ""POST /posts?page=1000"", ""output"": ""[]""}]","python,flask,api,web,security","easy"
+"Webhook Consumer — Web/Backend #48","Design webhook consumer that handles duplicates and retries. Focus on correctness, security and edge cases.","/* backend skeleton */
+// implement service logic
+","[{""input"": ""sample input"", ""output"": ""expected output""}]","web,backend,design","medium"
+"GraphQL Basic Resolver — Web/Backend #49","Implement resolver for nested product reviews. Focus on correctness, security and edge cases.","# pseudo GraphQL resolver example
+# implement resolver function
+","[{""input"": ""product_id=1"", ""output"": ""reviews list""}]","graphql,api,web","medium"
+"CI/CD Pipeline Script — Web/Backend #50","Write script to deploy a Flask app via Docker and a CI step. Focus on correctness, security and edge cases.","# Dockerfile + deploy script (outline)
+# FROM python:3.10
+","[{""input"": ""docker build"", ""output"": ""success""}]","devops,ci,cd,docker","medium"
+"Design a RESTful Endpoint — Web/Backend #51","Design a REST API endpoint that paginates and returns JSON for posts. Focus on correctness, security and edge cases.","from flask import Flask, request, jsonify
+app = Flask(__name__)
+
+@app.route('/')
+def index():
+    return jsonify({""status"":""ok""})
+
+# implement endpoints
+
+if __name__ == '__main__':
+    app.run()","[{""input"": ""POST /posts?page=1"", ""output"": ""200 list""}, {""input"": ""POST /posts?page=1000"", ""output"": ""[]""}]","python,flask,api,web,security","medium"
+"SQL Join and Aggregation — Web/Backend #52","Write SQL query to compute monthly active users from events table. Focus on correctness, security and edge cases.","/* SQL */
+-- write your SQL query below
+-- Example table: events(user_id INT, event_time TIMESTAMP, event_type TEXT)
+","[{""input"": ""sample events table"", ""output"": ""expected rows""}]","sql,databases,analytics","medium"
+"Authentication Flow — Web/Backend #53","Implement token-based authentication for login and protected endpoints. Focus on correctness, security and edge cases.","from flask import Flask, request, jsonify
+app = Flask(__name__)
+
+@app.route('/')
+def index():
+    return jsonify({""status"":""ok""})
+
+# implement endpoints
+
+if __name__ == '__main__':
+    app.run()","[{""input"": ""POST /posts?page=1"", ""output"": ""200 list""}, {""input"": ""POST /posts?page=1000"", ""output"": ""[]""}]","python,flask,api,web,security","medium"
+"Rate Limiter — Web/Backend #54","Implement a simple in-memory rate limiter for API requests per IP. Focus on correctness, security and edge cases.","from flask import Flask, request, jsonify
+app = Flask(__name__)
+
+@app.route('/')
+def index():
+    return jsonify({""status"":""ok""})
+
+# implement endpoints
+
+if __name__ == '__main__':
+    app.run()","[{""input"": ""POST /posts?page=1"", ""output"": ""200 list""}, {""input"": ""POST /posts?page=1000"", ""output"": ""[]""}]","python,flask,api,web,security","medium"
+"Database Schema Design — Web/Backend #55","Design normalized schema for e-commerce orders and products. Focus on correctness, security and edge cases.","/* backend skeleton */
+// implement service logic
+","[{""input"": ""sample input"", ""output"": ""expected output""}]","web,backend,design","easy"
+"Cache Invalidation — Web/Backend #56","Design cache strategy and demonstrate cache invalidation for product updates. Focus on correctness, security and edge cases.","/* backend skeleton */
+// implement service logic
+","[{""input"": ""sample input"", ""output"": ""expected output""}]","web,backend,design","easy"
+"File Upload API — Web/Backend #57","Implement chunked file upload API that resumes after interruption. Focus on correctness, security and edge cases.","from flask import Flask, request, jsonify
+app = Flask(__name__)
+
+@app.route('/')
+def index():
+    return jsonify({""status"":""ok""})
+
+# implement endpoints
+
+if __name__ == '__main__':
+    app.run()","[{""input"": ""POST /posts?page=1"", ""output"": ""200 list""}, {""input"": ""POST /posts?page=1000"", ""output"": ""[]""}]","python,flask,api,web,security","easy"
+"Webhook Consumer — Web/Backend #58","Design webhook consumer that handles duplicates and retries. Focus on correctness, security and edge cases.","/* backend skeleton */
+// implement service logic
+","[{""input"": ""sample input"", ""output"": ""expected output""}]","web,backend,design","medium"
+"GraphQL Basic Resolver — Web/Backend #59","Implement resolver for nested product reviews. Focus on correctness, security and edge cases.","# pseudo GraphQL resolver example
+# implement resolver function
+","[{""input"": ""product_id=1"", ""output"": ""reviews list""}]","graphql,api,web","medium"
+"CI/CD Pipeline Script — Web/Backend #60","Write script to deploy a Flask app via Docker and a CI step. Focus on correctness, security and edge cases.","# Dockerfile + deploy script (outline)
+# FROM python:3.10
+","[{""input"": ""docker build"", ""output"": ""success""}]","devops,ci,cd,docker","easy"
+"Design a RESTful Endpoint — Web/Backend #61","Design a REST API endpoint that paginates and returns JSON for posts. Focus on correctness, security and edge cases.","from flask import Flask, request, jsonify
+app = Flask(__name__)
+
+@app.route('/')
+def index():
+    return jsonify({""status"":""ok""})
+
+# implement endpoints
+
+if __name__ == '__main__':
+    app.run()","[{""input"": ""POST /posts?page=1"", ""output"": ""200 list""}, {""input"": ""POST /posts?page=1000"", ""output"": ""[]""}]","python,flask,api,web,security","medium"
+"SQL Join and Aggregation — Web/Backend #62","Write SQL query to compute monthly active users from events table. Focus on correctness, security and edge cases.","/* SQL */
+-- write your SQL query below
+-- Example table: events(user_id INT, event_time TIMESTAMP, event_type TEXT)
+","[{""input"": ""sample events table"", ""output"": ""expected rows""}]","sql,databases,analytics","medium"
+"Authentication Flow — Web/Backend #63","Implement token-based authentication for login and protected endpoints. Focus on correctness, security and edge cases.","from flask import Flask, request, jsonify
+app = Flask(__name__)
+
+@app.route('/')
+def index():
+    return jsonify({""status"":""ok""})
+
+# implement endpoints
+
+if __name__ == '__main__':
+    app.run()","[{""input"": ""POST /posts?page=1"", ""output"": ""200 list""}, {""input"": ""POST /posts?page=1000"", ""output"": ""[]""}]","python,flask,api,web,security","hard"
+"Rate Limiter — Web/Backend #64","Implement a simple in-memory rate limiter for API requests per IP. Focus on correctness, security and edge cases.","from flask import Flask, request, jsonify
+app = Flask(__name__)
+
+@app.route('/')
+def index():
+    return jsonify({""status"":""ok""})
+
+# implement endpoints
+
+if __name__ == '__main__':
+    app.run()","[{""input"": ""POST /posts?page=1"", ""output"": ""200 list""}, {""input"": ""POST /posts?page=1000"", ""output"": ""[]""}]","python,flask,api,web,security","easy"
+"Database Schema Design — Web/Backend #65","Design normalized schema for e-commerce orders and products. Focus on correctness, security and edge cases.","/* backend skeleton */
+// implement service logic
+","[{""input"": ""sample input"", ""output"": ""expected output""}]","web,backend,design","medium"
+"Cache Invalidation — Web/Backend #66","Design cache strategy and demonstrate cache invalidation for product updates. Focus on correctness, security and edge cases.","/* backend skeleton */
+// implement service logic
+","[{""input"": ""sample input"", ""output"": ""expected output""}]","web,backend,design","easy"
+"File Upload API — Web/Backend #67","Implement chunked file upload API that resumes after interruption. Focus on correctness, security and edge cases.","from flask import Flask, request, jsonify
+app = Flask(__name__)
+
+@app.route('/')
+def index():
+    return jsonify({""status"":""ok""})
+
+# implement endpoints
+
+if __name__ == '__main__':
+    app.run()","[{""input"": ""POST /posts?page=1"", ""output"": ""200 list""}, {""input"": ""POST /posts?page=1000"", ""output"": ""[]""}]","python,flask,api,web,security","hard"
+"Webhook Consumer — Web/Backend #68","Design webhook consumer that handles duplicates and retries. Focus on correctness, security and edge cases.","/* backend skeleton */
+// implement service logic
+","[{""input"": ""sample input"", ""output"": ""expected output""}]","web,backend,design","hard"
+"GraphQL Basic Resolver — Web/Backend #69","Implement resolver for nested product reviews. Focus on correctness, security and edge cases.","# pseudo GraphQL resolver example
+# implement resolver function
+","[{""input"": ""product_id=1"", ""output"": ""reviews list""}]","graphql,api,web","easy"
+"CI/CD Pipeline Script — Web/Backend #70","Write script to deploy a Flask app via Docker and a CI step. Focus on correctness, security and edge cases.","# Dockerfile + deploy script (outline)
+# FROM python:3.10
+","[{""input"": ""docker build"", ""output"": ""success""}]","devops,ci,cd,docker","medium"
+"Design a RESTful Endpoint — Web/Backend #71","Design a REST API endpoint that paginates and returns JSON for posts. Focus on correctness, security and edge cases.","from flask import Flask, request, jsonify
+app = Flask(__name__)
+
+@app.route('/')
+def index():
+    return jsonify({""status"":""ok""})
+
+# implement endpoints
+
+if __name__ == '__main__':
+    app.run()","[{""input"": ""POST /posts?page=1"", ""output"": ""200 list""}, {""input"": ""POST /posts?page=1000"", ""output"": ""[]""}]","python,flask,api,web,security","easy"
+"SQL Join and Aggregation — Web/Backend #72","Write SQL query to compute monthly active users from events table. Focus on correctness, security and edge cases.","/* SQL */
+-- write your SQL query below
+-- Example table: events(user_id INT, event_time TIMESTAMP, event_type TEXT)
+","[{""input"": ""sample events table"", ""output"": ""expected rows""}]","sql,databases,analytics","medium"
+"Authentication Flow — Web/Backend #73","Implement token-based authentication for login and protected endpoints. Focus on correctness, security and edge cases.","from flask import Flask, request, jsonify
+app = Flask(__name__)
+
+@app.route('/')
+def index():
+    return jsonify({""status"":""ok""})
+
+# implement endpoints
+
+if __name__ == '__main__':
+    app.run()","[{""input"": ""POST /posts?page=1"", ""output"": ""200 list""}, {""input"": ""POST /posts?page=1000"", ""output"": ""[]""}]","python,flask,api,web,security","medium"
+"Rate Limiter — Web/Backend #74","Implement a simple in-memory rate limiter for API requests per IP. Focus on correctness, security and edge cases.","from flask import Flask, request, jsonify
+app = Flask(__name__)
+
+@app.route('/')
+def index():
+    return jsonify({""status"":""ok""})
+
+# implement endpoints
+
+if __name__ == '__main__':
+    app.run()","[{""input"": ""POST /posts?page=1"", ""output"": ""200 list""}, {""input"": ""POST /posts?page=1000"", ""output"": ""[]""}]","python,flask,api,web,security","medium"
+"Database Schema Design — Web/Backend #75","Design normalized schema for e-commerce orders and products. Focus on correctness, security and edge cases.","/* backend skeleton */
+// implement service logic
+","[{""input"": ""sample input"", ""output"": ""expected output""}]","web,backend,design","medium"
+"Cache Invalidation — Web/Backend #76","Design cache strategy and demonstrate cache invalidation for product updates. Focus on correctness, security and edge cases.","/* backend skeleton */
+// implement service logic
+","[{""input"": ""sample input"", ""output"": ""expected output""}]","web,backend,design","medium"
+"File Upload API — Web/Backend #77","Implement chunked file upload API that resumes after interruption. Focus on correctness, security and edge cases.","from flask import Flask, request, jsonify
+app = Flask(__name__)
+
+@app.route('/')
+def index():
+    return jsonify({""status"":""ok""})
+
+# implement endpoints
+
+if __name__ == '__main__':
+    app.run()","[{""input"": ""POST /posts?page=1"", ""output"": ""200 list""}, {""input"": ""POST /posts?page=1000"", ""output"": ""[]""}]","python,flask,api,web,security","medium"
+"Webhook Consumer — Web/Backend #78","Design webhook consumer that handles duplicates and retries. Focus on correctness, security and edge cases.","/* backend skeleton */
+// implement service logic
+","[{""input"": ""sample input"", ""output"": ""expected output""}]","web,backend,design","hard"
+"GraphQL Basic Resolver — Web/Backend #79","Implement resolver for nested product reviews. Focus on correctness, security and edge cases.","# pseudo GraphQL resolver example
+# implement resolver function
+","[{""input"": ""product_id=1"", ""output"": ""reviews list""}]","graphql,api,web","easy"
+"CI/CD Pipeline Script — Web/Backend #80","Write script to deploy a Flask app via Docker and a CI step. Focus on correctness, security and edge cases.","# Dockerfile + deploy script (outline)
+# FROM python:3.10
+","[{""input"": ""docker build"", ""output"": ""success""}]","devops,ci,cd,docker","medium"
+"Design a RESTful Endpoint — Web/Backend #81","Design a REST API endpoint that paginates and returns JSON for posts. Focus on correctness, security and edge cases.","from flask import Flask, request, jsonify
+app = Flask(__name__)
+
+@app.route('/')
+def index():
+    return jsonify({""status"":""ok""})
+
+# implement endpoints
+
+if __name__ == '__main__':
+    app.run()","[{""input"": ""POST /posts?page=1"", ""output"": ""200 list""}, {""input"": ""POST /posts?page=1000"", ""output"": ""[]""}]","python,flask,api,web,security","hard"
+"SQL Join and Aggregation — Web/Backend #82","Write SQL query to compute monthly active users from events table. Focus on correctness, security and edge cases.","/* SQL */
+-- write your SQL query below
+-- Example table: events(user_id INT, event_time TIMESTAMP, event_type TEXT)
+","[{""input"": ""sample events table"", ""output"": ""expected rows""}]","sql,databases,analytics","easy"
+"Authentication Flow — Web/Backend #83","Implement token-based authentication for login and protected endpoints. Focus on correctness, security and edge cases.","from flask import Flask, request, jsonify
+app = Flask(__name__)
+
+@app.route('/')
+def index():
+    return jsonify({""status"":""ok""})
+
+# implement endpoints
+
+if __name__ == '__main__':
+    app.run()","[{""input"": ""POST /posts?page=1"", ""output"": ""200 list""}, {""input"": ""POST /posts?page=1000"", ""output"": ""[]""}]","python,flask,api,web,security","easy"
+"Rate Limiter — Web/Backend #84","Implement a simple in-memory rate limiter for API requests per IP. Focus on correctness, security and edge cases.","from flask import Flask, request, jsonify
+app = Flask(__name__)
+
+@app.route('/')
+def index():
+    return jsonify({""status"":""ok""})
+
+# implement endpoints
+
+if __name__ == '__main__':
+    app.run()","[{""input"": ""POST /posts?page=1"", ""output"": ""200 list""}, {""input"": ""POST /posts?page=1000"", ""output"": ""[]""}]","python,flask,api,web,security","easy"
+"Database Schema Design — Web/Backend #85","Design normalized schema for e-commerce orders and products. Focus on correctness, security and edge cases.","/* backend skeleton */
+// implement service logic
+","[{""input"": ""sample input"", ""output"": ""expected output""}]","web,backend,design","hard"
+"Cache Invalidation — Web/Backend #86","Design cache strategy and demonstrate cache invalidation for product updates. Focus on correctness, security and edge cases.","/* backend skeleton */
+// implement service logic
+","[{""input"": ""sample input"", ""output"": ""expected output""}]","web,backend,design","medium"
+"File Upload API — Web/Backend #87","Implement chunked file upload API that resumes after interruption. Focus on correctness, security and edge cases.","from flask import Flask, request, jsonify
+app = Flask(__name__)
+
+@app.route('/')
+def index():
+    return jsonify({""status"":""ok""})
+
+# implement endpoints
+
+if __name__ == '__main__':
+    app.run()","[{""input"": ""POST /posts?page=1"", ""output"": ""200 list""}, {""input"": ""POST /posts?page=1000"", ""output"": ""[]""}]","python,flask,api,web,security","medium"
+"Webhook Consumer — Web/Backend #88","Design webhook consumer that handles duplicates and retries. Focus on correctness, security and edge cases.","/* backend skeleton */
+// implement service logic
+","[{""input"": ""sample input"", ""output"": ""expected output""}]","web,backend,design","medium"
+"GraphQL Basic Resolver — Web/Backend #89","Implement resolver for nested product reviews. Focus on correctness, security and edge cases.","# pseudo GraphQL resolver example
+# implement resolver function
+","[{""input"": ""product_id=1"", ""output"": ""reviews list""}]","graphql,api,web","medium"
+"CI/CD Pipeline Script — Web/Backend #90","Write script to deploy a Flask app via Docker and a CI step. Focus on correctness, security and edge cases.","# Dockerfile + deploy script (outline)
+# FROM python:3.10
+","[{""input"": ""docker build"", ""output"": ""success""}]","devops,ci,cd,docker","hard"
+"Design a RESTful Endpoint — Web/Backend #91","Design a REST API endpoint that paginates and returns JSON for posts. Focus on correctness, security and edge cases.","from flask import Flask, request, jsonify
+app = Flask(__name__)
+
+@app.route('/')
+def index():
+    return jsonify({""status"":""ok""})
+
+# implement endpoints
+
+if __name__ == '__main__':
+    app.run()","[{""input"": ""POST /posts?page=1"", ""output"": ""200 list""}, {""input"": ""POST /posts?page=1000"", ""output"": ""[]""}]","python,flask,api,web,security","medium"
+"SQL Join and Aggregation — Web/Backend #92","Write SQL query to compute monthly active users from events table. Focus on correctness, security and edge cases.","/* SQL */
+-- write your SQL query below
+-- Example table: events(user_id INT, event_time TIMESTAMP, event_type TEXT)
+","[{""input"": ""sample events table"", ""output"": ""expected rows""}]","sql,databases,analytics","medium"
+"Authentication Flow — Web/Backend #93","Implement token-based authentication for login and protected endpoints. Focus on correctness, security and edge cases.","from flask import Flask, request, jsonify
+app = Flask(__name__)
+
+@app.route('/')
+def index():
+    return jsonify({""status"":""ok""})
+
+# implement endpoints
+
+if __name__ == '__main__':
+    app.run()","[{""input"": ""POST /posts?page=1"", ""output"": ""200 list""}, {""input"": ""POST /posts?page=1000"", ""output"": ""[]""}]","python,flask,api,web,security","medium"
+"Rate Limiter — Web/Backend #94","Implement a simple in-memory rate limiter for API requests per IP. Focus on correctness, security and edge cases.","from flask import Flask, request, jsonify
+app = Flask(__name__)
+
+@app.route('/')
+def index():
+    return jsonify({""status"":""ok""})
+
+# implement endpoints
+
+if __name__ == '__main__':
+    app.run()","[{""input"": ""POST /posts?page=1"", ""output"": ""200 list""}, {""input"": ""POST /posts?page=1000"", ""output"": ""[]""}]","python,flask,api,web,security","medium"
+"Database Schema Design — Web/Backend #95","Design normalized schema for e-commerce orders and products. Focus on correctness, security and edge cases.","/* backend skeleton */
+// implement service logic
+","[{""input"": ""sample input"", ""output"": ""expected output""}]","web,backend,design","medium"
+"Cache Invalidation — Web/Backend #96","Design cache strategy and demonstrate cache invalidation for product updates. Focus on correctness, security and edge cases.","/* backend skeleton */
+// implement service logic
+","[{""input"": ""sample input"", ""output"": ""expected output""}]","web,backend,design","hard"
+"File Upload API — Web/Backend #97","Implement chunked file upload API that resumes after interruption. Focus on correctness, security and edge cases.","from flask import Flask, request, jsonify
+app = Flask(__name__)
+
+@app.route('/')
+def index():
+    return jsonify({""status"":""ok""})
+
+# implement endpoints
+
+if __name__ == '__main__':
+    app.run()","[{""input"": ""POST /posts?page=1"", ""output"": ""200 list""}, {""input"": ""POST /posts?page=1000"", ""output"": ""[]""}]","python,flask,api,web,security","easy"
+"Webhook Consumer — Web/Backend #98","Design webhook consumer that handles duplicates and retries. Focus on correctness, security and edge cases.","/* backend skeleton */
+// implement service logic
+","[{""input"": ""sample input"", ""output"": ""expected output""}]","web,backend,design","easy"
+"GraphQL Basic Resolver — Web/Backend #99","Implement resolver for nested product reviews. Focus on correctness, security and edge cases.","# pseudo GraphQL resolver example
+# implement resolver function
+","[{""input"": ""product_id=1"", ""output"": ""reviews list""}]","graphql,api,web","medium"
+"CI/CD Pipeline Script — Web/Backend #100","Write script to deploy a Flask app via Docker and a CI step. Focus on correctness, security and edge cases.","# Dockerfile + deploy script (outline)
+# FROM python:3.10
+","[{""input"": ""docker build"", ""output"": ""success""}]","devops,ci,cd,docker","medium"
+"Data Cleaning Pipeline — Data/ML #1","Given raw CSV with missing values and inconsistent types, design cleaning steps and implement them. Provide code + explanation and complexity where applicable.","import pandas as pd
+from sklearn.model_selection import train_test_split
+
+def solve(path_to_csv):
+    # load and implement
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""sample.csv"", ""output"": ""metrics_or_output""}]","python,pandas,ml,data-engineering,sklearn","hard"
+"Feature Engineering — Data/ML #2","Create features for time-series forecasting using lag and rolling stats. Provide code + explanation and complexity where applicable.","import pandas as pd
+from sklearn.model_selection import train_test_split
+
+def solve(path_to_csv):
+    # load and implement
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""sample.csv"", ""output"": ""metrics_or_output""}]","python,pandas,ml,data-engineering,sklearn","easy"
+"Train/Test Split & Leakage — Data/ML #3","Explain and implement correct train/test split to avoid leakage. Provide code + explanation and complexity where applicable.","import pandas as pd
+from sklearn.model_selection import train_test_split
+
+def solve(path_to_csv):
+    # load and implement
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""sample.csv"", ""output"": ""metrics_or_output""}]","python,pandas,ml,data-engineering,sklearn","medium"
+"Train a Classifier — Data/ML #4","Train a binary classifier and return precision/recall on test set. Provide code + explanation and complexity where applicable.","import pandas as pd
+from sklearn.model_selection import train_test_split
+
+def solve(path_to_csv):
+    # load and implement
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""sample.csv"", ""output"": ""metrics_or_output""}]","python,pandas,ml,data-engineering,sklearn","easy"
+"Hyperparameter Search — Data/ML #5","Implement grid search or randomized search to tune model hyperparameters. Provide code + explanation and complexity where applicable.","import pandas as pd
+from sklearn.model_selection import train_test_split
+
+def solve(path_to_csv):
+    # load and implement
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""sample.csv"", ""output"": ""metrics_or_output""}]","python,pandas,ml,data-engineering,sklearn","easy"
+"SQL for ETL — Data/ML #6","Write SQL to transform raw events into a user-level aggregated table. Provide code + explanation and complexity where applicable.","import pandas as pd
+from sklearn.model_selection import train_test_split
+
+def solve(path_to_csv):
+    # load and implement
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""sample.csv"", ""output"": ""metrics_or_output""}]","python,pandas,ml,data-engineering,sklearn","hard"
+"Batch Inference — Data/ML #7","Design batch inference pipeline that scales for 1M records. Provide code + explanation and complexity where applicable.","import pandas as pd
+from sklearn.model_selection import train_test_split
+
+def solve(path_to_csv):
+    # load and implement
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""sample.csv"", ""output"": ""metrics_or_output""}]","python,pandas,ml,data-engineering,sklearn","easy"
+"Model Explainability — Data/ML #8","Generate SHAP-style explanations for model predictions. Provide code + explanation and complexity where applicable.","import pandas as pd
+from sklearn.model_selection import train_test_split
+
+def solve(path_to_csv):
+    # load and implement
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""sample.csv"", ""output"": ""metrics_or_output""}]","python,pandas,ml,data-engineering,sklearn","easy"
+"Data Schema Migration — Data/ML #9","Plan and write migration to update column types safely. Provide code + explanation and complexity where applicable.","import pandas as pd
+from sklearn.model_selection import train_test_split
+
+def solve(path_to_csv):
+    # load and implement
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""sample.csv"", ""output"": ""metrics_or_output""}]","python,pandas,ml,data-engineering,sklearn","easy"
+"Anomaly Detection — Data/ML #10","Implement simple statistical anomaly detector for sensor data. Provide code + explanation and complexity where applicable.","import pandas as pd
+from sklearn.model_selection import train_test_split
+
+def solve(path_to_csv):
+    # load and implement
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""sample.csv"", ""output"": ""metrics_or_output""}]","python,pandas,ml,data-engineering,sklearn","hard"
+"Data Cleaning Pipeline — Data/ML #11","Given raw CSV with missing values and inconsistent types, design cleaning steps and implement them. Provide code + explanation and complexity where applicable.","import pandas as pd
+from sklearn.model_selection import train_test_split
+
+def solve(path_to_csv):
+    # load and implement
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""sample.csv"", ""output"": ""metrics_or_output""}]","python,pandas,ml,data-engineering,sklearn","easy"
+"Feature Engineering — Data/ML #12","Create features for time-series forecasting using lag and rolling stats. Provide code + explanation and complexity where applicable.","import pandas as pd
+from sklearn.model_selection import train_test_split
+
+def solve(path_to_csv):
+    # load and implement
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""sample.csv"", ""output"": ""metrics_or_output""}]","python,pandas,ml,data-engineering,sklearn","easy"
+"Train/Test Split & Leakage — Data/ML #13","Explain and implement correct train/test split to avoid leakage. Provide code + explanation and complexity where applicable.","import pandas as pd
+from sklearn.model_selection import train_test_split
+
+def solve(path_to_csv):
+    # load and implement
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""sample.csv"", ""output"": ""metrics_or_output""}]","python,pandas,ml,data-engineering,sklearn","medium"
+"Train a Classifier — Data/ML #14","Train a binary classifier and return precision/recall on test set. Provide code + explanation and complexity where applicable.","import pandas as pd
+from sklearn.model_selection import train_test_split
+
+def solve(path_to_csv):
+    # load and implement
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""sample.csv"", ""output"": ""metrics_or_output""}]","python,pandas,ml,data-engineering,sklearn","medium"
+"Hyperparameter Search — Data/ML #15","Implement grid search or randomized search to tune model hyperparameters. Provide code + explanation and complexity where applicable.","import pandas as pd
+from sklearn.model_selection import train_test_split
+
+def solve(path_to_csv):
+    # load and implement
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""sample.csv"", ""output"": ""metrics_or_output""}]","python,pandas,ml,data-engineering,sklearn","medium"
+"SQL for ETL — Data/ML #16","Write SQL to transform raw events into a user-level aggregated table. Provide code + explanation and complexity where applicable.","import pandas as pd
+from sklearn.model_selection import train_test_split
+
+def solve(path_to_csv):
+    # load and implement
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""sample.csv"", ""output"": ""metrics_or_output""}]","python,pandas,ml,data-engineering,sklearn","medium"
+"Batch Inference — Data/ML #17","Design batch inference pipeline that scales for 1M records. Provide code + explanation and complexity where applicable.","import pandas as pd
+from sklearn.model_selection import train_test_split
+
+def solve(path_to_csv):
+    # load and implement
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""sample.csv"", ""output"": ""metrics_or_output""}]","python,pandas,ml,data-engineering,sklearn","medium"
+"Model Explainability — Data/ML #18","Generate SHAP-style explanations for model predictions. Provide code + explanation and complexity where applicable.","import pandas as pd
+from sklearn.model_selection import train_test_split
+
+def solve(path_to_csv):
+    # load and implement
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""sample.csv"", ""output"": ""metrics_or_output""}]","python,pandas,ml,data-engineering,sklearn","easy"
+"Data Schema Migration — Data/ML #19","Plan and write migration to update column types safely. Provide code + explanation and complexity where applicable.","import pandas as pd
+from sklearn.model_selection import train_test_split
+
+def solve(path_to_csv):
+    # load and implement
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""sample.csv"", ""output"": ""metrics_or_output""}]","python,pandas,ml,data-engineering,sklearn","medium"
+"Anomaly Detection — Data/ML #20","Implement simple statistical anomaly detector for sensor data. Provide code + explanation and complexity where applicable.","import pandas as pd
+from sklearn.model_selection import train_test_split
+
+def solve(path_to_csv):
+    # load and implement
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""sample.csv"", ""output"": ""metrics_or_output""}]","python,pandas,ml,data-engineering,sklearn","hard"
+"Data Cleaning Pipeline — Data/ML #21","Given raw CSV with missing values and inconsistent types, design cleaning steps and implement them. Provide code + explanation and complexity where applicable.","import pandas as pd
+from sklearn.model_selection import train_test_split
+
+def solve(path_to_csv):
+    # load and implement
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""sample.csv"", ""output"": ""metrics_or_output""}]","python,pandas,ml,data-engineering,sklearn","hard"
+"Feature Engineering — Data/ML #22","Create features for time-series forecasting using lag and rolling stats. Provide code + explanation and complexity where applicable.","import pandas as pd
+from sklearn.model_selection import train_test_split
+
+def solve(path_to_csv):
+    # load and implement
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""sample.csv"", ""output"": ""metrics_or_output""}]","python,pandas,ml,data-engineering,sklearn","medium"
+"Train/Test Split & Leakage — Data/ML #23","Explain and implement correct train/test split to avoid leakage. Provide code + explanation and complexity where applicable.","import pandas as pd
+from sklearn.model_selection import train_test_split
+
+def solve(path_to_csv):
+    # load and implement
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""sample.csv"", ""output"": ""metrics_or_output""}]","python,pandas,ml,data-engineering,sklearn","medium"
+"Train a Classifier — Data/ML #24","Train a binary classifier and return precision/recall on test set. Provide code + explanation and complexity where applicable.","import pandas as pd
+from sklearn.model_selection import train_test_split
+
+def solve(path_to_csv):
+    # load and implement
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""sample.csv"", ""output"": ""metrics_or_output""}]","python,pandas,ml,data-engineering,sklearn","medium"
+"Hyperparameter Search — Data/ML #25","Implement grid search or randomized search to tune model hyperparameters. Provide code + explanation and complexity where applicable.","import pandas as pd
+from sklearn.model_selection import train_test_split
+
+def solve(path_to_csv):
+    # load and implement
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""sample.csv"", ""output"": ""metrics_or_output""}]","python,pandas,ml,data-engineering,sklearn","hard"
+"SQL for ETL — Data/ML #26","Write SQL to transform raw events into a user-level aggregated table. Provide code + explanation and complexity where applicable.","import pandas as pd
+from sklearn.model_selection import train_test_split
+
+def solve(path_to_csv):
+    # load and implement
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""sample.csv"", ""output"": ""metrics_or_output""}]","python,pandas,ml,data-engineering,sklearn","hard"
+"Batch Inference — Data/ML #27","Design batch inference pipeline that scales for 1M records. Provide code + explanation and complexity where applicable.","import pandas as pd
+from sklearn.model_selection import train_test_split
+
+def solve(path_to_csv):
+    # load and implement
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""sample.csv"", ""output"": ""metrics_or_output""}]","python,pandas,ml,data-engineering,sklearn","easy"
+"Model Explainability — Data/ML #28","Generate SHAP-style explanations for model predictions. Provide code + explanation and complexity where applicable.","import pandas as pd
+from sklearn.model_selection import train_test_split
+
+def solve(path_to_csv):
+    # load and implement
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""sample.csv"", ""output"": ""metrics_or_output""}]","python,pandas,ml,data-engineering,sklearn","medium"
+"Data Schema Migration — Data/ML #29","Plan and write migration to update column types safely. Provide code + explanation and complexity where applicable.","import pandas as pd
+from sklearn.model_selection import train_test_split
+
+def solve(path_to_csv):
+    # load and implement
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""sample.csv"", ""output"": ""metrics_or_output""}]","python,pandas,ml,data-engineering,sklearn","hard"
+"Anomaly Detection — Data/ML #30","Implement simple statistical anomaly detector for sensor data. Provide code + explanation and complexity where applicable.","import pandas as pd
+from sklearn.model_selection import train_test_split
+
+def solve(path_to_csv):
+    # load and implement
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""sample.csv"", ""output"": ""metrics_or_output""}]","python,pandas,ml,data-engineering,sklearn","medium"
+"Data Cleaning Pipeline — Data/ML #31","Given raw CSV with missing values and inconsistent types, design cleaning steps and implement them. Provide code + explanation and complexity where applicable.","import pandas as pd
+from sklearn.model_selection import train_test_split
+
+def solve(path_to_csv):
+    # load and implement
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""sample.csv"", ""output"": ""metrics_or_output""}]","python,pandas,ml,data-engineering,sklearn","easy"
+"Feature Engineering — Data/ML #32","Create features for time-series forecasting using lag and rolling stats. Provide code + explanation and complexity where applicable.","import pandas as pd
+from sklearn.model_selection import train_test_split
+
+def solve(path_to_csv):
+    # load and implement
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""sample.csv"", ""output"": ""metrics_or_output""}]","python,pandas,ml,data-engineering,sklearn","easy"
+"Train/Test Split & Leakage — Data/ML #33","Explain and implement correct train/test split to avoid leakage. Provide code + explanation and complexity where applicable.","import pandas as pd
+from sklearn.model_selection import train_test_split
+
+def solve(path_to_csv):
+    # load and implement
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""sample.csv"", ""output"": ""metrics_or_output""}]","python,pandas,ml,data-engineering,sklearn","medium"
+"Train a Classifier — Data/ML #34","Train a binary classifier and return precision/recall on test set. Provide code + explanation and complexity where applicable.","import pandas as pd
+from sklearn.model_selection import train_test_split
+
+def solve(path_to_csv):
+    # load and implement
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""sample.csv"", ""output"": ""metrics_or_output""}]","python,pandas,ml,data-engineering,sklearn","hard"
+"Hyperparameter Search — Data/ML #35","Implement grid search or randomized search to tune model hyperparameters. Provide code + explanation and complexity where applicable.","import pandas as pd
+from sklearn.model_selection import train_test_split
+
+def solve(path_to_csv):
+    # load and implement
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""sample.csv"", ""output"": ""metrics_or_output""}]","python,pandas,ml,data-engineering,sklearn","medium"
+"SQL for ETL — Data/ML #36","Write SQL to transform raw events into a user-level aggregated table. Provide code + explanation and complexity where applicable.","import pandas as pd
+from sklearn.model_selection import train_test_split
+
+def solve(path_to_csv):
+    # load and implement
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""sample.csv"", ""output"": ""metrics_or_output""}]","python,pandas,ml,data-engineering,sklearn","medium"
+"Batch Inference — Data/ML #37","Design batch inference pipeline that scales for 1M records. Provide code + explanation and complexity where applicable.","import pandas as pd
+from sklearn.model_selection import train_test_split
+
+def solve(path_to_csv):
+    # load and implement
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""sample.csv"", ""output"": ""metrics_or_output""}]","python,pandas,ml,data-engineering,sklearn","easy"
+"Model Explainability — Data/ML #38","Generate SHAP-style explanations for model predictions. Provide code + explanation and complexity where applicable.","import pandas as pd
+from sklearn.model_selection import train_test_split
+
+def solve(path_to_csv):
+    # load and implement
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""sample.csv"", ""output"": ""metrics_or_output""}]","python,pandas,ml,data-engineering,sklearn","medium"
+"Data Schema Migration — Data/ML #39","Plan and write migration to update column types safely. Provide code + explanation and complexity where applicable.","import pandas as pd
+from sklearn.model_selection import train_test_split
+
+def solve(path_to_csv):
+    # load and implement
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""sample.csv"", ""output"": ""metrics_or_output""}]","python,pandas,ml,data-engineering,sklearn","easy"
+"Anomaly Detection — Data/ML #40","Implement simple statistical anomaly detector for sensor data. Provide code + explanation and complexity where applicable.","import pandas as pd
+from sklearn.model_selection import train_test_split
+
+def solve(path_to_csv):
+    # load and implement
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""sample.csv"", ""output"": ""metrics_or_output""}]","python,pandas,ml,data-engineering,sklearn","hard"
+"Data Cleaning Pipeline — Data/ML #41","Given raw CSV with missing values and inconsistent types, design cleaning steps and implement them. Provide code + explanation and complexity where applicable.","import pandas as pd
+from sklearn.model_selection import train_test_split
+
+def solve(path_to_csv):
+    # load and implement
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""sample.csv"", ""output"": ""metrics_or_output""}]","python,pandas,ml,data-engineering,sklearn","easy"
+"Feature Engineering — Data/ML #42","Create features for time-series forecasting using lag and rolling stats. Provide code + explanation and complexity where applicable.","import pandas as pd
+from sklearn.model_selection import train_test_split
+
+def solve(path_to_csv):
+    # load and implement
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""sample.csv"", ""output"": ""metrics_or_output""}]","python,pandas,ml,data-engineering,sklearn","medium"
+"Train/Test Split & Leakage — Data/ML #43","Explain and implement correct train/test split to avoid leakage. Provide code + explanation and complexity where applicable.","import pandas as pd
+from sklearn.model_selection import train_test_split
+
+def solve(path_to_csv):
+    # load and implement
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""sample.csv"", ""output"": ""metrics_or_output""}]","python,pandas,ml,data-engineering,sklearn","hard"
+"Train a Classifier — Data/ML #44","Train a binary classifier and return precision/recall on test set. Provide code + explanation and complexity where applicable.","import pandas as pd
+from sklearn.model_selection import train_test_split
+
+def solve(path_to_csv):
+    # load and implement
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""sample.csv"", ""output"": ""metrics_or_output""}]","python,pandas,ml,data-engineering,sklearn","medium"
+"Hyperparameter Search — Data/ML #45","Implement grid search or randomized search to tune model hyperparameters. Provide code + explanation and complexity where applicable.","import pandas as pd
+from sklearn.model_selection import train_test_split
+
+def solve(path_to_csv):
+    # load and implement
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""sample.csv"", ""output"": ""metrics_or_output""}]","python,pandas,ml,data-engineering,sklearn","easy"
+"SQL for ETL — Data/ML #46","Write SQL to transform raw events into a user-level aggregated table. Provide code + explanation and complexity where applicable.","import pandas as pd
+from sklearn.model_selection import train_test_split
+
+def solve(path_to_csv):
+    # load and implement
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""sample.csv"", ""output"": ""metrics_or_output""}]","python,pandas,ml,data-engineering,sklearn","hard"
+"Batch Inference — Data/ML #47","Design batch inference pipeline that scales for 1M records. Provide code + explanation and complexity where applicable.","import pandas as pd
+from sklearn.model_selection import train_test_split
+
+def solve(path_to_csv):
+    # load and implement
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""sample.csv"", ""output"": ""metrics_or_output""}]","python,pandas,ml,data-engineering,sklearn","easy"
+"Model Explainability — Data/ML #48","Generate SHAP-style explanations for model predictions. Provide code + explanation and complexity where applicable.","import pandas as pd
+from sklearn.model_selection import train_test_split
+
+def solve(path_to_csv):
+    # load and implement
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""sample.csv"", ""output"": ""metrics_or_output""}]","python,pandas,ml,data-engineering,sklearn","hard"
+"Data Schema Migration — Data/ML #49","Plan and write migration to update column types safely. Provide code + explanation and complexity where applicable.","import pandas as pd
+from sklearn.model_selection import train_test_split
+
+def solve(path_to_csv):
+    # load and implement
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""sample.csv"", ""output"": ""metrics_or_output""}]","python,pandas,ml,data-engineering,sklearn","easy"
+"Anomaly Detection — Data/ML #50","Implement simple statistical anomaly detector for sensor data. Provide code + explanation and complexity where applicable.","import pandas as pd
+from sklearn.model_selection import train_test_split
+
+def solve(path_to_csv):
+    # load and implement
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""sample.csv"", ""output"": ""metrics_or_output""}]","python,pandas,ml,data-engineering,sklearn","easy"
+"Data Cleaning Pipeline — Data/ML #51","Given raw CSV with missing values and inconsistent types, design cleaning steps and implement them. Provide code + explanation and complexity where applicable.","import pandas as pd
+from sklearn.model_selection import train_test_split
+
+def solve(path_to_csv):
+    # load and implement
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""sample.csv"", ""output"": ""metrics_or_output""}]","python,pandas,ml,data-engineering,sklearn","easy"
+"Feature Engineering — Data/ML #52","Create features for time-series forecasting using lag and rolling stats. Provide code + explanation and complexity where applicable.","import pandas as pd
+from sklearn.model_selection import train_test_split
+
+def solve(path_to_csv):
+    # load and implement
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""sample.csv"", ""output"": ""metrics_or_output""}]","python,pandas,ml,data-engineering,sklearn","easy"
+"Train/Test Split & Leakage — Data/ML #53","Explain and implement correct train/test split to avoid leakage. Provide code + explanation and complexity where applicable.","import pandas as pd
+from sklearn.model_selection import train_test_split
+
+def solve(path_to_csv):
+    # load and implement
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""sample.csv"", ""output"": ""metrics_or_output""}]","python,pandas,ml,data-engineering,sklearn","hard"
+"Train a Classifier — Data/ML #54","Train a binary classifier and return precision/recall on test set. Provide code + explanation and complexity where applicable.","import pandas as pd
+from sklearn.model_selection import train_test_split
+
+def solve(path_to_csv):
+    # load and implement
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""sample.csv"", ""output"": ""metrics_or_output""}]","python,pandas,ml,data-engineering,sklearn","medium"
+"Hyperparameter Search — Data/ML #55","Implement grid search or randomized search to tune model hyperparameters. Provide code + explanation and complexity where applicable.","import pandas as pd
+from sklearn.model_selection import train_test_split
+
+def solve(path_to_csv):
+    # load and implement
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""sample.csv"", ""output"": ""metrics_or_output""}]","python,pandas,ml,data-engineering,sklearn","hard"
+"SQL for ETL — Data/ML #56","Write SQL to transform raw events into a user-level aggregated table. Provide code + explanation and complexity where applicable.","import pandas as pd
+from sklearn.model_selection import train_test_split
+
+def solve(path_to_csv):
+    # load and implement
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""sample.csv"", ""output"": ""metrics_or_output""}]","python,pandas,ml,data-engineering,sklearn","easy"
+"Batch Inference — Data/ML #57","Design batch inference pipeline that scales for 1M records. Provide code + explanation and complexity where applicable.","import pandas as pd
+from sklearn.model_selection import train_test_split
+
+def solve(path_to_csv):
+    # load and implement
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""sample.csv"", ""output"": ""metrics_or_output""}]","python,pandas,ml,data-engineering,sklearn","medium"
+"Model Explainability — Data/ML #58","Generate SHAP-style explanations for model predictions. Provide code + explanation and complexity where applicable.","import pandas as pd
+from sklearn.model_selection import train_test_split
+
+def solve(path_to_csv):
+    # load and implement
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""sample.csv"", ""output"": ""metrics_or_output""}]","python,pandas,ml,data-engineering,sklearn","medium"
+"Data Schema Migration — Data/ML #59","Plan and write migration to update column types safely. Provide code + explanation and complexity where applicable.","import pandas as pd
+from sklearn.model_selection import train_test_split
+
+def solve(path_to_csv):
+    # load and implement
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""sample.csv"", ""output"": ""metrics_or_output""}]","python,pandas,ml,data-engineering,sklearn","easy"
+"Anomaly Detection — Data/ML #60","Implement simple statistical anomaly detector for sensor data. Provide code + explanation and complexity where applicable.","import pandas as pd
+from sklearn.model_selection import train_test_split
+
+def solve(path_to_csv):
+    # load and implement
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""sample.csv"", ""output"": ""metrics_or_output""}]","python,pandas,ml,data-engineering,sklearn","easy"
+"Data Cleaning Pipeline — Data/ML #61","Given raw CSV with missing values and inconsistent types, design cleaning steps and implement them. Provide code + explanation and complexity where applicable.","import pandas as pd
+from sklearn.model_selection import train_test_split
+
+def solve(path_to_csv):
+    # load and implement
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""sample.csv"", ""output"": ""metrics_or_output""}]","python,pandas,ml,data-engineering,sklearn","medium"
+"Feature Engineering — Data/ML #62","Create features for time-series forecasting using lag and rolling stats. Provide code + explanation and complexity where applicable.","import pandas as pd
+from sklearn.model_selection import train_test_split
+
+def solve(path_to_csv):
+    # load and implement
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""sample.csv"", ""output"": ""metrics_or_output""}]","python,pandas,ml,data-engineering,sklearn","easy"
+"Train/Test Split & Leakage — Data/ML #63","Explain and implement correct train/test split to avoid leakage. Provide code + explanation and complexity where applicable.","import pandas as pd
+from sklearn.model_selection import train_test_split
+
+def solve(path_to_csv):
+    # load and implement
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""sample.csv"", ""output"": ""metrics_or_output""}]","python,pandas,ml,data-engineering,sklearn","hard"
+"Train a Classifier — Data/ML #64","Train a binary classifier and return precision/recall on test set. Provide code + explanation and complexity where applicable.","import pandas as pd
+from sklearn.model_selection import train_test_split
+
+def solve(path_to_csv):
+    # load and implement
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""sample.csv"", ""output"": ""metrics_or_output""}]","python,pandas,ml,data-engineering,sklearn","medium"
+"Hyperparameter Search — Data/ML #65","Implement grid search or randomized search to tune model hyperparameters. Provide code + explanation and complexity where applicable.","import pandas as pd
+from sklearn.model_selection import train_test_split
+
+def solve(path_to_csv):
+    # load and implement
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""sample.csv"", ""output"": ""metrics_or_output""}]","python,pandas,ml,data-engineering,sklearn","easy"
+"SQL for ETL — Data/ML #66","Write SQL to transform raw events into a user-level aggregated table. Provide code + explanation and complexity where applicable.","import pandas as pd
+from sklearn.model_selection import train_test_split
+
+def solve(path_to_csv):
+    # load and implement
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""sample.csv"", ""output"": ""metrics_or_output""}]","python,pandas,ml,data-engineering,sklearn","medium"
+"Batch Inference — Data/ML #67","Design batch inference pipeline that scales for 1M records. Provide code + explanation and complexity where applicable.","import pandas as pd
+from sklearn.model_selection import train_test_split
+
+def solve(path_to_csv):
+    # load and implement
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""sample.csv"", ""output"": ""metrics_or_output""}]","python,pandas,ml,data-engineering,sklearn","easy"
+"Model Explainability — Data/ML #68","Generate SHAP-style explanations for model predictions. Provide code + explanation and complexity where applicable.","import pandas as pd
+from sklearn.model_selection import train_test_split
+
+def solve(path_to_csv):
+    # load and implement
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""sample.csv"", ""output"": ""metrics_or_output""}]","python,pandas,ml,data-engineering,sklearn","easy"
+"Data Schema Migration — Data/ML #69","Plan and write migration to update column types safely. Provide code + explanation and complexity where applicable.","import pandas as pd
+from sklearn.model_selection import train_test_split
+
+def solve(path_to_csv):
+    # load and implement
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""sample.csv"", ""output"": ""metrics_or_output""}]","python,pandas,ml,data-engineering,sklearn","hard"
+"Anomaly Detection — Data/ML #70","Implement simple statistical anomaly detector for sensor data. Provide code + explanation and complexity where applicable.","import pandas as pd
+from sklearn.model_selection import train_test_split
+
+def solve(path_to_csv):
+    # load and implement
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""sample.csv"", ""output"": ""metrics_or_output""}]","python,pandas,ml,data-engineering,sklearn","medium"
+"Data Cleaning Pipeline — Data/ML #71","Given raw CSV with missing values and inconsistent types, design cleaning steps and implement them. Provide code + explanation and complexity where applicable.","import pandas as pd
+from sklearn.model_selection import train_test_split
+
+def solve(path_to_csv):
+    # load and implement
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""sample.csv"", ""output"": ""metrics_or_output""}]","python,pandas,ml,data-engineering,sklearn","hard"
+"Feature Engineering — Data/ML #72","Create features for time-series forecasting using lag and rolling stats. Provide code + explanation and complexity where applicable.","import pandas as pd
+from sklearn.model_selection import train_test_split
+
+def solve(path_to_csv):
+    # load and implement
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""sample.csv"", ""output"": ""metrics_or_output""}]","python,pandas,ml,data-engineering,sklearn","hard"
+"Train/Test Split & Leakage — Data/ML #73","Explain and implement correct train/test split to avoid leakage. Provide code + explanation and complexity where applicable.","import pandas as pd
+from sklearn.model_selection import train_test_split
+
+def solve(path_to_csv):
+    # load and implement
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""sample.csv"", ""output"": ""metrics_or_output""}]","python,pandas,ml,data-engineering,sklearn","easy"
+"Train a Classifier — Data/ML #74","Train a binary classifier and return precision/recall on test set. Provide code + explanation and complexity where applicable.","import pandas as pd
+from sklearn.model_selection import train_test_split
+
+def solve(path_to_csv):
+    # load and implement
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""sample.csv"", ""output"": ""metrics_or_output""}]","python,pandas,ml,data-engineering,sklearn","hard"
+"Hyperparameter Search — Data/ML #75","Implement grid search or randomized search to tune model hyperparameters. Provide code + explanation and complexity where applicable.","import pandas as pd
+from sklearn.model_selection import train_test_split
+
+def solve(path_to_csv):
+    # load and implement
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""sample.csv"", ""output"": ""metrics_or_output""}]","python,pandas,ml,data-engineering,sklearn","hard"
+"SQL for ETL — Data/ML #76","Write SQL to transform raw events into a user-level aggregated table. Provide code + explanation and complexity where applicable.","import pandas as pd
+from sklearn.model_selection import train_test_split
+
+def solve(path_to_csv):
+    # load and implement
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""sample.csv"", ""output"": ""metrics_or_output""}]","python,pandas,ml,data-engineering,sklearn","hard"
+"Batch Inference — Data/ML #77","Design batch inference pipeline that scales for 1M records. Provide code + explanation and complexity where applicable.","import pandas as pd
+from sklearn.model_selection import train_test_split
+
+def solve(path_to_csv):
+    # load and implement
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""sample.csv"", ""output"": ""metrics_or_output""}]","python,pandas,ml,data-engineering,sklearn","medium"
+"Model Explainability — Data/ML #78","Generate SHAP-style explanations for model predictions. Provide code + explanation and complexity where applicable.","import pandas as pd
+from sklearn.model_selection import train_test_split
+
+def solve(path_to_csv):
+    # load and implement
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""sample.csv"", ""output"": ""metrics_or_output""}]","python,pandas,ml,data-engineering,sklearn","medium"
+"Data Schema Migration — Data/ML #79","Plan and write migration to update column types safely. Provide code + explanation and complexity where applicable.","import pandas as pd
+from sklearn.model_selection import train_test_split
+
+def solve(path_to_csv):
+    # load and implement
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""sample.csv"", ""output"": ""metrics_or_output""}]","python,pandas,ml,data-engineering,sklearn","medium"
+"Anomaly Detection — Data/ML #80","Implement simple statistical anomaly detector for sensor data. Provide code + explanation and complexity where applicable.","import pandas as pd
+from sklearn.model_selection import train_test_split
+
+def solve(path_to_csv):
+    # load and implement
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""sample.csv"", ""output"": ""metrics_or_output""}]","python,pandas,ml,data-engineering,sklearn","hard"
+"Data Cleaning Pipeline — Data/ML #81","Given raw CSV with missing values and inconsistent types, design cleaning steps and implement them. Provide code + explanation and complexity where applicable.","import pandas as pd
+from sklearn.model_selection import train_test_split
+
+def solve(path_to_csv):
+    # load and implement
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""sample.csv"", ""output"": ""metrics_or_output""}]","python,pandas,ml,data-engineering,sklearn","easy"
+"Feature Engineering — Data/ML #82","Create features for time-series forecasting using lag and rolling stats. Provide code + explanation and complexity where applicable.","import pandas as pd
+from sklearn.model_selection import train_test_split
+
+def solve(path_to_csv):
+    # load and implement
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""sample.csv"", ""output"": ""metrics_or_output""}]","python,pandas,ml,data-engineering,sklearn","easy"
+"Train/Test Split & Leakage — Data/ML #83","Explain and implement correct train/test split to avoid leakage. Provide code + explanation and complexity where applicable.","import pandas as pd
+from sklearn.model_selection import train_test_split
+
+def solve(path_to_csv):
+    # load and implement
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""sample.csv"", ""output"": ""metrics_or_output""}]","python,pandas,ml,data-engineering,sklearn","medium"
+"Train a Classifier — Data/ML #84","Train a binary classifier and return precision/recall on test set. Provide code + explanation and complexity where applicable.","import pandas as pd
+from sklearn.model_selection import train_test_split
+
+def solve(path_to_csv):
+    # load and implement
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""sample.csv"", ""output"": ""metrics_or_output""}]","python,pandas,ml,data-engineering,sklearn","easy"
+"Hyperparameter Search — Data/ML #85","Implement grid search or randomized search to tune model hyperparameters. Provide code + explanation and complexity where applicable.","import pandas as pd
+from sklearn.model_selection import train_test_split
+
+def solve(path_to_csv):
+    # load and implement
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""sample.csv"", ""output"": ""metrics_or_output""}]","python,pandas,ml,data-engineering,sklearn","easy"
+"SQL for ETL — Data/ML #86","Write SQL to transform raw events into a user-level aggregated table. Provide code + explanation and complexity where applicable.","import pandas as pd
+from sklearn.model_selection import train_test_split
+
+def solve(path_to_csv):
+    # load and implement
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""sample.csv"", ""output"": ""metrics_or_output""}]","python,pandas,ml,data-engineering,sklearn","medium"
+"Batch Inference — Data/ML #87","Design batch inference pipeline that scales for 1M records. Provide code + explanation and complexity where applicable.","import pandas as pd
+from sklearn.model_selection import train_test_split
+
+def solve(path_to_csv):
+    # load and implement
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""sample.csv"", ""output"": ""metrics_or_output""}]","python,pandas,ml,data-engineering,sklearn","easy"
+"Model Explainability — Data/ML #88","Generate SHAP-style explanations for model predictions. Provide code + explanation and complexity where applicable.","import pandas as pd
+from sklearn.model_selection import train_test_split
+
+def solve(path_to_csv):
+    # load and implement
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""sample.csv"", ""output"": ""metrics_or_output""}]","python,pandas,ml,data-engineering,sklearn","hard"
+"Data Schema Migration — Data/ML #89","Plan and write migration to update column types safely. Provide code + explanation and complexity where applicable.","import pandas as pd
+from sklearn.model_selection import train_test_split
+
+def solve(path_to_csv):
+    # load and implement
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""sample.csv"", ""output"": ""metrics_or_output""}]","python,pandas,ml,data-engineering,sklearn","medium"
+"Anomaly Detection — Data/ML #90","Implement simple statistical anomaly detector for sensor data. Provide code + explanation and complexity where applicable.","import pandas as pd
+from sklearn.model_selection import train_test_split
+
+def solve(path_to_csv):
+    # load and implement
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""sample.csv"", ""output"": ""metrics_or_output""}]","python,pandas,ml,data-engineering,sklearn","medium"
+"Data Cleaning Pipeline — Data/ML #91","Given raw CSV with missing values and inconsistent types, design cleaning steps and implement them. Provide code + explanation and complexity where applicable.","import pandas as pd
+from sklearn.model_selection import train_test_split
+
+def solve(path_to_csv):
+    # load and implement
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""sample.csv"", ""output"": ""metrics_or_output""}]","python,pandas,ml,data-engineering,sklearn","medium"
+"Feature Engineering — Data/ML #92","Create features for time-series forecasting using lag and rolling stats. Provide code + explanation and complexity where applicable.","import pandas as pd
+from sklearn.model_selection import train_test_split
+
+def solve(path_to_csv):
+    # load and implement
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""sample.csv"", ""output"": ""metrics_or_output""}]","python,pandas,ml,data-engineering,sklearn","medium"
+"Train/Test Split & Leakage — Data/ML #93","Explain and implement correct train/test split to avoid leakage. Provide code + explanation and complexity where applicable.","import pandas as pd
+from sklearn.model_selection import train_test_split
+
+def solve(path_to_csv):
+    # load and implement
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""sample.csv"", ""output"": ""metrics_or_output""}]","python,pandas,ml,data-engineering,sklearn","easy"
+"Train a Classifier — Data/ML #94","Train a binary classifier and return precision/recall on test set. Provide code + explanation and complexity where applicable.","import pandas as pd
+from sklearn.model_selection import train_test_split
+
+def solve(path_to_csv):
+    # load and implement
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""sample.csv"", ""output"": ""metrics_or_output""}]","python,pandas,ml,data-engineering,sklearn","easy"
+"Hyperparameter Search — Data/ML #95","Implement grid search or randomized search to tune model hyperparameters. Provide code + explanation and complexity where applicable.","import pandas as pd
+from sklearn.model_selection import train_test_split
+
+def solve(path_to_csv):
+    # load and implement
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""sample.csv"", ""output"": ""metrics_or_output""}]","python,pandas,ml,data-engineering,sklearn","medium"
+"SQL for ETL — Data/ML #96","Write SQL to transform raw events into a user-level aggregated table. Provide code + explanation and complexity where applicable.","import pandas as pd
+from sklearn.model_selection import train_test_split
+
+def solve(path_to_csv):
+    # load and implement
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""sample.csv"", ""output"": ""metrics_or_output""}]","python,pandas,ml,data-engineering,sklearn","medium"
+"Batch Inference — Data/ML #97","Design batch inference pipeline that scales for 1M records. Provide code + explanation and complexity where applicable.","import pandas as pd
+from sklearn.model_selection import train_test_split
+
+def solve(path_to_csv):
+    # load and implement
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""sample.csv"", ""output"": ""metrics_or_output""}]","python,pandas,ml,data-engineering,sklearn","easy"
+"Model Explainability — Data/ML #98","Generate SHAP-style explanations for model predictions. Provide code + explanation and complexity where applicable.","import pandas as pd
+from sklearn.model_selection import train_test_split
+
+def solve(path_to_csv):
+    # load and implement
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""sample.csv"", ""output"": ""metrics_or_output""}]","python,pandas,ml,data-engineering,sklearn","medium"
+"Data Schema Migration — Data/ML #99","Plan and write migration to update column types safely. Provide code + explanation and complexity where applicable.","import pandas as pd
+from sklearn.model_selection import train_test_split
+
+def solve(path_to_csv):
+    # load and implement
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""sample.csv"", ""output"": ""metrics_or_output""}]","python,pandas,ml,data-engineering,sklearn","medium"
+"Anomaly Detection — Data/ML #100","Implement simple statistical anomaly detector for sensor data. Provide code + explanation and complexity where applicable.","import pandas as pd
+from sklearn.model_selection import train_test_split
+
+def solve(path_to_csv):
+    # load and implement
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""sample.csv"", ""output"": ""metrics_or_output""}]","python,pandas,ml,data-engineering,sklearn","hard"
+"C Pointer Exercise — Mixed #1","Manipulate pointers to reverse a string in-place. Provide a concise but production-ready solution and edge-case handling.","/* C example */
+#include <stdio.h>
+#include <string.h>
+
+void reverse(char *s) {
+    // implement
+}
+
+int main() {
+    return 0;
+}","[{""input"": ""input sample"", ""output"": ""expected sample""}]","c,c_programming,low-level,debugging","medium"
+"Memory Leak Detection — Mixed #2","Given C code, identify and fix leaks; propose fix. Provide a concise but production-ready solution and edge-case handling.","/* C example */
+#include <stdio.h>
+#include <string.h>
+
+void reverse(char *s) {
+    // implement
+}
+
+int main() {
+    return 0;
+}","[{""input"": ""input sample"", ""output"": ""expected sample""}]","c,c_programming,low-level,debugging","easy"
+"C++ RAII Class — Mixed #3","Implement RAII wrapper for file handle. Provide a concise but production-ready solution and edge-case handling.","// C++ RAII skeleton
+#include <fstream>
+class FileRAII {
+public:
+    FileRAII(const char* path){}
+    ~FileRAII(){}
+};
+int main(){}","[{""input"": ""input sample"", ""output"": ""expected sample""}]","c++,oop,systems","easy"
+"Java Multithreading — Mixed #4","Design thread-safe producer-consumer using wait/notify. Provide a concise but production-ready solution and edge-case handling.","public class Solution {
+    public static void main(String[] args) {
+        // implement
+    }
+}","[{""input"": ""input sample"", ""output"": ""expected sample""}]","java,multithreading,concurrency","medium"
+"SQL + API Integration — Mixed #5","Return paginated SQL results via an API endpoint. Provide a concise but production-ready solution and edge-case handling.","// pseudo code for integration
+// SQL + API
+","[{""input"": ""input sample"", ""output"": ""expected sample""}]","sql,api,integration","medium"
+"System Design: Notification Service — Mixed #6","Design scalable push-notification microservice. Provide a concise but production-ready solution and edge-case handling.","// mixed language skeleton
+","[{""input"": ""input sample"", ""output"": ""expected sample""}]","systems,design,performance","easy"
+"Performance Optimization — Mixed #7","Optimize a slow aggregation by reducing passes over data. Provide a concise but production-ready solution and edge-case handling.","// mixed language skeleton
+","[{""input"": ""input sample"", ""output"": ""expected sample""}]","systems,design,performance","easy"
+"Embedded Systems Stub — Mixed #8","Implement simple circular buffer in C for sensor data. Provide a concise but production-ready solution and edge-case handling.","/* C example */
+#include <stdio.h>
+#include <string.h>
+
+void reverse(char *s) {
+    // implement
+}
+
+int main() {
+    return 0;
+}","[{""input"": ""input sample"", ""output"": ""expected sample""}]","c,c_programming,low-level,debugging","easy"
+"Kubernetes YAML — Mixed #9","Write Deployment and Service YAML for a stateless web app. Provide a concise but production-ready solution and edge-case handling.","# YAML deployment example
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: my-app
+","[{""input"": ""input sample"", ""output"": ""expected sample""}]","kubernetes,devops,containers","medium"
+"Cross-language RPC — Mixed #10","Design and implement a simple JSON-RPC spec for service-to-service calls. Provide a concise but production-ready solution and edge-case handling.","// pseudo code for integration
+// SQL + API
+","[{""input"": ""input sample"", ""output"": ""expected sample""}]","sql,api,integration","medium"
+"C Pointer Exercise — Mixed #11","Manipulate pointers to reverse a string in-place. Provide a concise but production-ready solution and edge-case handling.","/* C example */
+#include <stdio.h>
+#include <string.h>
+
+void reverse(char *s) {
+    // implement
+}
+
+int main() {
+    return 0;
+}","[{""input"": ""input sample"", ""output"": ""expected sample""}]","c,c_programming,low-level,debugging","hard"
+"Memory Leak Detection — Mixed #12","Given C code, identify and fix leaks; propose fix. Provide a concise but production-ready solution and edge-case handling.","/* C example */
+#include <stdio.h>
+#include <string.h>
+
+void reverse(char *s) {
+    // implement
+}
+
+int main() {
+    return 0;
+}","[{""input"": ""input sample"", ""output"": ""expected sample""}]","c,c_programming,low-level,debugging","easy"
+"C++ RAII Class — Mixed #13","Implement RAII wrapper for file handle. Provide a concise but production-ready solution and edge-case handling.","// C++ RAII skeleton
+#include <fstream>
+class FileRAII {
+public:
+    FileRAII(const char* path){}
+    ~FileRAII(){}
+};
+int main(){}","[{""input"": ""input sample"", ""output"": ""expected sample""}]","c++,oop,systems","hard"
+"Java Multithreading — Mixed #14","Design thread-safe producer-consumer using wait/notify. Provide a concise but production-ready solution and edge-case handling.","public class Solution {
+    public static void main(String[] args) {
+        // implement
+    }
+}","[{""input"": ""input sample"", ""output"": ""expected sample""}]","java,multithreading,concurrency","medium"
+"SQL + API Integration — Mixed #15","Return paginated SQL results via an API endpoint. Provide a concise but production-ready solution and edge-case handling.","// pseudo code for integration
+// SQL + API
+","[{""input"": ""input sample"", ""output"": ""expected sample""}]","sql,api,integration","easy"
+"System Design: Notification Service — Mixed #16","Design scalable push-notification microservice. Provide a concise but production-ready solution and edge-case handling.","// mixed language skeleton
+","[{""input"": ""input sample"", ""output"": ""expected sample""}]","systems,design,performance","easy"
+"Performance Optimization — Mixed #17","Optimize a slow aggregation by reducing passes over data. Provide a concise but production-ready solution and edge-case handling.","// mixed language skeleton
+","[{""input"": ""input sample"", ""output"": ""expected sample""}]","systems,design,performance","easy"
+"Embedded Systems Stub — Mixed #18","Implement simple circular buffer in C for sensor data. Provide a concise but production-ready solution and edge-case handling.","/* C example */
+#include <stdio.h>
+#include <string.h>
+
+void reverse(char *s) {
+    // implement
+}
+
+int main() {
+    return 0;
+}","[{""input"": ""input sample"", ""output"": ""expected sample""}]","c,c_programming,low-level,debugging","medium"
+"Kubernetes YAML — Mixed #19","Write Deployment and Service YAML for a stateless web app. Provide a concise but production-ready solution and edge-case handling.","# YAML deployment example
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: my-app
+","[{""input"": ""input sample"", ""output"": ""expected sample""}]","kubernetes,devops,containers","medium"
+"Cross-language RPC — Mixed #20","Design and implement a simple JSON-RPC spec for service-to-service calls. Provide a concise but production-ready solution and edge-case handling.","// pseudo code for integration
+// SQL + API
+","[{""input"": ""input sample"", ""output"": ""expected sample""}]","sql,api,integration","hard"
+"C Pointer Exercise — Mixed #21","Manipulate pointers to reverse a string in-place. Provide a concise but production-ready solution and edge-case handling.","/* C example */
+#include <stdio.h>
+#include <string.h>
+
+void reverse(char *s) {
+    // implement
+}
+
+int main() {
+    return 0;
+}","[{""input"": ""input sample"", ""output"": ""expected sample""}]","c,c_programming,low-level,debugging","easy"
+"Memory Leak Detection — Mixed #22","Given C code, identify and fix leaks; propose fix. Provide a concise but production-ready solution and edge-case handling.","/* C example */
+#include <stdio.h>
+#include <string.h>
+
+void reverse(char *s) {
+    // implement
+}
+
+int main() {
+    return 0;
+}","[{""input"": ""input sample"", ""output"": ""expected sample""}]","c,c_programming,low-level,debugging","medium"
+"C++ RAII Class — Mixed #23","Implement RAII wrapper for file handle. Provide a concise but production-ready solution and edge-case handling.","// C++ RAII skeleton
+#include <fstream>
+class FileRAII {
+public:
+    FileRAII(const char* path){}
+    ~FileRAII(){}
+};
+int main(){}","[{""input"": ""input sample"", ""output"": ""expected sample""}]","c++,oop,systems","medium"
+"Java Multithreading — Mixed #24","Design thread-safe producer-consumer using wait/notify. Provide a concise but production-ready solution and edge-case handling.","public class Solution {
+    public static void main(String[] args) {
+        // implement
+    }
+}","[{""input"": ""input sample"", ""output"": ""expected sample""}]","java,multithreading,concurrency","easy"
+"SQL + API Integration — Mixed #25","Return paginated SQL results via an API endpoint. Provide a concise but production-ready solution and edge-case handling.","// pseudo code for integration
+// SQL + API
+","[{""input"": ""input sample"", ""output"": ""expected sample""}]","sql,api,integration","easy"
+"System Design: Notification Service — Mixed #26","Design scalable push-notification microservice. Provide a concise but production-ready solution and edge-case handling.","// mixed language skeleton
+","[{""input"": ""input sample"", ""output"": ""expected sample""}]","systems,design,performance","medium"
+"Performance Optimization — Mixed #27","Optimize a slow aggregation by reducing passes over data. Provide a concise but production-ready solution and edge-case handling.","// mixed language skeleton
+","[{""input"": ""input sample"", ""output"": ""expected sample""}]","systems,design,performance","easy"
+"Embedded Systems Stub — Mixed #28","Implement simple circular buffer in C for sensor data. Provide a concise but production-ready solution and edge-case handling.","/* C example */
+#include <stdio.h>
+#include <string.h>
+
+void reverse(char *s) {
+    // implement
+}
+
+int main() {
+    return 0;
+}","[{""input"": ""input sample"", ""output"": ""expected sample""}]","c,c_programming,low-level,debugging","easy"
+"Kubernetes YAML — Mixed #29","Write Deployment and Service YAML for a stateless web app. Provide a concise but production-ready solution and edge-case handling.","# YAML deployment example
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: my-app
+","[{""input"": ""input sample"", ""output"": ""expected sample""}]","kubernetes,devops,containers","easy"
+"Cross-language RPC — Mixed #30","Design and implement a simple JSON-RPC spec for service-to-service calls. Provide a concise but production-ready solution and edge-case handling.","// pseudo code for integration
+// SQL + API
+","[{""input"": ""input sample"", ""output"": ""expected sample""}]","sql,api,integration","medium"
+"C Pointer Exercise — Mixed #31","Manipulate pointers to reverse a string in-place. Provide a concise but production-ready solution and edge-case handling.","/* C example */
+#include <stdio.h>
+#include <string.h>
+
+void reverse(char *s) {
+    // implement
+}
+
+int main() {
+    return 0;
+}","[{""input"": ""input sample"", ""output"": ""expected sample""}]","c,c_programming,low-level,debugging","medium"
+"Memory Leak Detection — Mixed #32","Given C code, identify and fix leaks; propose fix. Provide a concise but production-ready solution and edge-case handling.","/* C example */
+#include <stdio.h>
+#include <string.h>
+
+void reverse(char *s) {
+    // implement
+}
+
+int main() {
+    return 0;
+}","[{""input"": ""input sample"", ""output"": ""expected sample""}]","c,c_programming,low-level,debugging","hard"
+"C++ RAII Class — Mixed #33","Implement RAII wrapper for file handle. Provide a concise but production-ready solution and edge-case handling.","// C++ RAII skeleton
+#include <fstream>
+class FileRAII {
+public:
+    FileRAII(const char* path){}
+    ~FileRAII(){}
+};
+int main(){}","[{""input"": ""input sample"", ""output"": ""expected sample""}]","c++,oop,systems","hard"
+"Java Multithreading — Mixed #34","Design thread-safe producer-consumer using wait/notify. Provide a concise but production-ready solution and edge-case handling.","public class Solution {
+    public static void main(String[] args) {
+        // implement
+    }
+}","[{""input"": ""input sample"", ""output"": ""expected sample""}]","java,multithreading,concurrency","easy"
+"SQL + API Integration — Mixed #35","Return paginated SQL results via an API endpoint. Provide a concise but production-ready solution and edge-case handling.","// pseudo code for integration
+// SQL + API
+","[{""input"": ""input sample"", ""output"": ""expected sample""}]","sql,api,integration","hard"
+"System Design: Notification Service — Mixed #36","Design scalable push-notification microservice. Provide a concise but production-ready solution and edge-case handling.","// mixed language skeleton
+","[{""input"": ""input sample"", ""output"": ""expected sample""}]","systems,design,performance","easy"
+"Performance Optimization — Mixed #37","Optimize a slow aggregation by reducing passes over data. Provide a concise but production-ready solution and edge-case handling.","// mixed language skeleton
+","[{""input"": ""input sample"", ""output"": ""expected sample""}]","systems,design,performance","medium"
+"Embedded Systems Stub — Mixed #38","Implement simple circular buffer in C for sensor data. Provide a concise but production-ready solution and edge-case handling.","/* C example */
+#include <stdio.h>
+#include <string.h>
+
+void reverse(char *s) {
+    // implement
+}
+
+int main() {
+    return 0;
+}","[{""input"": ""input sample"", ""output"": ""expected sample""}]","c,c_programming,low-level,debugging","hard"
+"Kubernetes YAML — Mixed #39","Write Deployment and Service YAML for a stateless web app. Provide a concise but production-ready solution and edge-case handling.","# YAML deployment example
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: my-app
+","[{""input"": ""input sample"", ""output"": ""expected sample""}]","kubernetes,devops,containers","medium"
+"Cross-language RPC — Mixed #40","Design and implement a simple JSON-RPC spec for service-to-service calls. Provide a concise but production-ready solution and edge-case handling.","// pseudo code for integration
+// SQL + API
+","[{""input"": ""input sample"", ""output"": ""expected sample""}]","sql,api,integration","hard"
+"C Pointer Exercise — Mixed #41","Manipulate pointers to reverse a string in-place. Provide a concise but production-ready solution and edge-case handling.","/* C example */
+#include <stdio.h>
+#include <string.h>
+
+void reverse(char *s) {
+    // implement
+}
+
+int main() {
+    return 0;
+}","[{""input"": ""input sample"", ""output"": ""expected sample""}]","c,c_programming,low-level,debugging","easy"
+"Memory Leak Detection — Mixed #42","Given C code, identify and fix leaks; propose fix. Provide a concise but production-ready solution and edge-case handling.","/* C example */
+#include <stdio.h>
+#include <string.h>
+
+void reverse(char *s) {
+    // implement
+}
+
+int main() {
+    return 0;
+}","[{""input"": ""input sample"", ""output"": ""expected sample""}]","c,c_programming,low-level,debugging","easy"
+"C++ RAII Class — Mixed #43","Implement RAII wrapper for file handle. Provide a concise but production-ready solution and edge-case handling.","// C++ RAII skeleton
+#include <fstream>
+class FileRAII {
+public:
+    FileRAII(const char* path){}
+    ~FileRAII(){}
+};
+int main(){}","[{""input"": ""input sample"", ""output"": ""expected sample""}]","c++,oop,systems","medium"
+"Java Multithreading — Mixed #44","Design thread-safe producer-consumer using wait/notify. Provide a concise but production-ready solution and edge-case handling.","public class Solution {
+    public static void main(String[] args) {
+        // implement
+    }
+}","[{""input"": ""input sample"", ""output"": ""expected sample""}]","java,multithreading,concurrency","easy"
+"SQL + API Integration — Mixed #45","Return paginated SQL results via an API endpoint. Provide a concise but production-ready solution and edge-case handling.","// pseudo code for integration
+// SQL + API
+","[{""input"": ""input sample"", ""output"": ""expected sample""}]","sql,api,integration","easy"
+"System Design: Notification Service — Mixed #46","Design scalable push-notification microservice. Provide a concise but production-ready solution and edge-case handling.","// mixed language skeleton
+","[{""input"": ""input sample"", ""output"": ""expected sample""}]","systems,design,performance","medium"
+"Performance Optimization — Mixed #47","Optimize a slow aggregation by reducing passes over data. Provide a concise but production-ready solution and edge-case handling.","// mixed language skeleton
+","[{""input"": ""input sample"", ""output"": ""expected sample""}]","systems,design,performance","easy"
+"Embedded Systems Stub — Mixed #48","Implement simple circular buffer in C for sensor data. Provide a concise but production-ready solution and edge-case handling.","/* C example */
+#include <stdio.h>
+#include <string.h>
+
+void reverse(char *s) {
+    // implement
+}
+
+int main() {
+    return 0;
+}","[{""input"": ""input sample"", ""output"": ""expected sample""}]","c,c_programming,low-level,debugging","easy"
+"Kubernetes YAML — Mixed #49","Write Deployment and Service YAML for a stateless web app. Provide a concise but production-ready solution and edge-case handling.","# YAML deployment example
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: my-app
+","[{""input"": ""input sample"", ""output"": ""expected sample""}]","kubernetes,devops,containers","medium"
+"Cross-language RPC — Mixed #50","Design and implement a simple JSON-RPC spec for service-to-service calls. Provide a concise but production-ready solution and edge-case handling.","// pseudo code for integration
+// SQL + API
+","[{""input"": ""input sample"", ""output"": ""expected sample""}]","sql,api,integration","easy"
+"C Pointer Exercise — Mixed #51","Manipulate pointers to reverse a string in-place. Provide a concise but production-ready solution and edge-case handling.","/* C example */
+#include <stdio.h>
+#include <string.h>
+
+void reverse(char *s) {
+    // implement
+}
+
+int main() {
+    return 0;
+}","[{""input"": ""input sample"", ""output"": ""expected sample""}]","c,c_programming,low-level,debugging","easy"
+"Memory Leak Detection — Mixed #52","Given C code, identify and fix leaks; propose fix. Provide a concise but production-ready solution and edge-case handling.","/* C example */
+#include <stdio.h>
+#include <string.h>
+
+void reverse(char *s) {
+    // implement
+}
+
+int main() {
+    return 0;
+}","[{""input"": ""input sample"", ""output"": ""expected sample""}]","c,c_programming,low-level,debugging","easy"
+"C++ RAII Class — Mixed #53","Implement RAII wrapper for file handle. Provide a concise but production-ready solution and edge-case handling.","// C++ RAII skeleton
+#include <fstream>
+class FileRAII {
+public:
+    FileRAII(const char* path){}
+    ~FileRAII(){}
+};
+int main(){}","[{""input"": ""input sample"", ""output"": ""expected sample""}]","c++,oop,systems","hard"
+"Java Multithreading — Mixed #54","Design thread-safe producer-consumer using wait/notify. Provide a concise but production-ready solution and edge-case handling.","public class Solution {
+    public static void main(String[] args) {
+        // implement
+    }
+}","[{""input"": ""input sample"", ""output"": ""expected sample""}]","java,multithreading,concurrency","medium"
+"SQL + API Integration — Mixed #55","Return paginated SQL results via an API endpoint. Provide a concise but production-ready solution and edge-case handling.","// pseudo code for integration
+// SQL + API
+","[{""input"": ""input sample"", ""output"": ""expected sample""}]","sql,api,integration","hard"
+"System Design: Notification Service — Mixed #56","Design scalable push-notification microservice. Provide a concise but production-ready solution and edge-case handling.","// mixed language skeleton
+","[{""input"": ""input sample"", ""output"": ""expected sample""}]","systems,design,performance","medium"
+"Performance Optimization — Mixed #57","Optimize a slow aggregation by reducing passes over data. Provide a concise but production-ready solution and edge-case handling.","// mixed language skeleton
+","[{""input"": ""input sample"", ""output"": ""expected sample""}]","systems,design,performance","easy"
+"Embedded Systems Stub — Mixed #58","Implement simple circular buffer in C for sensor data. Provide a concise but production-ready solution and edge-case handling.","/* C example */
+#include <stdio.h>
+#include <string.h>
+
+void reverse(char *s) {
+    // implement
+}
+
+int main() {
+    return 0;
+}","[{""input"": ""input sample"", ""output"": ""expected sample""}]","c,c_programming,low-level,debugging","easy"
+"Kubernetes YAML — Mixed #59","Write Deployment and Service YAML for a stateless web app. Provide a concise but production-ready solution and edge-case handling.","# YAML deployment example
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: my-app
+","[{""input"": ""input sample"", ""output"": ""expected sample""}]","kubernetes,devops,containers","easy"
+"Cross-language RPC — Mixed #60","Design and implement a simple JSON-RPC spec for service-to-service calls. Provide a concise but production-ready solution and edge-case handling.","// pseudo code for integration
+// SQL + API
+","[{""input"": ""input sample"", ""output"": ""expected sample""}]","sql,api,integration","hard"
+"C Pointer Exercise — Mixed #61","Manipulate pointers to reverse a string in-place. Provide a concise but production-ready solution and edge-case handling.","/* C example */
+#include <stdio.h>
+#include <string.h>
+
+void reverse(char *s) {
+    // implement
+}
+
+int main() {
+    return 0;
+}","[{""input"": ""input sample"", ""output"": ""expected sample""}]","c,c_programming,low-level,debugging","easy"
+"Memory Leak Detection — Mixed #62","Given C code, identify and fix leaks; propose fix. Provide a concise but production-ready solution and edge-case handling.","/* C example */
+#include <stdio.h>
+#include <string.h>
+
+void reverse(char *s) {
+    // implement
+}
+
+int main() {
+    return 0;
+}","[{""input"": ""input sample"", ""output"": ""expected sample""}]","c,c_programming,low-level,debugging","medium"
+"C++ RAII Class — Mixed #63","Implement RAII wrapper for file handle. Provide a concise but production-ready solution and edge-case handling.","// C++ RAII skeleton
+#include <fstream>
+class FileRAII {
+public:
+    FileRAII(const char* path){}
+    ~FileRAII(){}
+};
+int main(){}","[{""input"": ""input sample"", ""output"": ""expected sample""}]","c++,oop,systems","easy"
+"Java Multithreading — Mixed #64","Design thread-safe producer-consumer using wait/notify. Provide a concise but production-ready solution and edge-case handling.","public class Solution {
+    public static void main(String[] args) {
+        // implement
+    }
+}","[{""input"": ""input sample"", ""output"": ""expected sample""}]","java,multithreading,concurrency","easy"
+"SQL + API Integration — Mixed #65","Return paginated SQL results via an API endpoint. Provide a concise but production-ready solution and edge-case handling.","// pseudo code for integration
+// SQL + API
+","[{""input"": ""input sample"", ""output"": ""expected sample""}]","sql,api,integration","hard"
+"System Design: Notification Service — Mixed #66","Design scalable push-notification microservice. Provide a concise but production-ready solution and edge-case handling.","// mixed language skeleton
+","[{""input"": ""input sample"", ""output"": ""expected sample""}]","systems,design,performance","easy"
+"Performance Optimization — Mixed #67","Optimize a slow aggregation by reducing passes over data. Provide a concise but production-ready solution and edge-case handling.","// mixed language skeleton
+","[{""input"": ""input sample"", ""output"": ""expected sample""}]","systems,design,performance","medium"
+"Embedded Systems Stub — Mixed #68","Implement simple circular buffer in C for sensor data. Provide a concise but production-ready solution and edge-case handling.","/* C example */
+#include <stdio.h>
+#include <string.h>
+
+void reverse(char *s) {
+    // implement
+}
+
+int main() {
+    return 0;
+}","[{""input"": ""input sample"", ""output"": ""expected sample""}]","c,c_programming,low-level,debugging","hard"
+"Kubernetes YAML — Mixed #69","Write Deployment and Service YAML for a stateless web app. Provide a concise but production-ready solution and edge-case handling.","# YAML deployment example
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: my-app
+","[{""input"": ""input sample"", ""output"": ""expected sample""}]","kubernetes,devops,containers","hard"
+"Cross-language RPC — Mixed #70","Design and implement a simple JSON-RPC spec for service-to-service calls. Provide a concise but production-ready solution and edge-case handling.","// pseudo code for integration
+// SQL + API
+","[{""input"": ""input sample"", ""output"": ""expected sample""}]","sql,api,integration","medium"
+"C Pointer Exercise — Mixed #71","Manipulate pointers to reverse a string in-place. Provide a concise but production-ready solution and edge-case handling.","/* C example */
+#include <stdio.h>
+#include <string.h>
+
+void reverse(char *s) {
+    // implement
+}
+
+int main() {
+    return 0;
+}","[{""input"": ""input sample"", ""output"": ""expected sample""}]","c,c_programming,low-level,debugging","medium"
+"Memory Leak Detection — Mixed #72","Given C code, identify and fix leaks; propose fix. Provide a concise but production-ready solution and edge-case handling.","/* C example */
+#include <stdio.h>
+#include <string.h>
+
+void reverse(char *s) {
+    // implement
+}
+
+int main() {
+    return 0;
+}","[{""input"": ""input sample"", ""output"": ""expected sample""}]","c,c_programming,low-level,debugging","easy"
+"C++ RAII Class — Mixed #73","Implement RAII wrapper for file handle. Provide a concise but production-ready solution and edge-case handling.","// C++ RAII skeleton
+#include <fstream>
+class FileRAII {
+public:
+    FileRAII(const char* path){}
+    ~FileRAII(){}
+};
+int main(){}","[{""input"": ""input sample"", ""output"": ""expected sample""}]","c++,oop,systems","medium"
+"Java Multithreading — Mixed #74","Design thread-safe producer-consumer using wait/notify. Provide a concise but production-ready solution and edge-case handling.","public class Solution {
+    public static void main(String[] args) {
+        // implement
+    }
+}","[{""input"": ""input sample"", ""output"": ""expected sample""}]","java,multithreading,concurrency","hard"
+"SQL + API Integration — Mixed #75","Return paginated SQL results via an API endpoint. Provide a concise but production-ready solution and edge-case handling.","// pseudo code for integration
+// SQL + API
+","[{""input"": ""input sample"", ""output"": ""expected sample""}]","sql,api,integration","easy"
+"System Design: Notification Service — Mixed #76","Design scalable push-notification microservice. Provide a concise but production-ready solution and edge-case handling.","// mixed language skeleton
+","[{""input"": ""input sample"", ""output"": ""expected sample""}]","systems,design,performance","easy"
+"Performance Optimization — Mixed #77","Optimize a slow aggregation by reducing passes over data. Provide a concise but production-ready solution and edge-case handling.","// mixed language skeleton
+","[{""input"": ""input sample"", ""output"": ""expected sample""}]","systems,design,performance","medium"
+"Embedded Systems Stub — Mixed #78","Implement simple circular buffer in C for sensor data. Provide a concise but production-ready solution and edge-case handling.","/* C example */
+#include <stdio.h>
+#include <string.h>
+
+void reverse(char *s) {
+    // implement
+}
+
+int main() {
+    return 0;
+}","[{""input"": ""input sample"", ""output"": ""expected sample""}]","c,c_programming,low-level,debugging","medium"
+"Kubernetes YAML — Mixed #79","Write Deployment and Service YAML for a stateless web app. Provide a concise but production-ready solution and edge-case handling.","# YAML deployment example
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: my-app
+","[{""input"": ""input sample"", ""output"": ""expected sample""}]","kubernetes,devops,containers","easy"
+"Cross-language RPC — Mixed #80","Design and implement a simple JSON-RPC spec for service-to-service calls. Provide a concise but production-ready solution and edge-case handling.","// pseudo code for integration
+// SQL + API
+","[{""input"": ""input sample"", ""output"": ""expected sample""}]","sql,api,integration","easy"
+"C Pointer Exercise — Mixed #81","Manipulate pointers to reverse a string in-place. Provide a concise but production-ready solution and edge-case handling.","/* C example */
+#include <stdio.h>
+#include <string.h>
+
+void reverse(char *s) {
+    // implement
+}
+
+int main() {
+    return 0;
+}","[{""input"": ""input sample"", ""output"": ""expected sample""}]","c,c_programming,low-level,debugging","easy"
+"Memory Leak Detection — Mixed #82","Given C code, identify and fix leaks; propose fix. Provide a concise but production-ready solution and edge-case handling.","/* C example */
+#include <stdio.h>
+#include <string.h>
+
+void reverse(char *s) {
+    // implement
+}
+
+int main() {
+    return 0;
+}","[{""input"": ""input sample"", ""output"": ""expected sample""}]","c,c_programming,low-level,debugging","easy"
+"C++ RAII Class — Mixed #83","Implement RAII wrapper for file handle. Provide a concise but production-ready solution and edge-case handling.","// C++ RAII skeleton
+#include <fstream>
+class FileRAII {
+public:
+    FileRAII(const char* path){}
+    ~FileRAII(){}
+};
+int main(){}","[{""input"": ""input sample"", ""output"": ""expected sample""}]","c++,oop,systems","easy"
+"Java Multithreading — Mixed #84","Design thread-safe producer-consumer using wait/notify. Provide a concise but production-ready solution and edge-case handling.","public class Solution {
+    public static void main(String[] args) {
+        // implement
+    }
+}","[{""input"": ""input sample"", ""output"": ""expected sample""}]","java,multithreading,concurrency","easy"
+"SQL + API Integration — Mixed #85","Return paginated SQL results via an API endpoint. Provide a concise but production-ready solution and edge-case handling.","// pseudo code for integration
+// SQL + API
+","[{""input"": ""input sample"", ""output"": ""expected sample""}]","sql,api,integration","hard"
+"System Design: Notification Service — Mixed #86","Design scalable push-notification microservice. Provide a concise but production-ready solution and edge-case handling.","// mixed language skeleton
+","[{""input"": ""input sample"", ""output"": ""expected sample""}]","systems,design,performance","hard"
+"Performance Optimization — Mixed #87","Optimize a slow aggregation by reducing passes over data. Provide a concise but production-ready solution and edge-case handling.","// mixed language skeleton
+","[{""input"": ""input sample"", ""output"": ""expected sample""}]","systems,design,performance","easy"
+"Embedded Systems Stub — Mixed #88","Implement simple circular buffer in C for sensor data. Provide a concise but production-ready solution and edge-case handling.","/* C example */
+#include <stdio.h>
+#include <string.h>
+
+void reverse(char *s) {
+    // implement
+}
+
+int main() {
+    return 0;
+}","[{""input"": ""input sample"", ""output"": ""expected sample""}]","c,c_programming,low-level,debugging","medium"
+"Kubernetes YAML — Mixed #89","Write Deployment and Service YAML for a stateless web app. Provide a concise but production-ready solution and edge-case handling.","# YAML deployment example
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: my-app
+","[{""input"": ""input sample"", ""output"": ""expected sample""}]","kubernetes,devops,containers","easy"
+"Cross-language RPC — Mixed #90","Design and implement a simple JSON-RPC spec for service-to-service calls. Provide a concise but production-ready solution and edge-case handling.","// pseudo code for integration
+// SQL + API
+","[{""input"": ""input sample"", ""output"": ""expected sample""}]","sql,api,integration","hard"
+"C Pointer Exercise — Mixed #91","Manipulate pointers to reverse a string in-place. Provide a concise but production-ready solution and edge-case handling.","/* C example */
+#include <stdio.h>
+#include <string.h>
+
+void reverse(char *s) {
+    // implement
+}
+
+int main() {
+    return 0;
+}","[{""input"": ""input sample"", ""output"": ""expected sample""}]","c,c_programming,low-level,debugging","hard"
+"Memory Leak Detection — Mixed #92","Given C code, identify and fix leaks; propose fix. Provide a concise but production-ready solution and edge-case handling.","/* C example */
+#include <stdio.h>
+#include <string.h>
+
+void reverse(char *s) {
+    // implement
+}
+
+int main() {
+    return 0;
+}","[{""input"": ""input sample"", ""output"": ""expected sample""}]","c,c_programming,low-level,debugging","easy"
+"C++ RAII Class — Mixed #93","Implement RAII wrapper for file handle. Provide a concise but production-ready solution and edge-case handling.","// C++ RAII skeleton
+#include <fstream>
+class FileRAII {
+public:
+    FileRAII(const char* path){}
+    ~FileRAII(){}
+};
+int main(){}","[{""input"": ""input sample"", ""output"": ""expected sample""}]","c++,oop,systems","easy"
+"Java Multithreading — Mixed #94","Design thread-safe producer-consumer using wait/notify. Provide a concise but production-ready solution and edge-case handling.","public class Solution {
+    public static void main(String[] args) {
+        // implement
+    }
+}","[{""input"": ""input sample"", ""output"": ""expected sample""}]","java,multithreading,concurrency","easy"
+"SQL + API Integration — Mixed #95","Return paginated SQL results via an API endpoint. Provide a concise but production-ready solution and edge-case handling.","// pseudo code for integration
+// SQL + API
+","[{""input"": ""input sample"", ""output"": ""expected sample""}]","sql,api,integration","easy"
+"System Design: Notification Service — Mixed #96","Design scalable push-notification microservice. Provide a concise but production-ready solution and edge-case handling.","// mixed language skeleton
+","[{""input"": ""input sample"", ""output"": ""expected sample""}]","systems,design,performance","easy"
+"Performance Optimization — Mixed #97","Optimize a slow aggregation by reducing passes over data. Provide a concise but production-ready solution and edge-case handling.","// mixed language skeleton
+","[{""input"": ""input sample"", ""output"": ""expected sample""}]","systems,design,performance","medium"
+"Embedded Systems Stub — Mixed #98","Implement simple circular buffer in C for sensor data. Provide a concise but production-ready solution and edge-case handling.","/* C example */
+#include <stdio.h>
+#include <string.h>
+
+void reverse(char *s) {
+    // implement
+}
+
+int main() {
+    return 0;
+}","[{""input"": ""input sample"", ""output"": ""expected sample""}]","c,c_programming,low-level,debugging","easy"
+"Kubernetes YAML — Mixed #99","Write Deployment and Service YAML for a stateless web app. Provide a concise but production-ready solution and edge-case handling.","# YAML deployment example
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: my-app
+","[{""input"": ""input sample"", ""output"": ""expected sample""}]","kubernetes,devops,containers","easy"
+"Cross-language RPC — Mixed #100","Design and implement a simple JSON-RPC spec for service-to-service calls. Provide a concise but production-ready solution and edge-case handling.","// pseudo code for integration
+// SQL + API
+","[{""input"": ""input sample"", ""output"": ""expected sample""}]","sql,api,integration","easy"

@@ -1,0 +1,7 @@
+{% extends "base.html" %}
+{% block title %}Wait / Status{% endblock %}
+{% block content %}
+<h3>Waiting / Shortlist status</h3>
+<p>Current stage: <strong>{{ profile.get_current_stage_display }}</strong></p>
+<p>Status: <strong>{{ profile.status }}</strong></p>
+{% endblock %}

@@ -1,0 +1,2585 @@
+title,description,starter_code,test_cases,skill_tags,difficulty
+Arrays Problem — 6ce0,Write a arrays function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","dsa,algorithm,logic,data structures,arrays,strings,recursion",medium
+Sql Problem — 2f21,Write a sql function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","python,ml,sql,flask,django,api,c,java",hard
+Logic Problem — 4ffb,Write a logic function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","dsa,algorithm,logic,data structures,arrays,strings,recursion",medium
+Ml Problem — a20e,Write a ml function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","python,ml,sql,flask,django,api,c,java",easy
+Api Problem — 5409,Write a api function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","python,ml,sql,flask,django,api,c,java",medium
+Logic Problem — 11a6,Write a logic function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","dsa,algorithm,logic,data structures,arrays,strings,recursion",hard
+Dsa Problem — 6438,Write a dsa function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","dsa,algorithm,logic,data structures,arrays,strings,recursion",easy
+Api Problem — ce92,Write a api function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","python,ml,sql,flask,django,api,c,java",easy
+Flask Problem — 7f72,Write a flask function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","python,ml,sql,flask,django,api,c,java",medium
+Git Problem — 7149,Write a git function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","web,analytics,pandas,linux,git,deployment,api,backend",easy
+Rotate Array — DSA #10,Rotate an array to the right by k steps. Provide optimal time and space complexity.,"def solve(nums, target=None):
+    # implement and return result
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""1 2 3 4 5|2"", ""output"": ""4 5 1 2 3""}]","['python', 'dsa', 'algorithms', 'logic']",easy
+Sql Problem — 745b,Write a sql function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","python,ml,sql,flask,django,api,c,java",hard
+File Upload API — Web/Backend #7,"Implement chunked file upload API that resumes after interruption. Focus on correctness, security and edge cases.","from flask import Flask, request, jsonify
+app = Flask(__name__)
+
+@app.route('/')
+def index():
+    return jsonify({""status"":""ok""})
+
+# implement endpoints
+
+if __name__ == '__main__':
+    app.run()","[{""input"": ""POST /posts?page=1"", ""output"": ""200 list""}, {""input"": ""POST /posts?page=1000"", ""output"": ""[]""}]","['python', 'flask', 'api', 'web', 'security']",medium
+Api Problem — ebdd,Write a api function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","python,ml,sql,flask,django,api,c,java",hard
+Algorithm Problem — 0262,Write a algorithm function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","dsa,algorithm,logic,data structures,arrays,strings,recursion",medium
+Arrays Problem — b60a,Write a arrays function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","dsa,algorithm,logic,data structures,arrays,strings,recursion",easy
+Git Problem — 7224,Write a git function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","web,analytics,pandas,linux,git,deployment,api,backend",medium
+Hyperparameter Search — Data/ML #5,Implement grid search or randomized search to tune model hyperparameters. Provide code + explanation and complexity where applicable.,"import pandas as pd
+from sklearn.model_selection import train_test_split
+
+def solve(path_to_csv):
+    # load and implement
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""sample.csv"", ""output"": ""metrics_or_output""}]","['python', 'pandas', 'ml', 'data-engineering', 'sklearn']",easy
+Recursion Problem — 5ca8,Write a recursion function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","dsa,algorithm,logic,data structures,arrays,strings,recursion",easy
+GraphQL Basic Resolver — Web/Backend #9,"Implement resolver for nested product reviews. Focus on correctness, security and edge cases.","# pseudo GraphQL resolver example
+# implement resolver function
+","[{""input"": ""product_id=1"", ""output"": ""reviews list""}]","['graphql', 'api', 'web']",hard
+Web Problem — 5d17,Write a web function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","web,analytics,pandas,linux,git,deployment,api,backend",hard
+Backend Problem — c47f,Write a backend function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","web,analytics,pandas,linux,git,deployment,api,backend",hard
+Data Structures Problem — 1ede,Write a data structures function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","dsa,algorithm,logic,data structures,arrays,strings,recursion",hard
+Dsa Problem — f660,Write a dsa function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","dsa,algorithm,logic,data structures,arrays,strings,recursion",hard
+Flask Problem — 43c5,Write a flask function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","python,ml,sql,flask,django,api,c,java",hard
+Api Problem — 652e,Write a api function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","web,analytics,pandas,linux,git,deployment,api,backend",easy
+Api Problem — f9b0,Write a api function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","web,analytics,pandas,linux,git,deployment,api,backend",medium
+Algorithm Problem — c06d,Write a algorithm function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","dsa,algorithm,logic,data structures,arrays,strings,recursion",medium
+Sql Problem — 0f51,Write a sql function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","python,ml,sql,flask,django,api,c,java",easy
+Algorithm Problem — 4700,Write a algorithm function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","dsa,algorithm,logic,data structures,arrays,strings,recursion",hard
+Web Problem — 526c,Write a web function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","web,analytics,pandas,linux,git,deployment,api,backend",hard
+Dsa Problem — 0ca3,Write a dsa function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","dsa,algorithm,logic,data structures,arrays,strings,recursion",hard
+Git Problem — 31da,Write a git function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","web,analytics,pandas,linux,git,deployment,api,backend",medium
+Java Problem — 4203,Write a java function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","python,ml,sql,flask,django,api,c,java",hard
+Detect Cycle in Linked List — DSA #3,"Given head of a linked list, return true if there is a cycle. Provide optimal time and space complexity.","def solve(nums, target=None):
+    # implement and return result
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""1->2->3->4->2"", ""output"": ""true""}, {""input"": ""1->2->3->4"", ""output"": ""false""}]","['python', 'dsa', 'algorithms', 'logic']",medium
+Data Structures Problem — da8a,Write a data structures function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","dsa,algorithm,logic,data structures,arrays,strings,recursion",medium
+Data Cleaning Pipeline — Data/ML #1,"Given raw CSV with missing values and inconsistent types, design cleaning steps and implement them. Provide code + explanation and complexity where applicable.","import pandas as pd
+from sklearn.model_selection import train_test_split
+
+def solve(path_to_csv):
+    # load and implement
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""sample.csv"", ""output"": ""metrics_or_output""}]","['python', 'pandas', 'ml', 'data-engineering', 'sklearn']",hard
+Django Problem — 1c9d,Write a django function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","python,ml,sql,flask,django,api,c,java",medium
+Rotate Array — DSA #10,Rotate an array to the right by k steps. Provide optimal time and space complexity.,"def solve(nums, target=None):
+    # implement and return result
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""1 2 3 4 5|2"", ""output"": ""4 5 1 2 3""}]","['python', 'dsa', 'algorithms', 'logic']",easy
+Python Problem — 55ff,Write a python function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"def solution():
+    pass","[{""input"": ""2 3"", ""output"": ""5""}]","python,ml,sql,flask,django,api,c,java",medium
+Strings Problem — 300e,Write a strings function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","dsa,algorithm,logic,data structures,arrays,strings,recursion",medium
+Ml Problem — 6e0e,Write a ml function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","python,ml,sql,flask,django,api,c,java",easy
+Pandas Problem — d414,Write a pandas function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","web,analytics,pandas,linux,git,deployment,api,backend",hard
+Ml Problem — f2a9,Write a ml function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","python,ml,sql,flask,django,api,c,java",easy
+Model Explainability — Data/ML #8,Generate SHAP-style explanations for model predictions. Provide code + explanation and complexity where applicable.,"import pandas as pd
+from sklearn.model_selection import train_test_split
+
+def solve(path_to_csv):
+    # load and implement
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""sample.csv"", ""output"": ""metrics_or_output""}]","['python', 'pandas', 'ml', 'data-engineering', 'sklearn']",easy
+Api Problem — 056c,Write a api function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","python,ml,sql,flask,django,api,c,java",hard
+Two Sum Variant — DSA #1,"Given an array and a target, return indices of two numbers that add to target. Provide optimal time and space complexity.","def solve(nums, target=None):
+    # implement and return result
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""2 7 11 15|9"", ""output"": ""0 1""}, {""input"": ""3 2 4|6"", ""output"": ""1 2""}, {""input"": ""-1 0 1|0"", ""output"": """"}]","['python', 'dsa', 'algorithms', 'logic']",easy
+LRU Cache — Python #2,Implement an LRU Cache with get and put operations. Aim for idiomatic Python solutions and tests.,"def solve(*args, **kwargs):
+    # write your Python implementation here
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""2|get(1),put(1,1),put(2,2),get(1),put(3,3),get(2)"", ""output"": ""1,-1, -1""}]","['python', 'oop', 'modules', 'threads', 'regex']",medium
+Batch Inference — Data/ML #7,Design batch inference pipeline that scales for 1M records. Provide code + explanation and complexity where applicable.,"import pandas as pd
+from sklearn.model_selection import train_test_split
+
+def solve(path_to_csv):
+    # load and implement
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""sample.csv"", ""output"": ""metrics_or_output""}]","['python', 'pandas', 'ml', 'data-engineering', 'sklearn']",easy
+Authentication Flow — Web/Backend #3,"Implement token-based authentication for login and protected endpoints. Focus on correctness, security and edge cases.","from flask import Flask, request, jsonify
+app = Flask(__name__)
+
+@app.route('/')
+def index():
+    return jsonify({""status"":""ok""})
+
+# implement endpoints
+
+if __name__ == '__main__':
+    app.run()","[{""input"": ""POST /posts?page=1"", ""output"": ""200 list""}, {""input"": ""POST /posts?page=1000"", ""output"": ""[]""}]","['python', 'flask', 'api', 'web', 'security']",medium
+Python Problem — f7de,Write a python function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"def solution():
+    pass","[{""input"": ""2 3"", ""output"": ""5""}]","python,ml,sql,flask,django,api,c,java",hard
+Java Problem — 5495,Write a java function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","python,ml,sql,flask,django,api,c,java",hard
+Sql Problem — 899c,Write a sql function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","python,ml,sql,flask,django,api,c,java",hard
+Feature Engineering — Data/ML #2,Create features for time-series forecasting using lag and rolling stats. Provide code + explanation and complexity where applicable.,"import pandas as pd
+from sklearn.model_selection import train_test_split
+
+def solve(path_to_csv):
+    # load and implement
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""sample.csv"", ""output"": ""metrics_or_output""}]","['python', 'pandas', 'ml', 'data-engineering', 'sklearn']",easy
+Django Problem — ba9f,Write a django function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","python,ml,sql,flask,django,api,c,java",easy
+Java Problem — 91b7,Write a java function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","python,ml,sql,flask,django,api,c,java",hard
+Sql Problem — a37d,Write a sql function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","python,ml,sql,flask,django,api,c,java",easy
+Thread-safe Counter — Python #9,Implement a thread-safe counter using locks. Aim for idiomatic Python solutions and tests.,"def solve(*args, **kwargs):
+    # write your Python implementation here
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""calls in parallel"", ""output"": ""counter==n""}]","['python', 'oop', 'modules', 'threads', 'regex']",hard
+Binary Search — DSA #5,Implement binary search to find target index in sorted array or -1 if not present. Provide optimal time and space complexity.,"def solve(nums, target=None):
+    # implement and return result
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""1 2 3 4 5|3"", ""output"": ""2""}, {""input"": ""1 3 5 7|2"", ""output"": ""-1""}]","['python', 'dsa', 'algorithms', 'logic']",medium
+Flask Problem — 9746,Write a flask function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","python,ml,sql,flask,django,api,c,java",hard
+Linux Problem — 8a6e,Write a linux function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","web,analytics,pandas,linux,git,deployment,api,backend",easy
+Strings Problem — b616,Write a strings function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","dsa,algorithm,logic,data structures,arrays,strings,recursion",hard
+Dsa Problem — 7389,Write a dsa function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","dsa,algorithm,logic,data structures,arrays,strings,recursion",medium
+Backend Problem — 1627,Write a backend function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","web,analytics,pandas,linux,git,deployment,api,backend",hard
+Java Problem — b89c,Write a java function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","python,ml,sql,flask,django,api,c,java",medium
+SQL + API Integration — Mixed #5,Return paginated SQL results via an API endpoint. Provide a concise but production-ready solution and edge-case handling.,"// pseudo code for integration
+// SQL + API
+","[{""input"": ""input sample"", ""output"": ""expected sample""}]","['sql', 'api', 'integration']",medium
+Git Problem — 5650,Write a git function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","web,analytics,pandas,linux,git,deployment,api,backend",hard
+C Problem — 20df,Write a c function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","python,ml,sql,flask,django,api,c,java",easy
+Arrays Problem — 24d1,Write a arrays function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","dsa,algorithm,logic,data structures,arrays,strings,recursion",hard
+Dsa Problem — 21a1,Write a dsa function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","dsa,algorithm,logic,data structures,arrays,strings,recursion",easy
+Dsa Problem — 293b,Write a dsa function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","dsa,algorithm,logic,data structures,arrays,strings,recursion",medium
+Strings Problem — 6e9e,Write a strings function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","dsa,algorithm,logic,data structures,arrays,strings,recursion",medium
+Data Structures Problem — 3215,Write a data structures function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","dsa,algorithm,logic,data structures,arrays,strings,recursion",medium
+Dsa Problem — e430,Write a dsa function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","dsa,algorithm,logic,data structures,arrays,strings,recursion",medium
+Strings Problem — c74e,Write a strings function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","dsa,algorithm,logic,data structures,arrays,strings,recursion",medium
+Arrays Problem — 3043,Write a arrays function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","dsa,algorithm,logic,data structures,arrays,strings,recursion",easy
+Algorithm Problem — 5347,Write a algorithm function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","dsa,algorithm,logic,data structures,arrays,strings,recursion",easy
+Python Problem — d34c,Write a python function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"def solution():
+    pass","[{""input"": ""2 3"", ""output"": ""5""}]","python,ml,sql,flask,django,api,c,java",hard
+Web Problem — 58c0,Write a web function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","web,analytics,pandas,linux,git,deployment,api,backend",easy
+Backend Problem — 9b50,Write a backend function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","web,analytics,pandas,linux,git,deployment,api,backend",easy
+Flask Problem — 674c,Write a flask function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","python,ml,sql,flask,django,api,c,java",easy
+Sql Problem — 5f3f,Write a sql function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","python,ml,sql,flask,django,api,c,java",medium
+Backend Problem — 021f,Write a backend function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","web,analytics,pandas,linux,git,deployment,api,backend",easy
+Python Problem — e4f4,Write a python function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"def solution():
+    pass","[{""input"": ""2 3"", ""output"": ""5""}]","python,ml,sql,flask,django,api,c,java",easy
+Algorithm Problem — 61b8,Write a algorithm function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","dsa,algorithm,logic,data structures,arrays,strings,recursion",easy
+Python Problem — 10ee,Write a python function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"def solution():
+    pass","[{""input"": ""2 3"", ""output"": ""5""}]","python,ml,sql,flask,django,api,c,java",hard
+Api Problem — a1f4,Write a api function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","python,ml,sql,flask,django,api,c,java",easy
+SQL for ETL — Data/ML #6,Write SQL to transform raw events into a user-level aggregated table. Provide code + explanation and complexity where applicable.,"import pandas as pd
+from sklearn.model_selection import train_test_split
+
+def solve(path_to_csv):
+    # load and implement
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""sample.csv"", ""output"": ""metrics_or_output""}]","['python', 'pandas', 'ml', 'data-engineering', 'sklearn']",hard
+Recursion Problem — daf1,Write a recursion function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","dsa,algorithm,logic,data structures,arrays,strings,recursion",easy
+Recursion Problem — 7e67,Write a recursion function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","dsa,algorithm,logic,data structures,arrays,strings,recursion",easy
+Recursion Problem — 2fa1,Write a recursion function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","dsa,algorithm,logic,data structures,arrays,strings,recursion",easy
+Backend Problem — 3dcb,Write a backend function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","web,analytics,pandas,linux,git,deployment,api,backend",hard
+Recursion Problem — 7aba,Write a recursion function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","dsa,algorithm,logic,data structures,arrays,strings,recursion",medium
+Algorithm Problem — 8714,Write a algorithm function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","dsa,algorithm,logic,data structures,arrays,strings,recursion",easy
+Git Problem — 7e7c,Write a git function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","web,analytics,pandas,linux,git,deployment,api,backend",hard
+Logic Problem — 6b6a,Write a logic function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","dsa,algorithm,logic,data structures,arrays,strings,recursion",medium
+Api Problem — bc22,Write a api function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","python,ml,sql,flask,django,api,c,java",medium
+Python Problem — e018,Write a python function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"def solution():
+    pass","[{""input"": ""2 3"", ""output"": ""5""}]","python,ml,sql,flask,django,api,c,java",medium
+Git Problem — fca1,Write a git function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","web,analytics,pandas,linux,git,deployment,api,backend",easy
+CSV Parser — Python #6,Parse a CSV and return rows as lists handling quotes and escapes. Aim for idiomatic Python solutions and tests.,"def solve(*args, **kwargs):
+    # write your Python implementation here
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""a,b,\""c, d\"",e"", ""output"": ""[a,b,c d,e]""}]","['python', 'oop', 'modules', 'threads', 'regex']",easy
+Arrays Problem — 0861,Write a arrays function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","dsa,algorithm,logic,data structures,arrays,strings,recursion",hard
+Pandas Problem — 7d69,Write a pandas function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","web,analytics,pandas,linux,git,deployment,api,backend",medium
+Regex Extractor — Python #10,Extract dates from text using regex and return sorted unique list. Aim for idiomatic Python solutions and tests.,"def solve(*args, **kwargs):
+    # write your Python implementation here
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""On 2021-05-01 and 2020/12/31"", ""output"": ""[2020/12/31,2021-05-01]""}]","['python', 'oop', 'modules', 'threads', 'regex']",medium
+Logic Problem — f6e7,Write a logic function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","dsa,algorithm,logic,data structures,arrays,strings,recursion",medium
+Logic Problem — 690b,Write a logic function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","dsa,algorithm,logic,data structures,arrays,strings,recursion",medium
+Sql Problem — cfb5,Write a sql function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","python,ml,sql,flask,django,api,c,java",hard
+Arrays Problem — bbfd,Write a arrays function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","dsa,algorithm,logic,data structures,arrays,strings,recursion",hard
+Algorithm Problem — 6dac,Write a algorithm function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","dsa,algorithm,logic,data structures,arrays,strings,recursion",hard
+Data Structures Problem — 6bac,Write a data structures function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","dsa,algorithm,logic,data structures,arrays,strings,recursion",medium
+C Problem — e47e,Write a c function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","python,ml,sql,flask,django,api,c,java",hard
+C Problem — ba3b,Write a c function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","python,ml,sql,flask,django,api,c,java",easy
+Pandas Problem — 70b7,Write a pandas function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","web,analytics,pandas,linux,git,deployment,api,backend",easy
+Dsa Problem — 4caa,Write a dsa function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","dsa,algorithm,logic,data structures,arrays,strings,recursion",hard
+GraphQL Basic Resolver — Web/Backend #9,"Implement resolver for nested product reviews. Focus on correctness, security and edge cases.","# pseudo GraphQL resolver example
+# implement resolver function
+","[{""input"": ""product_id=1"", ""output"": ""reviews list""}]","['graphql', 'api', 'web']",hard
+Web Problem — 0f2c,Write a web function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","web,analytics,pandas,linux,git,deployment,api,backend",hard
+Algorithm Problem — cd4a,Write a algorithm function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","dsa,algorithm,logic,data structures,arrays,strings,recursion",hard
+Logic Problem — c2d6,Write a logic function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","dsa,algorithm,logic,data structures,arrays,strings,recursion",hard
+Strings Problem — 0916,Write a strings function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","dsa,algorithm,logic,data structures,arrays,strings,recursion",easy
+Flask Problem — abb0,Write a flask function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","python,ml,sql,flask,django,api,c,java",easy
+Api Problem — b6c6,Write a api function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","python,ml,sql,flask,django,api,c,java",medium
+Arrays Problem — 66fa,Write a arrays function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","dsa,algorithm,logic,data structures,arrays,strings,recursion",easy
+Api Problem — edeb,Write a api function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","python,ml,sql,flask,django,api,c,java",medium
+Dsa Problem — e6cd,Write a dsa function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","dsa,algorithm,logic,data structures,arrays,strings,recursion",medium
+Ml Problem — f368,Write a ml function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","python,ml,sql,flask,django,api,c,java",medium
+Recursion Problem — a458,Write a recursion function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","dsa,algorithm,logic,data structures,arrays,strings,recursion",hard
+Recursion Problem — 6a87,Write a recursion function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","dsa,algorithm,logic,data structures,arrays,strings,recursion",medium
+Data Schema Migration — Data/ML #9,Plan and write migration to update column types safely. Provide code + explanation and complexity where applicable.,"import pandas as pd
+from sklearn.model_selection import train_test_split
+
+def solve(path_to_csv):
+    # load and implement
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""sample.csv"", ""output"": ""metrics_or_output""}]","['python', 'pandas', 'ml', 'data-engineering', 'sklearn']",easy
+Merge Two Sorted Lists — DSA #4,Merge two sorted linked lists into one sorted list. Provide optimal time and space complexity.,"def solve(nums, target=None):
+    # implement and return result
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""1,2,4|1,3,4"", ""output"": ""1,1,2,3,4,4""}]","['python', 'dsa', 'algorithms', 'logic']",easy
+Flask Problem — 434b,Write a flask function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","python,ml,sql,flask,django,api,c,java",medium
+Logic Problem — 3796,Write a logic function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","dsa,algorithm,logic,data structures,arrays,strings,recursion",hard
+SQL for ETL — Data/ML #6,Write SQL to transform raw events into a user-level aggregated table. Provide code + explanation and complexity where applicable.,"import pandas as pd
+from sklearn.model_selection import train_test_split
+
+def solve(path_to_csv):
+    # load and implement
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""sample.csv"", ""output"": ""metrics_or_output""}]","['python', 'pandas', 'ml', 'data-engineering', 'sklearn']",hard
+Sql Problem — a7d5,Write a sql function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","python,ml,sql,flask,django,api,c,java",medium
+Deployment Problem — 201f,Write a deployment function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","web,analytics,pandas,linux,git,deployment,api,backend",easy
+Strings Problem — cbb8,Write a strings function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","dsa,algorithm,logic,data structures,arrays,strings,recursion",hard
+Python Problem — ed35,Write a python function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"def solution():
+    pass","[{""input"": ""2 3"", ""output"": ""5""}]","python,ml,sql,flask,django,api,c,java",easy
+Python Problem — 477a,Write a python function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"def solution():
+    pass","[{""input"": ""2 3"", ""output"": ""5""}]","python,ml,sql,flask,django,api,c,java",hard
+Flask Problem — 0787,Write a flask function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","python,ml,sql,flask,django,api,c,java",medium
+File Upload API — Web/Backend #7,"Implement chunked file upload API that resumes after interruption. Focus on correctness, security and edge cases.","from flask import Flask, request, jsonify
+app = Flask(__name__)
+
+@app.route('/')
+def index():
+    return jsonify({""status"":""ok""})
+
+# implement endpoints
+
+if __name__ == '__main__':
+    app.run()","[{""input"": ""POST /posts?page=1"", ""output"": ""200 list""}, {""input"": ""POST /posts?page=1000"", ""output"": ""[]""}]","['python', 'flask', 'api', 'web', 'security']",medium
+Iterator Implementation — Python #8,Implement a custom iterator for a nested list. Aim for idiomatic Python solutions and tests.,"def solve(*args, **kwargs):
+    # write your Python implementation here
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""[1,[2,3],4]"", ""output"": ""[1,2,3,4]""}]","['python', 'oop', 'modules', 'threads', 'regex']",easy
+Data Structures Problem — d178,Write a data structures function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","dsa,algorithm,logic,data structures,arrays,strings,recursion",easy
+Python Problem — cc5d,Write a python function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"def solution():
+    pass","[{""input"": ""2 3"", ""output"": ""5""}]","python,ml,sql,flask,django,api,c,java",hard
+Top K Frequent Elements — DSA #9,Return the k most frequent elements from an array. Provide optimal time and space complexity.,"def solve(nums, target=None):
+    # implement and return result
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""1 1 1 2 2 3|2"", ""output"": ""1 2""}]","['python', 'dsa', 'algorithms', 'logic']",easy
+Backend Problem — 4b5f,Write a backend function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","web,analytics,pandas,linux,git,deployment,api,backend",hard
+Ml Problem — ab8e,Write a ml function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","python,ml,sql,flask,django,api,c,java",easy
+Logic Problem — 705b,Write a logic function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","dsa,algorithm,logic,data structures,arrays,strings,recursion",easy
+Logic Problem — a6c9,Write a logic function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","dsa,algorithm,logic,data structures,arrays,strings,recursion",hard
+Rate Limiter — Web/Backend #4,"Implement a simple in-memory rate limiter for API requests per IP. Focus on correctness, security and edge cases.","from flask import Flask, request, jsonify
+app = Flask(__name__)
+
+@app.route('/')
+def index():
+    return jsonify({""status"":""ok""})
+
+# implement endpoints
+
+if __name__ == '__main__':
+    app.run()","[{""input"": ""POST /posts?page=1"", ""output"": ""200 list""}, {""input"": ""POST /posts?page=1000"", ""output"": ""[]""}]","['python', 'flask', 'api', 'web', 'security']",medium
+Logic Problem — fe7f,Write a logic function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","dsa,algorithm,logic,data structures,arrays,strings,recursion",medium
+Recursion Problem — a001,Write a recursion function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","dsa,algorithm,logic,data structures,arrays,strings,recursion",easy
+Linux Problem — 9625,Write a linux function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","web,analytics,pandas,linux,git,deployment,api,backend",hard
+Kth Smallest Element — DSA #6,Return the k-th smallest element in an unsorted array. Provide optimal time and space complexity.,"def solve(nums, target=None):
+    # implement and return result
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""3 2 1 5 6|2"", ""output"": ""3""}]","['python', 'dsa', 'algorithms', 'logic']",medium
+Flask Problem — d2a3,Write a flask function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","python,ml,sql,flask,django,api,c,java",easy
+Django Problem — 9c9d,Write a django function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","python,ml,sql,flask,django,api,c,java",medium
+Data Class Usage — Python #7,Use dataclasses to model and manipulate records. Aim for idiomatic Python solutions and tests.,"def solve(*args, **kwargs):
+    # write your Python implementation here
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""John,30"", ""output"": ""{\""name\"":\""John\"",\""age\"":30}""}]","['python', 'oop', 'modules', 'threads', 'regex']",easy
+Backend Problem — 9126,Write a backend function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","web,analytics,pandas,linux,git,deployment,api,backend",easy
+Recursion Problem — 0470,Write a recursion function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","dsa,algorithm,logic,data structures,arrays,strings,recursion",hard
+Merge Two Sorted Lists — DSA #4,Merge two sorted linked lists into one sorted list. Provide optimal time and space complexity.,"def solve(nums, target=None):
+    # implement and return result
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""1,2,4|1,3,4"", ""output"": ""1,1,2,3,4,4""}]","['python', 'dsa', 'algorithms', 'logic']",easy
+Data Structures Problem — a97e,Write a data structures function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","dsa,algorithm,logic,data structures,arrays,strings,recursion",easy
+Cache Invalidation — Web/Backend #6,"Design cache strategy and demonstrate cache invalidation for product updates. Focus on correctness, security and edge cases.","/* backend skeleton */
+// implement service logic
+","[{""input"": ""sample input"", ""output"": ""expected output""}]","['web', 'backend', 'design']",easy
+Java Problem — 6702,Write a java function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","python,ml,sql,flask,django,api,c,java",easy
+Java Problem — 5d90,Write a java function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","python,ml,sql,flask,django,api,c,java",medium
+Logic Problem — 1b52,Write a logic function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","dsa,algorithm,logic,data structures,arrays,strings,recursion",easy
+Web Problem — 2d41,Write a web function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","web,analytics,pandas,linux,git,deployment,api,backend",easy
+Train a Classifier — Data/ML #4,Train a binary classifier and return precision/recall on test set. Provide code + explanation and complexity where applicable.,"import pandas as pd
+from sklearn.model_selection import train_test_split
+
+def solve(path_to_csv):
+    # load and implement
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""sample.csv"", ""output"": ""metrics_or_output""}]","['python', 'pandas', 'ml', 'data-engineering', 'sklearn']",easy
+Pandas Problem — b250,Write a pandas function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","web,analytics,pandas,linux,git,deployment,api,backend",easy
+Backend Problem — 52bb,Write a backend function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","web,analytics,pandas,linux,git,deployment,api,backend",hard
+Data Cleaning Pipeline — Data/ML #1,"Given raw CSV with missing values and inconsistent types, design cleaning steps and implement them. Provide code + explanation and complexity where applicable.","import pandas as pd
+from sklearn.model_selection import train_test_split
+
+def solve(path_to_csv):
+    # load and implement
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""sample.csv"", ""output"": ""metrics_or_output""}]","['python', 'pandas', 'ml', 'data-engineering', 'sklearn']",hard
+Longest Increasing Subsequence — DSA #8,Return length of LIS in an integer array. Provide optimal time and space complexity.,"def solve(nums, target=None):
+    # implement and return result
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""10 9 2 5 3 7 101 18"", ""output"": ""4""}]","['python', 'dsa', 'algorithms', 'logic']",easy
+Backend Problem — 2673,Write a backend function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","web,analytics,pandas,linux,git,deployment,api,backend",easy
+Ml Problem — 4334,Write a ml function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","python,ml,sql,flask,django,api,c,java",medium
+Memory Leak Detection — Mixed #2,"Given C code, identify and fix leaks; propose fix. Provide a concise but production-ready solution and edge-case handling.","/* C example */
+#include <stdio.h>
+#include <string.h>
+
+void reverse(char *s) {
+    // implement
+}
+
+int main() {
+    return 0;
+}","[{""input"": ""input sample"", ""output"": ""expected sample""}]","['c', 'c_programming', 'low-level', 'debugging']",easy
+Django Problem — a428,Write a django function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","python,ml,sql,flask,django,api,c,java",hard
+Git Problem — 437e,Write a git function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","web,analytics,pandas,linux,git,deployment,api,backend",easy
+Python Problem — ba2a,Write a python function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"def solution():
+    pass","[{""input"": ""2 3"", ""output"": ""5""}]","python,ml,sql,flask,django,api,c,java",medium
+Django Problem — 9b76,Write a django function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","python,ml,sql,flask,django,api,c,java",hard
+Api Problem — 857a,Write a api function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","python,ml,sql,flask,django,api,c,java",medium
+Arrays Problem — a834,Write a arrays function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","dsa,algorithm,logic,data structures,arrays,strings,recursion",hard
+Java Problem — 499a,Write a java function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","python,ml,sql,flask,django,api,c,java",easy
+Sql Problem — 99d1,Write a sql function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","python,ml,sql,flask,django,api,c,java",hard
+Logic Problem — a832,Write a logic function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","dsa,algorithm,logic,data structures,arrays,strings,recursion",easy
+Dsa Problem — 7c81,Write a dsa function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","dsa,algorithm,logic,data structures,arrays,strings,recursion",medium
+Django Problem — bb18,Write a django function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","python,ml,sql,flask,django,api,c,java",easy
+Database Schema Design — Web/Backend #5,"Design normalized schema for e-commerce orders and products. Focus on correctness, security and edge cases.","/* backend skeleton */
+// implement service logic
+","[{""input"": ""sample input"", ""output"": ""expected output""}]","['web', 'backend', 'design']",medium
+Recursion Problem — 8f9f,Write a recursion function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","dsa,algorithm,logic,data structures,arrays,strings,recursion",easy
+Api Problem — a3e1,Write a api function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","web,analytics,pandas,linux,git,deployment,api,backend",easy
+Python Problem — 1b55,Write a python function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"def solution():
+    pass","[{""input"": ""2 3"", ""output"": ""5""}]","python,ml,sql,flask,django,api,c,java",medium
+Dsa Problem — 7d86,Write a dsa function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","dsa,algorithm,logic,data structures,arrays,strings,recursion",easy
+Api Problem — 9188,Write a api function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","python,ml,sql,flask,django,api,c,java",medium
+Algorithm Problem — cec5,Write a algorithm function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","dsa,algorithm,logic,data structures,arrays,strings,recursion",hard
+Sql Problem — b639,Write a sql function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","python,ml,sql,flask,django,api,c,java",easy
+Linux Problem — 3a78,Write a linux function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","web,analytics,pandas,linux,git,deployment,api,backend",easy
+Strings Problem — d402,Write a strings function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","dsa,algorithm,logic,data structures,arrays,strings,recursion",easy
+Design a RESTful Endpoint — Web/Backend #1,"Design a REST API endpoint that paginates and returns JSON for posts. Focus on correctness, security and edge cases.","from flask import Flask, request, jsonify
+app = Flask(__name__)
+
+@app.route('/')
+def index():
+    return jsonify({""status"":""ok""})
+
+# implement endpoints
+
+if __name__ == '__main__':
+    app.run()","[{""input"": ""POST /posts?page=1"", ""output"": ""200 list""}, {""input"": ""POST /posts?page=1000"", ""output"": ""[]""}]","['python', 'flask', 'api', 'web', 'security']",hard
+Arrays Problem — bf13,Write a arrays function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","dsa,algorithm,logic,data structures,arrays,strings,recursion",easy
+Python Problem — 545e,Write a python function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"def solution():
+    pass","[{""input"": ""2 3"", ""output"": ""5""}]","python,ml,sql,flask,django,api,c,java",hard
+Logic Problem — 5a29,Write a logic function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","dsa,algorithm,logic,data structures,arrays,strings,recursion",medium
+Java Problem — 42d3,Write a java function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","python,ml,sql,flask,django,api,c,java",easy
+Flask Problem — ee8e,Write a flask function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","python,ml,sql,flask,django,api,c,java",hard
+Java Problem — a4cc,Write a java function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","python,ml,sql,flask,django,api,c,java",easy
+Data Structures Problem — 1ead,Write a data structures function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","dsa,algorithm,logic,data structures,arrays,strings,recursion",easy
+Web Problem — 21fb,Write a web function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","web,analytics,pandas,linux,git,deployment,api,backend",medium
+Ml Problem — c0bb,Write a ml function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","python,ml,sql,flask,django,api,c,java",hard
+Data Structures Problem — 0367,Write a data structures function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","dsa,algorithm,logic,data structures,arrays,strings,recursion",medium
+Sql Problem — 3aa0,Write a sql function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","python,ml,sql,flask,django,api,c,java",hard
+Python Problem — 57e7,Write a python function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"def solution():
+    pass","[{""input"": ""2 3"", ""output"": ""5""}]","python,ml,sql,flask,django,api,c,java",hard
+C Problem — 351b,Write a c function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","python,ml,sql,flask,django,api,c,java",easy
+Arrays Problem — de44,Write a arrays function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","dsa,algorithm,logic,data structures,arrays,strings,recursion",hard
+Java Problem — ef32,Write a java function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","python,ml,sql,flask,django,api,c,java",easy
+Web Problem — 91cd,Write a web function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","web,analytics,pandas,linux,git,deployment,api,backend",hard
+Dsa Problem — aa53,Write a dsa function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","dsa,algorithm,logic,data structures,arrays,strings,recursion",hard
+Logic Problem — 6386,Write a logic function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","dsa,algorithm,logic,data structures,arrays,strings,recursion",easy
+Api Problem — a2c4,Write a api function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","python,ml,sql,flask,django,api,c,java",easy
+Recursion Problem — 7862,Write a recursion function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","dsa,algorithm,logic,data structures,arrays,strings,recursion",easy
+Algorithm Problem — b8bd,Write a algorithm function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","dsa,algorithm,logic,data structures,arrays,strings,recursion",easy
+Strings Problem — 0f4e,Write a strings function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","dsa,algorithm,logic,data structures,arrays,strings,recursion",easy
+Recursion Problem — bb6e,Write a recursion function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","dsa,algorithm,logic,data structures,arrays,strings,recursion",hard
+Recursion Problem — 0df8,Write a recursion function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","dsa,algorithm,logic,data structures,arrays,strings,recursion",medium
+Strings Problem — 3933,Write a strings function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","dsa,algorithm,logic,data structures,arrays,strings,recursion",easy
+Recursion Problem — fa76,Write a recursion function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","dsa,algorithm,logic,data structures,arrays,strings,recursion",hard
+Logic Problem — 5938,Write a logic function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","dsa,algorithm,logic,data structures,arrays,strings,recursion",medium
+Dsa Problem — e3ba,Write a dsa function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","dsa,algorithm,logic,data structures,arrays,strings,recursion",easy
+Recursion Problem — 446d,Write a recursion function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","dsa,algorithm,logic,data structures,arrays,strings,recursion",hard
+C Pointer Exercise — Mixed #1,Manipulate pointers to reverse a string in-place. Provide a concise but production-ready solution and edge-case handling.,"/* C example */
+#include <stdio.h>
+#include <string.h>
+
+void reverse(char *s) {
+    // implement
+}
+
+int main() {
+    return 0;
+}","[{""input"": ""input sample"", ""output"": ""expected sample""}]","['c', 'c_programming', 'low-level', 'debugging']",medium
+Ml Problem — 593b,Write a ml function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","python,ml,sql,flask,django,api,c,java",easy
+Python Problem — f516,Write a python function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"def solution():
+    pass","[{""input"": ""2 3"", ""output"": ""5""}]","python,ml,sql,flask,django,api,c,java",easy
+Algorithm Problem — ae07,Write a algorithm function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","dsa,algorithm,logic,data structures,arrays,strings,recursion",medium
+Arrays Problem — 7f57,Write a arrays function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","dsa,algorithm,logic,data structures,arrays,strings,recursion",easy
+Backend Problem — 0596,Write a backend function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","web,analytics,pandas,linux,git,deployment,api,backend",hard
+Recursion Problem — 781a,Write a recursion function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","dsa,algorithm,logic,data structures,arrays,strings,recursion",hard
+Sql Problem — 3d60,Write a sql function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","python,ml,sql,flask,django,api,c,java",hard
+Api Problem — d3fc,Write a api function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","python,ml,sql,flask,django,api,c,java",medium
+Python Problem — 623a,Write a python function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"def solution():
+    pass","[{""input"": ""2 3"", ""output"": ""5""}]","python,ml,sql,flask,django,api,c,java",easy
+Web Problem — a34f,Write a web function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","web,analytics,pandas,linux,git,deployment,api,backend",medium
+Valid Parentheses — DSA #7,Check if the parentheses string is valid. Provide optimal time and space complexity.,"def solve(nums, target=None):
+    # implement and return result
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""()"", ""output"": ""true""}, {""input"": ""()[]{}"", ""output"": ""true""}, {""input"": ""(]"", ""output"": ""false""}]","['python', 'dsa', 'algorithms', 'logic']",hard
+Data Structures Problem — aa57,Write a data structures function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","dsa,algorithm,logic,data structures,arrays,strings,recursion",medium
+Dsa Problem — c8c7,Write a dsa function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","dsa,algorithm,logic,data structures,arrays,strings,recursion",medium
+Arrays Problem — 8a4c,Write a arrays function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","dsa,algorithm,logic,data structures,arrays,strings,recursion",medium
+Sql Problem — 301f,Write a sql function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","python,ml,sql,flask,django,api,c,java",easy
+Api Problem — feea,Write a api function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","python,ml,sql,flask,django,api,c,java",medium
+Django Problem — 1727,Write a django function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","python,ml,sql,flask,django,api,c,java",easy
+Algorithm Problem — 21bd,Write a algorithm function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","dsa,algorithm,logic,data structures,arrays,strings,recursion",hard
+Django Problem — cad4,Write a django function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","python,ml,sql,flask,django,api,c,java",easy
+Backend Problem — b2ee,Write a backend function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","web,analytics,pandas,linux,git,deployment,api,backend",medium
+String Anagram Groups — Python #1,Group anagrams from a list of strings. Aim for idiomatic Python solutions and tests.,"def solve(*args, **kwargs):
+    # write your Python implementation here
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""eat,tea,tan,ate,nat,bat"", ""output"": ""[ [\""eat\"",\""tea\"",\""ate\""], [\""tan\"",\""nat\""], [\""bat\""] ]""}]","['python', 'oop', 'modules', 'threads', 'regex']",hard
+Data Structures Problem — 6da0,Write a data structures function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","dsa,algorithm,logic,data structures,arrays,strings,recursion",easy
+C Problem — 6939,Write a c function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","python,ml,sql,flask,django,api,c,java",hard
+Api Problem — efcf,Write a api function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","python,ml,sql,flask,django,api,c,java",easy
+Java Multithreading — Mixed #4,Design thread-safe producer-consumer using wait/notify. Provide a concise but production-ready solution and edge-case handling.,"public class Solution {
+    public static void main(String[] args) {
+        // implement
+    }
+}","[{""input"": ""input sample"", ""output"": ""expected sample""}]","['java', 'multithreading', 'concurrency']",medium
+Recursion Problem — c1cf,Write a recursion function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","dsa,algorithm,logic,data structures,arrays,strings,recursion",hard
+Api Problem — 923b,Write a api function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","python,ml,sql,flask,django,api,c,java",easy
+Api Problem — c667,Write a api function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","web,analytics,pandas,linux,git,deployment,api,backend",medium
+Logic Problem — 6707,Write a logic function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","dsa,algorithm,logic,data structures,arrays,strings,recursion",easy
+Pandas Problem — fc1f,Write a pandas function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","web,analytics,pandas,linux,git,deployment,api,backend",easy
+C Problem — 44ed,Write a c function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","python,ml,sql,flask,django,api,c,java",medium
+Logic Problem — ea6b,Write a logic function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","dsa,algorithm,logic,data structures,arrays,strings,recursion",hard
+Model Explainability — Data/ML #8,Generate SHAP-style explanations for model predictions. Provide code + explanation and complexity where applicable.,"import pandas as pd
+from sklearn.model_selection import train_test_split
+
+def solve(path_to_csv):
+    # load and implement
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""sample.csv"", ""output"": ""metrics_or_output""}]","['python', 'pandas', 'ml', 'data-engineering', 'sklearn']",easy
+Flask Problem — 2e77,Write a flask function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","python,ml,sql,flask,django,api,c,java",medium
+Logic Problem — e45c,Write a logic function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","dsa,algorithm,logic,data structures,arrays,strings,recursion",easy
+Django Problem — a07f,Write a django function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","python,ml,sql,flask,django,api,c,java",medium
+Backend Problem — 24ec,Write a backend function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","web,analytics,pandas,linux,git,deployment,api,backend",easy
+Recursion Problem — 60da,Write a recursion function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","dsa,algorithm,logic,data structures,arrays,strings,recursion",medium
+Api Problem — 16f5,Write a api function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","python,ml,sql,flask,django,api,c,java",easy
+Dsa Problem — 12e0,Write a dsa function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","dsa,algorithm,logic,data structures,arrays,strings,recursion",hard
+Flask Problem — 59c5,Write a flask function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","python,ml,sql,flask,django,api,c,java",medium
+Sql Problem — de4f,Write a sql function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","python,ml,sql,flask,django,api,c,java",easy
+Strings Problem — 2782,Write a strings function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","dsa,algorithm,logic,data structures,arrays,strings,recursion",hard
+Git Problem — 7ddb,Write a git function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","web,analytics,pandas,linux,git,deployment,api,backend",medium
+Python Problem — ecc9,Write a python function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"def solution():
+    pass","[{""input"": ""2 3"", ""output"": ""5""}]","python,ml,sql,flask,django,api,c,java",easy
+Webhook Consumer — Web/Backend #8,"Design webhook consumer that handles duplicates and retries. Focus on correctness, security and edge cases.","/* backend skeleton */
+// implement service logic
+","[{""input"": ""sample input"", ""output"": ""expected output""}]","['web', 'backend', 'design']",hard
+Django Problem — b696,Write a django function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","python,ml,sql,flask,django,api,c,java",hard
+Sql Problem — f56d,Write a sql function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","python,ml,sql,flask,django,api,c,java",medium
+Detect Cycle in Linked List — DSA #3,"Given head of a linked list, return true if there is a cycle. Provide optimal time and space complexity.","def solve(nums, target=None):
+    # implement and return result
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""1->2->3->4->2"", ""output"": ""true""}, {""input"": ""1->2->3->4"", ""output"": ""false""}]","['python', 'dsa', 'algorithms', 'logic']",medium
+Algorithm Problem — f186,Write a algorithm function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","dsa,algorithm,logic,data structures,arrays,strings,recursion",hard
+Algorithm Problem — b4f7,Write a algorithm function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","dsa,algorithm,logic,data structures,arrays,strings,recursion",easy
+Recursion Problem — 5583,Write a recursion function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","dsa,algorithm,logic,data structures,arrays,strings,recursion",easy
+Logic Problem — 146f,Write a logic function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","dsa,algorithm,logic,data structures,arrays,strings,recursion",medium
+Data Structures Problem — ea95,Write a data structures function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","dsa,algorithm,logic,data structures,arrays,strings,recursion",medium
+Dsa Problem — adde,Write a dsa function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","dsa,algorithm,logic,data structures,arrays,strings,recursion",medium
+Dsa Problem — 10a8,Write a dsa function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","dsa,algorithm,logic,data structures,arrays,strings,recursion",medium
+Ml Problem — f680,Write a ml function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","python,ml,sql,flask,django,api,c,java",medium
+Arrays Problem — 49e8,Write a arrays function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","dsa,algorithm,logic,data structures,arrays,strings,recursion",easy
+Strings Problem — 4c8b,Write a strings function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","dsa,algorithm,logic,data structures,arrays,strings,recursion",hard
+Anomaly Detection — Data/ML #10,Implement simple statistical anomaly detector for sensor data. Provide code + explanation and complexity where applicable.,"import pandas as pd
+from sklearn.model_selection import train_test_split
+
+def solve(path_to_csv):
+    # load and implement
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""sample.csv"", ""output"": ""metrics_or_output""}]","['python', 'pandas', 'ml', 'data-engineering', 'sklearn']",hard
+Algorithm Problem — 7554,Write a algorithm function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","dsa,algorithm,logic,data structures,arrays,strings,recursion",easy
+Sql Problem — 6ba2,Write a sql function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","python,ml,sql,flask,django,api,c,java",medium
+Cross-language RPC — Mixed #10,Design and implement a simple JSON-RPC spec for service-to-service calls. Provide a concise but production-ready solution and edge-case handling.,"// pseudo code for integration
+// SQL + API
+","[{""input"": ""input sample"", ""output"": ""expected sample""}]","['sql', 'api', 'integration']",medium
+Algorithm Problem — 8dad,Write a algorithm function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","dsa,algorithm,logic,data structures,arrays,strings,recursion",easy
+Analytics Problem — 5ed4,Write a analytics function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","web,analytics,pandas,linux,git,deployment,api,backend",hard
+Recursion Problem — 94e8,Write a recursion function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","dsa,algorithm,logic,data structures,arrays,strings,recursion",medium
+Strings Problem — 78dd,Write a strings function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","dsa,algorithm,logic,data structures,arrays,strings,recursion",medium
+Algorithm Problem — 010e,Write a algorithm function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","dsa,algorithm,logic,data structures,arrays,strings,recursion",medium
+Algorithm Problem — 960b,Write a algorithm function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","dsa,algorithm,logic,data structures,arrays,strings,recursion",easy
+Recursion Problem — 32a6,Write a recursion function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","dsa,algorithm,logic,data structures,arrays,strings,recursion",easy
+Data Structures Problem — ac6c,Write a data structures function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","dsa,algorithm,logic,data structures,arrays,strings,recursion",medium
+Java Problem — 677c,Write a java function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","python,ml,sql,flask,django,api,c,java",easy
+Python Problem — 8df4,Write a python function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"def solution():
+    pass","[{""input"": ""2 3"", ""output"": ""5""}]","python,ml,sql,flask,django,api,c,java",easy
+Strings Problem — 7dfd,Write a strings function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","dsa,algorithm,logic,data structures,arrays,strings,recursion",medium
+Backend Problem — 7b94,Write a backend function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","web,analytics,pandas,linux,git,deployment,api,backend",medium
+Linux Problem — 75ae,Write a linux function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","web,analytics,pandas,linux,git,deployment,api,backend",medium
+Web Problem — 1917,Write a web function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","web,analytics,pandas,linux,git,deployment,api,backend",easy
+Deployment Problem — 2d12,Write a deployment function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","web,analytics,pandas,linux,git,deployment,api,backend",easy
+Strings Problem — 16f5,Write a strings function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","dsa,algorithm,logic,data structures,arrays,strings,recursion",easy
+Arrays Problem — f009,Write a arrays function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","dsa,algorithm,logic,data structures,arrays,strings,recursion",medium
+Python Problem — 7787,Write a python function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"def solution():
+    pass","[{""input"": ""2 3"", ""output"": ""5""}]","python,ml,sql,flask,django,api,c,java",hard
+Python Problem — 90e8,Write a python function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"def solution():
+    pass","[{""input"": ""2 3"", ""output"": ""5""}]","python,ml,sql,flask,django,api,c,java",hard
+C Problem — 4817,Write a c function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","python,ml,sql,flask,django,api,c,java",medium
+Arrays Problem — 211b,Write a arrays function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","dsa,algorithm,logic,data structures,arrays,strings,recursion",hard
+Dsa Problem — 5591,Write a dsa function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","dsa,algorithm,logic,data structures,arrays,strings,recursion",easy
+Django Problem — 3efe,Write a django function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","python,ml,sql,flask,django,api,c,java",hard
+Django Problem — b65b,Write a django function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","python,ml,sql,flask,django,api,c,java",hard
+Recursion Problem — 6f2f,Write a recursion function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","dsa,algorithm,logic,data structures,arrays,strings,recursion",hard
+Logic Problem — e3dd,Write a logic function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","dsa,algorithm,logic,data structures,arrays,strings,recursion",hard
+Authentication Flow — Web/Backend #3,"Implement token-based authentication for login and protected endpoints. Focus on correctness, security and edge cases.","from flask import Flask, request, jsonify
+app = Flask(__name__)
+
+@app.route('/')
+def index():
+    return jsonify({""status"":""ok""})
+
+# implement endpoints
+
+if __name__ == '__main__':
+    app.run()","[{""input"": ""POST /posts?page=1"", ""output"": ""200 list""}, {""input"": ""POST /posts?page=1000"", ""output"": ""[]""}]","['python', 'flask', 'api', 'web', 'security']",medium
+Recursion Problem — 0961,Write a recursion function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","dsa,algorithm,logic,data structures,arrays,strings,recursion",easy
+Ml Problem — bf5c,Write a ml function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","python,ml,sql,flask,django,api,c,java",hard
+Recursion Problem — 83b0,Write a recursion function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","dsa,algorithm,logic,data structures,arrays,strings,recursion",easy
+Train/Test Split & Leakage — Data/ML #3,Explain and implement correct train/test split to avoid leakage. Provide code + explanation and complexity where applicable.,"import pandas as pd
+from sklearn.model_selection import train_test_split
+
+def solve(path_to_csv):
+    # load and implement
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""sample.csv"", ""output"": ""metrics_or_output""}]","['python', 'pandas', 'ml', 'data-engineering', 'sklearn']",medium
+C Problem — 09cf,Write a c function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","python,ml,sql,flask,django,api,c,java",hard
+Strings Problem — 994d,Write a strings function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","dsa,algorithm,logic,data structures,arrays,strings,recursion",easy
+Data Structures Problem — 1c4e,Write a data structures function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","dsa,algorithm,logic,data structures,arrays,strings,recursion",medium
+Ml Problem — 099f,Write a ml function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","python,ml,sql,flask,django,api,c,java",easy
+Linux Problem — 322a,Write a linux function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","web,analytics,pandas,linux,git,deployment,api,backend",hard
+Api Problem — 55d0,Write a api function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","python,ml,sql,flask,django,api,c,java",medium
+Linux Problem — a0ca,Write a linux function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","web,analytics,pandas,linux,git,deployment,api,backend",medium
+Ml Problem — 3c5a,Write a ml function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","python,ml,sql,flask,django,api,c,java",hard
+Recursion Problem — a5b9,Write a recursion function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","dsa,algorithm,logic,data structures,arrays,strings,recursion",easy
+C Problem — d1ec,Write a c function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","python,ml,sql,flask,django,api,c,java",medium
+Data Structures Problem — a684,Write a data structures function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","dsa,algorithm,logic,data structures,arrays,strings,recursion",easy
+Ml Problem — 935e,Write a ml function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","python,ml,sql,flask,django,api,c,java",hard
+Logic Problem — beac,Write a logic function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","dsa,algorithm,logic,data structures,arrays,strings,recursion",hard
+Django Problem — 7bb7,Write a django function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","python,ml,sql,flask,django,api,c,java",medium
+Serialize/Deserialize Binary Tree — Python #3,Serialize and deserialize a binary tree. Aim for idiomatic Python solutions and tests.,"def solve(*args, **kwargs):
+    # write your Python implementation here
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""1 2 3 null null 4 5"", ""output"": ""1 2 3 4 5""}]","['python', 'oop', 'modules', 'threads', 'regex']",easy
+Anomaly Detection — Data/ML #10,Implement simple statistical anomaly detector for sensor data. Provide code + explanation and complexity where applicable.,"import pandas as pd
+from sklearn.model_selection import train_test_split
+
+def solve(path_to_csv):
+    # load and implement
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""sample.csv"", ""output"": ""metrics_or_output""}]","['python', 'pandas', 'ml', 'data-engineering', 'sklearn']",hard
+Train/Test Split & Leakage — Data/ML #3,Explain and implement correct train/test split to avoid leakage. Provide code + explanation and complexity where applicable.,"import pandas as pd
+from sklearn.model_selection import train_test_split
+
+def solve(path_to_csv):
+    # load and implement
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""sample.csv"", ""output"": ""metrics_or_output""}]","['python', 'pandas', 'ml', 'data-engineering', 'sklearn']",medium
+C Problem — fe1b,Write a c function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","python,ml,sql,flask,django,api,c,java",easy
+C Problem — 2222,Write a c function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","python,ml,sql,flask,django,api,c,java",easy
+Arrays Problem — 06f6,Write a arrays function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","dsa,algorithm,logic,data structures,arrays,strings,recursion",easy
+Arrays Problem — c472,Write a arrays function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","dsa,algorithm,logic,data structures,arrays,strings,recursion",medium
+Strings Problem — 730d,Write a strings function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","dsa,algorithm,logic,data structures,arrays,strings,recursion",easy
+Api Problem — 7fcd,Write a api function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","python,ml,sql,flask,django,api,c,java",hard
+Api Problem — a97d,Write a api function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","python,ml,sql,flask,django,api,c,java",easy
+Data Structures Problem — 5f45,Write a data structures function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","dsa,algorithm,logic,data structures,arrays,strings,recursion",easy
+Pandas Problem — f2c8,Write a pandas function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","web,analytics,pandas,linux,git,deployment,api,backend",hard
+Data Structures Problem — c7f3,Write a data structures function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","dsa,algorithm,logic,data structures,arrays,strings,recursion",medium
+Api Problem — 58cc,Write a api function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","python,ml,sql,flask,django,api,c,java",easy
+Cross-language RPC — Mixed #10,Design and implement a simple JSON-RPC spec for service-to-service calls. Provide a concise but production-ready solution and edge-case handling.,"// pseudo code for integration
+// SQL + API
+","[{""input"": ""input sample"", ""output"": ""expected sample""}]","['sql', 'api', 'integration']",medium
+Backend Problem — 157b,Write a backend function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","web,analytics,pandas,linux,git,deployment,api,backend",easy
+Web Problem — 05ee,Write a web function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","web,analytics,pandas,linux,git,deployment,api,backend",hard
+Valid Parentheses — DSA #7,Check if the parentheses string is valid. Provide optimal time and space complexity.,"def solve(nums, target=None):
+    # implement and return result
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""()"", ""output"": ""true""}, {""input"": ""()[]{}"", ""output"": ""true""}, {""input"": ""(]"", ""output"": ""false""}]","['python', 'dsa', 'algorithms', 'logic']",hard
+Arrays Problem — b16d,Write a arrays function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","dsa,algorithm,logic,data structures,arrays,strings,recursion",easy
+Arrays Problem — 864a,Write a arrays function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","dsa,algorithm,logic,data structures,arrays,strings,recursion",easy
+Train a Classifier — Data/ML #4,Train a binary classifier and return precision/recall on test set. Provide code + explanation and complexity where applicable.,"import pandas as pd
+from sklearn.model_selection import train_test_split
+
+def solve(path_to_csv):
+    # load and implement
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""sample.csv"", ""output"": ""metrics_or_output""}]","['python', 'pandas', 'ml', 'data-engineering', 'sklearn']",easy
+Binary Search — DSA #5,Implement binary search to find target index in sorted array or -1 if not present. Provide optimal time and space complexity.,"def solve(nums, target=None):
+    # implement and return result
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""1 2 3 4 5|3"", ""output"": ""2""}, {""input"": ""1 3 5 7|2"", ""output"": ""-1""}]","['python', 'dsa', 'algorithms', 'logic']",medium
+Algorithm Problem — 2c52,Write a algorithm function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","dsa,algorithm,logic,data structures,arrays,strings,recursion",medium
+Git Problem — 518e,Write a git function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","web,analytics,pandas,linux,git,deployment,api,backend",easy
+Java Problem — 73f2,Write a java function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","python,ml,sql,flask,django,api,c,java",hard
+Logic Problem — fc1a,Write a logic function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","dsa,algorithm,logic,data structures,arrays,strings,recursion",medium
+Api Problem — 9b0a,Write a api function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","web,analytics,pandas,linux,git,deployment,api,backend",hard
+Data Structures Problem — b975,Write a data structures function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","dsa,algorithm,logic,data structures,arrays,strings,recursion",hard
+Sql Problem — f71c,Write a sql function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","python,ml,sql,flask,django,api,c,java",hard
+Sql Problem — 0460,Write a sql function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","python,ml,sql,flask,django,api,c,java",medium
+Logic Problem — 5870,Write a logic function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","dsa,algorithm,logic,data structures,arrays,strings,recursion",hard
+Arrays Problem — 9736,Write a arrays function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","dsa,algorithm,logic,data structures,arrays,strings,recursion",medium
+C Problem — 428d,Write a c function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","python,ml,sql,flask,django,api,c,java",hard
+Python Problem — ec93,Write a python function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"def solution():
+    pass","[{""input"": ""2 3"", ""output"": ""5""}]","python,ml,sql,flask,django,api,c,java",easy
+Batch Inference — Data/ML #7,Design batch inference pipeline that scales for 1M records. Provide code + explanation and complexity where applicable.,"import pandas as pd
+from sklearn.model_selection import train_test_split
+
+def solve(path_to_csv):
+    # load and implement
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""sample.csv"", ""output"": ""metrics_or_output""}]","['python', 'pandas', 'ml', 'data-engineering', 'sklearn']",easy
+Recursion Problem — 1af7,Write a recursion function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","dsa,algorithm,logic,data structures,arrays,strings,recursion",medium
+Recursion Problem — 7c49,Write a recursion function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","dsa,algorithm,logic,data structures,arrays,strings,recursion",medium
+Two Sum Variant — DSA #1,"Given an array and a target, return indices of two numbers that add to target. Provide optimal time and space complexity.","def solve(nums, target=None):
+    # implement and return result
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""2 7 11 15|9"", ""output"": ""0 1""}, {""input"": ""3 2 4|6"", ""output"": ""1 2""}, {""input"": ""-1 0 1|0"", ""output"": """"}]","['python', 'dsa', 'algorithms', 'logic']",easy
+Pandas Problem — 80f5,Write a pandas function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","web,analytics,pandas,linux,git,deployment,api,backend",easy
+Feature Engineering — Data/ML #2,Create features for time-series forecasting using lag and rolling stats. Provide code + explanation and complexity where applicable.,"import pandas as pd
+from sklearn.model_selection import train_test_split
+
+def solve(path_to_csv):
+    # load and implement
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""sample.csv"", ""output"": ""metrics_or_output""}]","['python', 'pandas', 'ml', 'data-engineering', 'sklearn']",easy
+Deployment Problem — 5e5f,Write a deployment function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","web,analytics,pandas,linux,git,deployment,api,backend",easy
+Logic Problem — 5973,Write a logic function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","dsa,algorithm,logic,data structures,arrays,strings,recursion",hard
+Strings Problem — df0a,Write a strings function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","dsa,algorithm,logic,data structures,arrays,strings,recursion",easy
+Logic Problem — 2d3b,Write a logic function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","dsa,algorithm,logic,data structures,arrays,strings,recursion",easy
+Ml Problem — 9ba0,Write a ml function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","python,ml,sql,flask,django,api,c,java",easy
+Deployment Problem — 7829,Write a deployment function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","web,analytics,pandas,linux,git,deployment,api,backend",easy
+Java Problem — 485c,Write a java function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","python,ml,sql,flask,django,api,c,java",medium
+C Problem — f1ab,Write a c function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","python,ml,sql,flask,django,api,c,java",medium
+Java Problem — 6f94,Write a java function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","python,ml,sql,flask,django,api,c,java",medium
+Api Problem — 7699,Write a api function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","python,ml,sql,flask,django,api,c,java",hard
+Analytics Problem — 560c,Write a analytics function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","web,analytics,pandas,linux,git,deployment,api,backend",medium
+Top K Frequent Elements — DSA #9,Return the k most frequent elements from an array. Provide optimal time and space complexity.,"def solve(nums, target=None):
+    # implement and return result
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""1 1 1 2 2 3|2"", ""output"": ""1 2""}]","['python', 'dsa', 'algorithms', 'logic']",easy
+Data Structures Problem — e97e,Write a data structures function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","dsa,algorithm,logic,data structures,arrays,strings,recursion",easy
+Api Problem — e8bf,Write a api function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","web,analytics,pandas,linux,git,deployment,api,backend",easy
+Sql Problem — 446e,Write a sql function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","python,ml,sql,flask,django,api,c,java",easy
+Dsa Problem — 92ab,Write a dsa function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","dsa,algorithm,logic,data structures,arrays,strings,recursion",hard
+Context Manager — Python #5,Create a context manager that times a code block. Aim for idiomatic Python solutions and tests.,"def solve(*args, **kwargs):
+    # write your Python implementation here
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""simple block"", ""output"": ""timed""}]","['python', 'oop', 'modules', 'threads', 'regex']",easy
+Ml Problem — b182,Write a ml function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","python,ml,sql,flask,django,api,c,java",easy
+Embedded Systems Stub — Mixed #8,Implement simple circular buffer in C for sensor data. Provide a concise but production-ready solution and edge-case handling.,"/* C example */
+#include <stdio.h>
+#include <string.h>
+
+void reverse(char *s) {
+    // implement
+}
+
+int main() {
+    return 0;
+}","[{""input"": ""input sample"", ""output"": ""expected sample""}]","['c', 'c_programming', 'low-level', 'debugging']",easy
+Algorithm Problem — 9a9d,Write a algorithm function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","dsa,algorithm,logic,data structures,arrays,strings,recursion",easy
+Web Problem — b2f7,Write a web function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","web,analytics,pandas,linux,git,deployment,api,backend",easy
+Rate Limiter — Web/Backend #4,"Implement a simple in-memory rate limiter for API requests per IP. Focus on correctness, security and edge cases.","from flask import Flask, request, jsonify
+app = Flask(__name__)
+
+@app.route('/')
+def index():
+    return jsonify({""status"":""ok""})
+
+# implement endpoints
+
+if __name__ == '__main__':
+    app.run()","[{""input"": ""POST /posts?page=1"", ""output"": ""200 list""}, {""input"": ""POST /posts?page=1000"", ""output"": ""[]""}]","['python', 'flask', 'api', 'web', 'security']",medium
+Logic Problem — 6a9b,Write a logic function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","dsa,algorithm,logic,data structures,arrays,strings,recursion",easy
+Algorithm Problem — e665,Write a algorithm function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","dsa,algorithm,logic,data structures,arrays,strings,recursion",medium
+Analytics Problem — fb93,Write a analytics function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","web,analytics,pandas,linux,git,deployment,api,backend",easy
+Backend Problem — 9b28,Write a backend function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","web,analytics,pandas,linux,git,deployment,api,backend",hard
+Algorithm Problem — 3603,Write a algorithm function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","dsa,algorithm,logic,data structures,arrays,strings,recursion",easy
+Arrays Problem — b240,Write a arrays function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","dsa,algorithm,logic,data structures,arrays,strings,recursion",easy
+Longest Increasing Subsequence — DSA #8,Return length of LIS in an integer array. Provide optimal time and space complexity.,"def solve(nums, target=None):
+    # implement and return result
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""10 9 2 5 3 7 101 18"", ""output"": ""4""}]","['python', 'dsa', 'algorithms', 'logic']",easy
+Dsa Problem — ed22,Write a dsa function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","dsa,algorithm,logic,data structures,arrays,strings,recursion",hard
+Logic Problem — 4dcd,Write a logic function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","dsa,algorithm,logic,data structures,arrays,strings,recursion",medium
+Pandas Problem — 44bb,Write a pandas function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","web,analytics,pandas,linux,git,deployment,api,backend",hard
+Algorithm Problem — 2393,Write a algorithm function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","dsa,algorithm,logic,data structures,arrays,strings,recursion",hard
+Deployment Problem — fffe,Write a deployment function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","web,analytics,pandas,linux,git,deployment,api,backend",hard
+Web Problem — 81e8,Write a web function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","web,analytics,pandas,linux,git,deployment,api,backend",hard
+Arrays Problem — d065,Write a arrays function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","dsa,algorithm,logic,data structures,arrays,strings,recursion",hard
+Strings Problem — 8b08,Write a strings function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","dsa,algorithm,logic,data structures,arrays,strings,recursion",medium
+Data Structures Problem — 7a11,Write a data structures function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","dsa,algorithm,logic,data structures,arrays,strings,recursion",medium
+Reverse Linked List — DSA #2,Reverse a singly linked list and return the head of the reversed list. Provide optimal time and space complexity.,"def solve(nums, target=None):
+    # implement and return result
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""1->2->3->4->5"", ""output"": ""5->4->3->2->1""}, {""input"": ""1->2"", ""output"": ""2->1""}, {""input"": """", ""output"": """"}]","['python', 'dsa', 'algorithms', 'logic']",medium
+Sql Problem — 71fa,Write a sql function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","python,ml,sql,flask,django,api,c,java",easy
+Sql Problem — 450f,Write a sql function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","python,ml,sql,flask,django,api,c,java",hard
+Algorithm Problem — 39c0,Write a algorithm function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","dsa,algorithm,logic,data structures,arrays,strings,recursion",hard
+SQL Join and Aggregation — Web/Backend #2,"Write SQL query to compute monthly active users from events table. Focus on correctness, security and edge cases.","/* SQL */
+-- write your SQL query below
+-- Example table: events(user_id INT, event_time TIMESTAMP, event_type TEXT)
+","[{""input"": ""sample events table"", ""output"": ""expected rows""}]","['sql', 'databases', 'analytics']",easy
+Django Problem — 025c,Write a django function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","python,ml,sql,flask,django,api,c,java",easy
+Recursion Problem — 45a6,Write a recursion function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","dsa,algorithm,logic,data structures,arrays,strings,recursion",medium
+Logic Problem — 76bd,Write a logic function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","dsa,algorithm,logic,data structures,arrays,strings,recursion",easy
+Ml Problem — 94f6,Write a ml function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","python,ml,sql,flask,django,api,c,java",easy
+Ml Problem — 5daa,Write a ml function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","python,ml,sql,flask,django,api,c,java",medium
+Dsa Problem — f66b,Write a dsa function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","dsa,algorithm,logic,data structures,arrays,strings,recursion",medium
+Reverse Linked List — DSA #2,Reverse a singly linked list and return the head of the reversed list. Provide optimal time and space complexity.,"def solve(nums, target=None):
+    # implement and return result
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""1->2->3->4->5"", ""output"": ""5->4->3->2->1""}, {""input"": ""1->2"", ""output"": ""2->1""}, {""input"": """", ""output"": """"}]","['python', 'dsa', 'algorithms', 'logic']",medium
+Deployment Problem — 0561,Write a deployment function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","web,analytics,pandas,linux,git,deployment,api,backend",easy
+Pandas Problem — 740a,Write a pandas function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","web,analytics,pandas,linux,git,deployment,api,backend",hard
+Java Problem — 2167,Write a java function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","python,ml,sql,flask,django,api,c,java",easy
+SQL + API Integration — Mixed #5,Return paginated SQL results via an API endpoint. Provide a concise but production-ready solution and edge-case handling.,"// pseudo code for integration
+// SQL + API
+","[{""input"": ""input sample"", ""output"": ""expected sample""}]","['sql', 'api', 'integration']",medium
+Ml Problem — 2119,Write a ml function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","python,ml,sql,flask,django,api,c,java",medium
+Kth Smallest Element — DSA #6,Return the k-th smallest element in an unsorted array. Provide optimal time and space complexity.,"def solve(nums, target=None):
+    # implement and return result
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""3 2 1 5 6|2"", ""output"": ""3""}]","['python', 'dsa', 'algorithms', 'logic']",medium
+Data Schema Migration — Data/ML #9,Plan and write migration to update column types safely. Provide code + explanation and complexity where applicable.,"import pandas as pd
+from sklearn.model_selection import train_test_split
+
+def solve(path_to_csv):
+    # load and implement
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""sample.csv"", ""output"": ""metrics_or_output""}]","['python', 'pandas', 'ml', 'data-engineering', 'sklearn']",easy
+Dsa Problem — d813,Write a dsa function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","dsa,algorithm,logic,data structures,arrays,strings,recursion",hard
+Deployment Problem — bd59,Write a deployment function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","web,analytics,pandas,linux,git,deployment,api,backend",hard
+Recursion Problem — 3db1,Write a recursion function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","dsa,algorithm,logic,data structures,arrays,strings,recursion",medium
+Django Problem — 52e1,Write a django function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","python,ml,sql,flask,django,api,c,java",medium
+Data Structures Problem — 6ffb,Write a data structures function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","dsa,algorithm,logic,data structures,arrays,strings,recursion",easy
+Api Problem — 6533,Write a api function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","web,analytics,pandas,linux,git,deployment,api,backend",medium
+Api Problem — 2f23,Write a api function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","python,ml,sql,flask,django,api,c,java",medium
+Dsa Problem — 5d9f,Write a dsa function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","dsa,algorithm,logic,data structures,arrays,strings,recursion",easy
+Algorithm Problem — 7af0,Write a algorithm function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","dsa,algorithm,logic,data structures,arrays,strings,recursion",medium
+Recursion Problem — 3bb7,Write a recursion function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","dsa,algorithm,logic,data structures,arrays,strings,recursion",easy
+Decorator Usage — Python #4,Write a timing decorator that measures function runtime. Aim for idiomatic Python solutions and tests.,"def solve(*args, **kwargs):
+    # write your Python implementation here
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""sleep 0.01"", ""output"": ""~0.01""}]","['python', 'oop', 'modules', 'threads', 'regex']",hard
+Data Structures Problem — d043,Write a data structures function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","dsa,algorithm,logic,data structures,arrays,strings,recursion",hard
+Java Problem — 7872,Write a java function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","python,ml,sql,flask,django,api,c,java",easy
+Dsa Problem — 96c4,Write a dsa function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","dsa,algorithm,logic,data structures,arrays,strings,recursion",medium
+Logic Problem — dbf9,Write a logic function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","dsa,algorithm,logic,data structures,arrays,strings,recursion",medium
+Ml Problem — 5f23,Write a ml function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","python,ml,sql,flask,django,api,c,java",easy
+Recursion Problem — 2c7a,Write a recursion function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","dsa,algorithm,logic,data structures,arrays,strings,recursion",medium
+Git Problem — 3190,Write a git function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","web,analytics,pandas,linux,git,deployment,api,backend",easy
+Django Problem — 504d,Write a django function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","python,ml,sql,flask,django,api,c,java",hard
+Strings Problem — 1008,Write a strings function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","dsa,algorithm,logic,data structures,arrays,strings,recursion",easy
+Git Problem — ac4a,Write a git function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","web,analytics,pandas,linux,git,deployment,api,backend",easy
+Dsa Problem — 0466,Write a dsa function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","dsa,algorithm,logic,data structures,arrays,strings,recursion",hard
+Arrays Problem — d937,Write a arrays function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","dsa,algorithm,logic,data structures,arrays,strings,recursion",easy
+Ml Problem — 3382,Write a ml function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","python,ml,sql,flask,django,api,c,java",hard
+Recursion Problem — 7e89,Write a recursion function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","dsa,algorithm,logic,data structures,arrays,strings,recursion",medium
+Python Problem — b59a,Write a python function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"def solution():
+    pass","[{""input"": ""2 3"", ""output"": ""5""}]","python,ml,sql,flask,django,api,c,java",hard
+Pandas Problem — 8b21,Write a pandas function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","web,analytics,pandas,linux,git,deployment,api,backend",hard
+Java Problem — a8bf,Write a java function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","python,ml,sql,flask,django,api,c,java",hard
+Analytics Problem — 67b4,Write a analytics function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","web,analytics,pandas,linux,git,deployment,api,backend",easy
+Django Problem — f15d,Write a django function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","python,ml,sql,flask,django,api,c,java",easy
+Pandas Problem — 9eb9,Write a pandas function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","web,analytics,pandas,linux,git,deployment,api,backend",hard
+Ml Problem — e892,Write a ml function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","python,ml,sql,flask,django,api,c,java",medium
+Python Problem — fdc1,Write a python function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"def solution():
+    pass","[{""input"": ""2 3"", ""output"": ""5""}]","python,ml,sql,flask,django,api,c,java",hard
+Ml Problem — 8c40,Write a ml function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","python,ml,sql,flask,django,api,c,java",medium
+Python Problem — 77d9,Write a python function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"def solution():
+    pass","[{""input"": ""2 3"", ""output"": ""5""}]","python,ml,sql,flask,django,api,c,java",medium
+Dsa Problem — 8674,Write a dsa function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","dsa,algorithm,logic,data structures,arrays,strings,recursion",easy
+Data Structures Problem — 05ac,Write a data structures function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","dsa,algorithm,logic,data structures,arrays,strings,recursion",hard
+Logic Problem — fd5a,Write a logic function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","dsa,algorithm,logic,data structures,arrays,strings,recursion",medium
+SQL Join and Aggregation — Web/Backend #2,"Write SQL query to compute monthly active users from events table. Focus on correctness, security and edge cases.","/* SQL */
+-- write your SQL query below
+-- Example table: events(user_id INT, event_time TIMESTAMP, event_type TEXT)
+","[{""input"": ""sample events table"", ""output"": ""expected rows""}]","['sql', 'databases', 'analytics']",easy
+Recursion Problem — 1559,Write a recursion function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","dsa,algorithm,logic,data structures,arrays,strings,recursion",easy
+Pandas Problem — 196f,Write a pandas function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","web,analytics,pandas,linux,git,deployment,api,backend",medium
+Python Problem — aabf,Write a python function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"def solution():
+    pass","[{""input"": ""2 3"", ""output"": ""5""}]","python,ml,sql,flask,django,api,c,java",medium
+Data Structures Problem — c312,Write a data structures function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","dsa,algorithm,logic,data structures,arrays,strings,recursion",easy
+Linux Problem — 0aae,Write a linux function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","web,analytics,pandas,linux,git,deployment,api,backend",easy
+Ml Problem — b809,Write a ml function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","python,ml,sql,flask,django,api,c,java",easy
+Data Structures Problem — 8edb,Write a data structures function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","dsa,algorithm,logic,data structures,arrays,strings,recursion",hard
+Algorithm Problem — 8a64,Write a algorithm function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","dsa,algorithm,logic,data structures,arrays,strings,recursion",hard
+Hyperparameter Search — Data/ML #5,Implement grid search or randomized search to tune model hyperparameters. Provide code + explanation and complexity where applicable.,"import pandas as pd
+from sklearn.model_selection import train_test_split
+
+def solve(path_to_csv):
+    # load and implement
+    pass
+
+if __name__ == '__main__':
+    pass","[{""input"": ""sample.csv"", ""output"": ""metrics_or_output""}]","['python', 'pandas', 'ml', 'data-engineering', 'sklearn']",easy
+Recursion Problem — 1609,Write a recursion function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","dsa,algorithm,logic,data structures,arrays,strings,recursion",medium
+Logic Problem — 7c0d,Write a logic function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","dsa,algorithm,logic,data structures,arrays,strings,recursion",hard
+Logic Problem — 2e1c,Write a logic function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","dsa,algorithm,logic,data structures,arrays,strings,recursion",easy
+Django Problem — 2f4d,Write a django function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","python,ml,sql,flask,django,api,c,java",easy
+Flask Problem — 0317,Write a flask function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","python,ml,sql,flask,django,api,c,java",hard
+Api Problem — ea23,Write a api function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","python,ml,sql,flask,django,api,c,java",medium
+Strings Problem — 1331,Write a strings function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","dsa,algorithm,logic,data structures,arrays,strings,recursion",medium
+Flask Problem — 5e14,Write a flask function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","python,ml,sql,flask,django,api,c,java",medium
+Arrays Problem — 1fd9,Write a arrays function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","dsa,algorithm,logic,data structures,arrays,strings,recursion",easy
+Django Problem — 5f70,Write a django function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","python,ml,sql,flask,django,api,c,java",hard
+Linux Problem — 9634,Write a linux function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","web,analytics,pandas,linux,git,deployment,api,backend",medium
+Logic Problem — 7bc9,Write a logic function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","dsa,algorithm,logic,data structures,arrays,strings,recursion",medium
+Logic Problem — dd6a,Write a logic function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","dsa,algorithm,logic,data structures,arrays,strings,recursion",medium
+Analytics Problem — c9fc,Write a analytics function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","web,analytics,pandas,linux,git,deployment,api,backend",medium
+C Problem — 4919,Write a c function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","python,ml,sql,flask,django,api,c,java",hard
+Analytics Problem — b434,Write a analytics function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","web,analytics,pandas,linux,git,deployment,api,backend",hard
+Design a RESTful Endpoint — Web/Backend #1,"Design a REST API endpoint that paginates and returns JSON for posts. Focus on correctness, security and edge cases.","from flask import Flask, request, jsonify
+app = Flask(__name__)
+
+@app.route('/')
+def index():
+    return jsonify({""status"":""ok""})
+
+# implement endpoints
+
+if __name__ == '__main__':
+    app.run()","[{""input"": ""POST /posts?page=1"", ""output"": ""200 list""}, {""input"": ""POST /posts?page=1000"", ""output"": ""[]""}]","['python', 'flask', 'api', 'web', 'security']",hard
+Ml Problem — 68d2,Write a ml function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","python,ml,sql,flask,django,api,c,java",medium
+Django Problem — eb18,Write a django function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","python,ml,sql,flask,django,api,c,java",easy
+Ml Problem — 6527,Write a ml function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","python,ml,sql,flask,django,api,c,java",easy
+Algorithm Problem — 4227,Write a algorithm function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","dsa,algorithm,logic,data structures,arrays,strings,recursion",medium
+Dsa Problem — b64f,Write a dsa function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","dsa,algorithm,logic,data structures,arrays,strings,recursion",easy
+Pandas Problem — 421b,Write a pandas function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","web,analytics,pandas,linux,git,deployment,api,backend",easy
+Ml Problem — 8ad7,Write a ml function to solve a realistic interview challenge. Include edge-case handling and O(n) complexity where possible.,"public class Solution {
+    public static void main(String[] args) {
+        // code
+    }
+}","[{""input"": ""2 3"", ""output"": ""5""}]","python,ml,sql,flask,django,api,c,java",medium

@@ -1,0 +1,115 @@
+{% extends "base.html" %}
+{% block title %}HR Interview{% endblock %}
+
+{% block content %}
+<div class="container mt-4">
+  <form id="csrf-form">{% csrf_token %}</form>
+
+  <h3>HR Interview</h3>
+  <p class="text-muted">
+    This round focuses on your communication, attitude, and behavioral responses.
+  </p>
+
+  <div id="chat-box" class="border rounded p-3 mb-3"
+       style="height: 400px; overflow-y: auto; background: #f8f9fa;">
+    <div id="chat-content"></div>
+  </div>
+
+  <div class="input-group mb-3">
+    <input type="text" id="user-input" class="form-control"
+           placeholder="Type your answer..." />
+    <button id="send-btn" class="btn btn-primary">Send</button>
+  </div>
+
+  <button id="submit-btn" class="btn btn-success mt-2" style="display:none;">
+    Submit Interview
+  </button>
+</div>
+
+<script>
+document.addEventListener("DOMContentLoaded", async () => {
+  const chatBox = document.getElementById("chat-content");
+  const userInput = document.getElementById("user-input");
+  const sendBtn = document.getElementById("send-btn");
+  const submitBtn = document.getElementById("submit-btn");
+
+  let questions = [];
+  let currentIndex = 0;
+  let transcript = [];
+
+  function appendMessage(sender, text) {
+    const div = document.createElement("div");
+    div.className = sender === "bot"
+      ? "text-white mb-2"
+      : "text-dark mb-2 text-end";
+    div.innerHTML = `<strong>${sender === "bot" ? "HR" : "You"}:</strong> ${text}`;
+    chatBox.appendChild(div);
+    chatBox.scrollTop = chatBox.scrollHeight;
+  }
+
+  // Load HR questions
+  try {
+    const res = await fetch("/hr/questions/");
+    const data = await res.json();
+    questions = data.questions || [];
+  } catch (err) {
+    appendMessage("bot", "Error loading HR questions. Please reload the page.");
+    return;
+  }
+
+  if (questions.length > 0) {
+    appendMessage("bot", questions[currentIndex]);
+  }
+
+  sendBtn.addEventListener("click", () => {
+    const answer = userInput.value.trim();
+    if (!answer) return;
+
+    appendMessage("user", answer);
+    transcript.push({ q: questions[currentIndex], a: answer });
+    userInput.value = "";
+
+    currentIndex++;
+    if (currentIndex < questions.length) {
+      setTimeout(() => appendMessage("bot", questions[currentIndex]), 600);
+    } else {
+      appendMessage("bot", "Thank you! That concludes the HR interview.");
+      sendBtn.disabled = true;
+      userInput.disabled = true;
+      submitBtn.style.display = "inline-block";
+    }
+  });
+
+  submitBtn.addEventListener("click", async () => {
+    appendMessage("bot", "Saving your responses...");
+    try {
+      const csrfToken = document.querySelector("[name=csrfmiddlewaretoken]").value;
+      const response = await fetch("/hr/submit/", {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json",
+          "X-CSRFToken": csrfToken,
+        },
+        body: JSON.stringify({ transcript }),
+      });
+
+      if (!response.ok) {
+        const errData = await response.json().catch(() => ({}));
+        appendMessage("bot", "Error saving responses: " + (errData.error || response.status));
+        console.error("❌ HR Submit Error:", response.status, errData);
+        return;
+      }
+
+      const data = await response.json();
+      console.log("✅ HR Submit Success:", data);
+      appendMessage("bot", "Your HR interview has been submitted successfully! Redirecting...");
+      setTimeout(() => (window.location.href = "/wait/"), 1500);
+    } catch (err) {
+      console.error("❌ Fetch Exception:", err);
+      appendMessage("bot", "Error saving responses (network or JSON issue).");
+    }
+  });
+});
+</script>
+
+{% endblock %}

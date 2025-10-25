@@ -1,0 +1,15 @@
+{% extends "base.html" %}
+{% block title %}Upload Resume{% endblock %}
+{% block content %}
+<h3>Upload Resume</h3>
+<form method="post" enctype="multipart/form-data">
+  {% csrf_token %}
+  <div class="mb-3">
+    <input class="form-control" type="file" name="resume" accept=".pdf,.doc,.docx">
+  </div>
+  <button class="btn btn-primary">Upload</button>
+</form>
+{% if profile.resume %}
+  <p class="mt-3">Current resume: <a href="{{ profile.resume.url }}">{{ profile.resume.name }}</a></p>
+{% endif %}
+{% endblock %}

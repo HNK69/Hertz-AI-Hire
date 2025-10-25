@@ -1,0 +1,501 @@
+question_text,option_1,option_2,option_3,option_4,correct_index,difficulty,tags
+"Find the odd one out: spinach, carrot, grape, banana",spinach,carrot,grape,banana,1,hard,logic
+"Average of five numbers is 28. If one number 79 is replaced by 63, new average is?",24.8,25.8,24.3,26.8,1,medium,math
+"A process completes a job in 92 hours. If 3 identical processes work together, how long will they take?",46.0,23.0,69.0,92.0,1,hard,math
+"If an array is sorted and then reversed, what is time complexity for worst-case search using binary search?",O(log n),O(n),O(n log n),O(1),1,hard,algorithmic
+"If two fair dice are rolled, what is probability that sum is 11?",2/36,3/36,1/36,2/6,1,medium,probability
+"If P% of a number is 5.2 and Q% of the same number is 1.3, what is P:Q?",20:5,5:20,40:5,20:10,1,medium,math
+"Average of five numbers is 40. If one number 54 is replaced by 31, new average is?",35.4,36.4,34.9,37.4,1,hard,math
+"If two fair dice are rolled, what is probability that sum is 7?",6/36,7/36,5/36,6/6,1,medium,probability
+"Find the odd one out: spinach, pear, carrot, banana",spinach,pear,carrot,banana,1,hard,logic
+"Average of five numbers is 65. If one number 7 is replaced by 17, new average is?",67.0,68.0,66.5,69.0,1,hard,math
+A cube painted on all faces is cut into 27 equal smaller cubes. How many of the small cubes have exactly two painted faces?,12,6,8,0,1,hard,logic
+A cube painted on all faces is cut into 27 equal smaller cubes. How many of the small cubes have exactly two painted faces?,12,6,8,0,1,easy,logic
+"If two fair dice are rolled, what is probability that sum is 7?",6/36,7/36,5/36,6/6,1,easy,probability
+"A process completes a job in 34 hours. If 5 identical processes work together, how long will they take?",17.0,8.5,25.5,34.0,1,hard,math
+"If 5 items cost $17, what is the cost of 13 items?",44.2,45.2,42.2,49.2,1,easy,math
+"Find the odd one out: grape, carrot, spinach, banana",grape,carrot,spinach,banana,2,medium,logic
+A cube painted on all faces is cut into 27 equal smaller cubes. How many of the small cubes have exactly two painted faces?,12,6,8,0,1,medium,logic
+"Average of five numbers is 24. If one number 30 is replaced by 80, new average is?",34.0,35.0,33.5,36.0,1,hard,math
+Which data structure is best for LIFO?,Queue,Stack,Heap,Graph,2,easy,algorithmic
+Logic default,a,b,c,d,1,medium,logic
+"A process completes a job in 48 hours. If 4 identical processes work together, how long will they take?",12.0,6.0,18.0,24.0,1,medium,math
+"If every 3rd person is selected from a queue of 99, how many are selected?",33,34,33,32,1,easy,logic
+Choose the grammatically correct sentence:,She don't like it.,She doesn't like it.,She do not like it.,She doesn't likes it.,2,medium,verbal
+"If P% of a number is 10.2 and Q% of the same number is 25.5, what is P:Q?",10:25,25:10,20:25,10:50,1,hard,math
+A cube painted on all faces is cut into 27 equal smaller cubes. How many of the small cubes have exactly two painted faces?,12,6,8,0,1,hard,logic
+A train travels at 78 km/h and covers a distance in 3 hours. What is the distance?,234,244,229,251,1,medium,math
+"If every 3rd person is selected from a queue of 15, how many are selected?",5,6,5,4,1,medium,logic
+"If 5 items cost $111, what is the cost of 13 items?",288.6,289.6,286.6,293.6,1,medium,math
+A cube painted on all faces is cut into 27 equal smaller cubes. How many of the small cubes have exactly two painted faces?,12,6,8,0,1,hard,logic
+Logic default,a,b,c,d,1,easy,logic
+"If an array is sorted and then reversed, what is time complexity for worst-case search using binary search?",O(log n),O(n),O(n log n),O(1),1,medium,algorithmic
+Logic default,a,b,c,d,1,hard,logic
+"Sequence: 8, 11, 16, 17, ? What is next?",20,21,19,22,1,hard,logic
+A cube painted on all faces is cut into 27 equal smaller cubes. How many of the small cubes have exactly two painted faces?,12,6,8,0,1,easy,logic
+A cube painted on all faces is cut into 27 equal smaller cubes. How many of the small cubes have exactly two painted faces?,12,6,8,0,1,hard,logic
+"Product X price increases by 17%. If original expenditure was $100, new expenditure is $?",117,129,111,123,1,hard,math
+Logic default,a,b,c,d,1,medium,logic
+"Find the odd one out: spinach, grape, banana, apple",spinach,grape,banana,apple,1,medium,logic
+"If a number increases by 9% and then decreases by 1%, the net change is closest to?",7.91%,8%,10%,8.91%,1,easy,math
+"Product X price increases by 32%. If original expenditure was $100, new expenditure is $?",132,145,125,139,1,hard,math
+Which data structure is best for LIFO?,Queue,Stack,Heap,Graph,2,medium,algorithmic
+"If 5 items cost $102, what is the cost of 13 items?",265.2,266.2,263.2,270.2,1,hard,math
+"If a number increases by 37% and then decreases by 31%, the net change is closest to?",-5.47%,6%,68%,-4.47%,1,medium,math
+A cube painted on all faces is cut into 27 equal smaller cubes. How many of the small cubes have exactly two painted faces?,12,6,8,0,1,easy,logic
+A train travels at 42 km/h and covers a distance in 6 hours. What is the distance?,252,262,247,254,1,easy,math
+"Average of five numbers is 19. If one number 81 is replaced by 13, new average is?",5.4,6.4,4.9,7.4,1,hard,math
+"If every 3rd person is selected from a queue of 86, how many are selected?",28,29,29,28,1,easy,logic
+Logic default,a,b,c,d,1,medium,logic
+Choose the correct sentence:,He has less books than before.,He has fewer books than before.,Both are correct,Both are incorrect,2,hard,verbal
+Logic default,a,b,c,d,1,medium,logic
+"If two fair dice are rolled, what is probability that sum is 10?",3/36,4/36,2/36,3/6,1,easy,probability
+Logic default,a,b,c,d,1,hard,logic
+"If two fair dice are rolled, what is probability that sum is 4?",3/36,4/36,2/36,3/6,1,hard,probability
+"If every 3rd person is selected from a queue of 26, how many are selected?",8,9,9,8,1,hard,logic
+Choose the correct sentence:,He has less books than before.,He has fewer books than before.,Both are correct,Both are incorrect,2,hard,verbal
+"Find the odd one out: banana, pear, spinach, carrot",banana,pear,spinach,carrot,3,hard,logic
+"Sequence: 1, 6, 8, 13, ? What is next?",18,19,17,20,1,medium,logic
+"If two fair dice are rolled, what is probability that sum is 5?",4/36,5/36,3/36,4/6,1,easy,probability
+"Find the odd one out: carrot, pear, spinach, grape",carrot,pear,spinach,grape,1,medium,logic
+"Find the odd one out: pear, grape, carrot, banana",pear,grape,carrot,banana,3,hard,logic
+"If every 3rd person is selected from a queue of 97, how many are selected?",32,33,33,32,1,medium,logic
+Logic default,a,b,c,d,1,medium,logic
+"A process completes a job in 45 hours. If 5 identical processes work together, how long will they take?",11.25,5.62,16.88,22.5,1,medium,math
+"Find the odd one out: grape, pear, carrot, banana",grape,pear,carrot,banana,3,medium,logic
+Choose the correct sentence:,He has less books than before.,He has fewer books than before.,Both are correct,Both are incorrect,2,easy,verbal
+"A process completes a job in 109 hours. If 3 identical processes work together, how long will they take?",21.8,10.9,32.7,43.6,1,easy,math
+"If two fair dice are rolled, what is probability that sum is 11?",2/36,3/36,1/36,2/6,1,medium,probability
+A train travels at 74 km/h and covers a distance in 6 hours. What is the distance?,444,454,439,460,1,hard,math
+Choose the grammatically correct sentence:,She don't like it.,She doesn't like it.,She do not like it.,She doesn't likes it.,2,easy,verbal
+"Find the odd one out: spinach, grape, pear, apple",spinach,grape,pear,apple,1,medium,logic
+"If two fair dice are rolled, what is probability that sum is 6?",5/36,6/36,4/36,5/6,1,hard,probability
+"If every 3rd person is selected from a queue of 36, how many are selected?",12,13,12,11,1,easy,logic
+"Sequence: 5, 9, 13, 15, ? What is next?",19,20,18,21,1,hard,logic
+"A process completes a job in 14 hours. If 2 identical processes work together, how long will they take?",3.5,1.75,5.25,7.0,1,medium,math
+"Find the odd one out: spinach, grape, banana, apple",spinach,grape,banana,apple,1,medium,logic
+A cube painted on all faces is cut into 27 equal smaller cubes. How many of the small cubes have exactly two painted faces?,12,6,8,0,1,medium,logic
+"If two fair dice are rolled, what is probability that sum is 7?",6/36,7/36,5/36,6/6,1,medium,probability
+A cube painted on all faces is cut into 27 equal smaller cubes. How many of the small cubes have exactly two painted faces?,12,6,8,0,1,medium,logic
+"If P% of a number is 11.4 and Q% of the same number is 5.7, what is P:Q?",20:10,10:20,40:10,20:20,1,medium,math
+"Sequence: 8, 12, 15, 16, ? What is next?",20,21,19,22,1,easy,logic
+"Sequence: 7, 9, 11, 16, ? What is next?",18,19,17,20,1,easy,logic
+"If a number increases by 24% and then decreases by 10%, the net change is closest to?",11.6%,14%,34%,12.6%,1,medium,math
+"Average of five numbers is 28. If one number 11 is replaced by 80, new average is?",41.8,42.8,41.3,43.8,1,easy,math
+A cube painted on all faces is cut into 27 equal smaller cubes. How many of the small cubes have exactly two painted faces?,12,6,8,0,1,medium,logic
+Choose the correct sentence:,He has less books than before.,He has fewer books than before.,Both are correct,Both are incorrect,2,medium,verbal
+"Product X price increases by 42%. If original expenditure was $100, new expenditure is $?",142,156,135,149,1,easy,math
+"If two fair dice are rolled, what is probability that sum is 7?",6/36,7/36,5/36,6/6,1,medium,probability
+"Find the odd one out: apple, banana, pear, spinach",apple,banana,pear,spinach,4,medium,logic
+"If 5 items cost $36, what is the cost of 13 items?",93.6,94.6,91.6,98.6,1,easy,math
+"Find the odd one out: spinach, carrot, grape, apple",spinach,carrot,grape,apple,1,hard,logic
+"If 5 items cost $172, what is the cost of 13 items?",447.2,448.2,445.2,452.2,1,hard,math
+A train travels at 64 km/h and covers a distance in 5 hours. What is the distance?,320,330,315,332,1,medium,math
+"If two fair dice are rolled, what is probability that sum is 11?",2/36,3/36,1/36,2/6,1,easy,probability
+"If 5 items cost $21, what is the cost of 13 items?",54.6,55.6,52.6,59.6,1,hard,math
+"If you need to get min and max in one pass, time complexity is",O(n),O(log n),O(n log n),O(1),1,easy,algorithmic
+Synonym of 'quick' is:,empty,slow,rapid,small,3,hard,verbal
+Choose the best inference from: All swans in the lake are white.,All white birds are swans.,Some swans are white.,No swans are black.,All swans are black.,2,easy,verbal
+"If two fair dice are rolled, what is probability that sum is 3?",2/36,3/36,1/36,2/6,1,easy,probability
+"If 5 items cost $87, what is the cost of 13 items?",226.2,227.2,224.2,231.2,1,medium,math
+"If an array is sorted and then reversed, what is time complexity for worst-case search using binary search?",O(log n),O(n),O(n log n),O(1),1,easy,algorithmic
+"Average of five numbers is 16. If one number 84 is replaced by 36, new average is?",6.4,7.4,5.9,8.4,1,hard,math
+"If every 3rd person is selected from a queue of 29, how many are selected?",9,10,10,9,1,hard,logic
+"Average of five numbers is 53. If one number 16 is replaced by 18, new average is?",53.4,54.4,52.9,55.4,1,medium,math
+"If P% of a number is 90.0 and Q% of the same number is 36.0, what is P:Q?",50:20,20:50,100:20,50:40,1,hard,math
+"If every 3rd person is selected from a queue of 11, how many are selected?",3,4,4,3,1,medium,logic
+"If you need to get min and max in one pass, time complexity is",O(n),O(log n),O(n log n),O(1),1,easy,algorithmic
+"Sequence: 6, 9, 13, 16, ? What is next?",19,20,18,21,1,easy,logic
+"If P% of a number is 12.5 and Q% of the same number is 5.0, what is P:Q?",25:10,10:25,50:10,25:20,1,hard,math
+"Sequence: 1, 3, 5, 7, ? What is next?",9,10,8,11,1,hard,logic
+"If P% of a number is 12.5 and Q% of the same number is 10.0, what is P:Q?",25:20,20:25,50:20,25:40,1,medium,math
+Choose the best inference from: All swans in the lake are white.,All white birds are swans.,Some swans are white.,No swans are black.,All swans are black.,2,medium,verbal
+A cube painted on all faces is cut into 27 equal smaller cubes. How many of the small cubes have exactly two painted faces?,12,6,8,0,1,hard,logic
+"If a number increases by 20% and then decreases by 17%, the net change is closest to?",-0.4%,3%,37%,0.6%,1,medium,math
+"If P% of a number is 4.75 and Q% of the same number is 3.8, what is P:Q?",25:20,20:25,50:20,25:40,1,easy,math
+"If the ratio of A:B is 97:11 and B:C is 10:7, what is A:C?",97:7.7,98:7.7,97:8.7,97:6.7,1,easy,math
+"If two fair dice are rolled, what is probability that sum is 4?",3/36,4/36,2/36,3/6,1,hard,probability
+"If two fair dice are rolled, what is probability that sum is 11?",2/36,3/36,1/36,2/6,1,easy,probability
+"Find the odd one out: apple, carrot, banana, spinach",apple,carrot,banana,spinach,2,hard,logic
+Choose the correct sentence:,He has less books than before.,He has fewer books than before.,Both are correct,Both are incorrect,2,easy,verbal
+A cube painted on all faces is cut into 27 equal smaller cubes. How many of the small cubes have exactly two painted faces?,12,6,8,0,1,medium,logic
+"Product X price increases by 20%. If original expenditure was $100, new expenditure is $?",120,132,114,126,1,medium,math
+"If two fair dice are rolled, what is probability that sum is 5?",4/36,5/36,3/36,4/6,1,medium,probability
+A cube painted on all faces is cut into 27 equal smaller cubes. How many of the small cubes have exactly two painted faces?,12,6,8,0,1,medium,logic
+"If two fair dice are rolled, what is probability that sum is 9?",4/36,5/36,3/36,4/6,1,hard,probability
+"Sequence: 8, 10, 14, 15, ? What is next?",17,18,16,19,1,hard,logic
+"If every 3rd person is selected from a queue of 81, how many are selected?",27,28,27,26,1,medium,logic
+Choose the grammatically correct sentence:,She don't like it.,She doesn't like it.,She do not like it.,She doesn't likes it.,2,hard,verbal
+"If the ratio of A:B is 114:2 and B:C is 6:12, what is A:C?",114:4.0,115:4.0,114:5.0,114:3.0,1,hard,math
+"If every 3rd person is selected from a queue of 30, how many are selected?",10,11,10,9,1,medium,logic
+"If you need to get min and max in one pass, time complexity is",O(n),O(log n),O(n log n),O(1),1,easy,algorithmic
+Choose the correct sentence:,He has less books than before.,He has fewer books than before.,Both are correct,Both are incorrect,2,easy,verbal
+"Product X price increases by 15%. If original expenditure was $100, new expenditure is $?",115,126,109,121,1,hard,math
+Choose the grammatically correct sentence:,She don't like it.,She doesn't like it.,She do not like it.,She doesn't likes it.,2,hard,verbal
+"If the ratio of A:B is 78:6 and B:C is 8:8, what is A:C?",78:6.0,79:6.0,78:7.0,78:5.0,1,hard,math
+Choose the best inference from: All swans in the lake are white.,All white birds are swans.,Some swans are white.,No swans are black.,All swans are black.,2,hard,verbal
+"Sequence: 3, 6, 7, 8, ? What is next?",11,12,10,13,1,medium,logic
+"Find the odd one out: banana, apple, carrot, spinach",banana,apple,carrot,spinach,3,medium,logic
+A cube painted on all faces is cut into 27 equal smaller cubes. How many of the small cubes have exactly two painted faces?,12,6,8,0,1,medium,logic
+"If the ratio of A:B is 26:8 and B:C is 6:4, what is A:C?",26:5.33,27:5.33,26:6.33,26:4.33,1,easy,math
+A train travels at 19 km/h and covers a distance in 9 hours. What is the distance?,171,181,166,183,1,hard,math
+A train travels at 39 km/h and covers a distance in 6 hours. What is the distance?,234,244,229,241,1,easy,math
+"If you need to get min and max in one pass, time complexity is",O(n),O(log n),O(n log n),O(1),1,medium,algorithmic
+"If 5 items cost $59, what is the cost of 13 items?",153.4,154.4,151.4,158.4,1,hard,math
+"Sequence: 1, 3, 4, 9, ? What is next?",11,12,10,13,1,hard,logic
+"Find the odd one out: carrot, pear, apple, grape",carrot,pear,apple,grape,1,hard,logic
+Choose the correct sentence:,He has less books than before.,He has fewer books than before.,Both are correct,Both are incorrect,2,easy,verbal
+Which data structure is best for LIFO?,Queue,Stack,Heap,Graph,2,medium,algorithmic
+Choose the correct sentence:,He has less books than before.,He has fewer books than before.,Both are correct,Both are incorrect,2,hard,verbal
+"If two fair dice are rolled, what is probability that sum is 6?",5/36,6/36,4/36,5/6,1,easy,probability
+"Average of five numbers is 40. If one number 27 is replaced by 62, new average is?",47.0,48.0,46.5,49.0,1,hard,math
+"Average of five numbers is 34. If one number 87 is replaced by 95, new average is?",35.6,36.6,35.1,37.6,1,easy,math
+"If two fair dice are rolled, what is probability that sum is 8?",5/36,6/36,4/36,5/6,1,hard,probability
+"If every 3rd person is selected from a queue of 50, how many are selected?",16,17,17,16,1,medium,logic
+"If two fair dice are rolled, what is probability that sum is 6?",5/36,6/36,4/36,5/6,1,hard,probability
+"If two fair dice are rolled, what is probability that sum is 3?",2/36,3/36,1/36,2/6,1,medium,probability
+"If two fair dice are rolled, what is probability that sum is 9?",4/36,5/36,3/36,4/6,1,medium,probability
+"If a number increases by 37% and then decreases by 28%, the net change is closest to?",-1.36%,9%,65%,-0.36%,1,medium,math
+Synonym of 'ancient' is:,small,old,slow,empty,2,medium,verbal
+"If 5 items cost $42, what is the cost of 13 items?",109.2,110.2,107.2,114.2,1,medium,math
+"If P% of a number is 16.3 and Q% of the same number is 40.75, what is P:Q?",10:25,25:10,20:25,10:50,1,medium,math
+"If 5 items cost $100, what is the cost of 13 items?",260.0,261.0,258.0,265.0,1,easy,math
+"A process completes a job in 14 hours. If 5 identical processes work together, how long will they take?",2.8,1.4,4.2,5.6,1,medium,math
+A train travels at 76 km/h and covers a distance in 6 hours. What is the distance?,456,466,451,475,1,easy,math
+"If two fair dice are rolled, what is probability that sum is 7?",6/36,7/36,5/36,6/6,1,easy,probability
+Synonym of 'sparse' is:,empty,slow,scant,small,3,hard,verbal
+"If every 3rd person is selected from a queue of 40, how many are selected?",13,14,14,13,1,hard,logic
+"If every 3rd person is selected from a queue of 60, how many are selected?",20,21,20,19,1,hard,logic
+"If two fair dice are rolled, what is probability that sum is 4?",3/36,4/36,2/36,3/6,1,medium,probability
+"If the ratio of A:B is 33:10 and B:C is 6:8, what is A:C?",33:13.33,34:13.33,33:14.33,33:12.33,1,medium,math
+Choose the grammatically correct sentence:,She don't like it.,She doesn't like it.,She do not like it.,She doesn't likes it.,2,easy,verbal
+"Average of five numbers is 15. If one number 50 is replaced by 91, new average is?",23.2,24.2,22.7,25.2,1,hard,math
+"If two fair dice are rolled, what is probability that sum is 9?",4/36,5/36,3/36,4/6,1,hard,probability
+Choose the best inference from: All swans in the lake are white.,All white birds are swans.,Some swans are white.,No swans are black.,All swans are black.,2,medium,verbal
+"Sequence: 3, 8, 9, 12, ? What is next?",17,18,16,19,1,medium,logic
+"Find the odd one out: spinach, carrot, grape, apple",spinach,carrot,grape,apple,1,easy,logic
+"If two fair dice are rolled, what is probability that sum is 5?",4/36,5/36,3/36,4/6,1,hard,probability
+Choose the correct sentence:,He has less books than before.,He has fewer books than before.,Both are correct,Both are incorrect,2,hard,verbal
+"Average of five numbers is 48. If one number 18 is replaced by 77, new average is?",59.8,60.8,59.3,61.8,1,easy,math
+"If two fair dice are rolled, what is probability that sum is 12?",1/36,2/36,1/36,1/6,1,medium,probability
+"If a number increases by 43% and then decreases by 23%, the net change is closest to?",10.11%,20%,66%,11.11%,1,hard,math
+"Sequence: 10, 13, 15, 16, ? What is next?",19,20,18,21,1,hard,logic
+A train travels at 73 km/h and covers a distance in 4 hours. What is the distance?,292,302,287,294,1,hard,math
+"If two fair dice are rolled, what is probability that sum is 9?",4/36,5/36,3/36,4/6,1,medium,probability
+"Find the odd one out: pear, banana, spinach, carrot",pear,banana,spinach,carrot,3,medium,logic
+"If two fair dice are rolled, what is probability that sum is 4?",3/36,4/36,2/36,3/6,1,easy,probability
+Choose the grammatically correct sentence:,She don't like it.,She doesn't like it.,She do not like it.,She doesn't likes it.,2,medium,verbal
+"If two fair dice are rolled, what is probability that sum is 11?",2/36,3/36,1/36,2/6,1,medium,probability
+"Product X price increases by 20%. If original expenditure was $100, new expenditure is $?",120,132,114,126,1,medium,math
+"If every 3rd person is selected from a queue of 28, how many are selected?",9,10,10,9,1,hard,logic
+Logic default,a,b,c,d,1,easy,logic
+"If two fair dice are rolled, what is probability that sum is 4?",3/36,4/36,2/36,3/6,1,medium,probability
+"If 5 items cost $189, what is the cost of 13 items?",491.4,492.4,489.4,496.4,1,easy,math
+"If 5 items cost $162, what is the cost of 13 items?",421.2,422.2,419.2,426.2,1,medium,math
+"If every 3rd person is selected from a queue of 67, how many are selected?",22,23,23,22,1,easy,logic
+Logic default,a,b,c,d,1,easy,logic
+"If every 3rd person is selected from a queue of 28, how many are selected?",9,10,10,9,1,hard,logic
+Logic default,a,b,c,d,1,easy,logic
+"If every 3rd person is selected from a queue of 64, how many are selected?",21,22,22,21,1,medium,logic
+Choose the grammatically correct sentence:,She don't like it.,She doesn't like it.,She do not like it.,She doesn't likes it.,2,easy,verbal
+"If two fair dice are rolled, what is probability that sum is 5?",4/36,5/36,3/36,4/6,1,medium,probability
+"If two fair dice are rolled, what is probability that sum is 3?",2/36,3/36,1/36,2/6,1,hard,probability
+"If P% of a number is 12.4 and Q% of the same number is 6.2, what is P:Q?",20:10,10:20,40:10,20:20,1,hard,math
+"Sequence: 3, 6, 7, 9, ? What is next?",12,13,11,14,1,hard,logic
+A train travels at 110 km/h and covers a distance in 5 hours. What is the distance?,550,560,545,553,1,easy,math
+"If P% of a number is 16.2 and Q% of the same number is 16.2, what is P:Q?",20:20,20:20,40:20,20:40,1,medium,math
+Logic default,a,b,c,d,1,medium,logic
+"Sequence: 9, 11, 13, 17, ? What is next?",19,20,18,21,1,medium,logic
+"Product X price increases by 11%. If original expenditure was $100, new expenditure is $?",111,122,105,117,1,hard,math
+Logic default,a,b,c,d,1,medium,logic
+"Sequence: 3, 4, 5, 10, ? What is next?",11,12,10,13,1,medium,logic
+Choose the grammatically correct sentence:,She don't like it.,She doesn't like it.,She do not like it.,She doesn't likes it.,2,hard,verbal
+Choose the correct sentence:,He has less books than before.,He has fewer books than before.,Both are correct,Both are incorrect,2,medium,verbal
+"Average of five numbers is 11. If one number 98 is replaced by 82, new average is?",7.8,8.8,7.3,9.8,1,medium,math
+"If 5 items cost $154, what is the cost of 13 items?",400.4,401.4,398.4,405.4,1,medium,math
+A train travels at 110 km/h and covers a distance in 3 hours. What is the distance?,330,340,325,342,1,medium,math
+A train travels at 78 km/h and covers a distance in 4 hours. What is the distance?,312,322,307,325,1,medium,math
+"If two fair dice are rolled, what is probability that sum is 12?",1/36,2/36,1/36,1/6,1,easy,probability
+A cube painted on all faces is cut into 27 equal smaller cubes. How many of the small cubes have exactly two painted faces?,12,6,8,0,1,medium,logic
+"If two fair dice are rolled, what is probability that sum is 11?",2/36,3/36,1/36,2/6,1,medium,probability
+"If two fair dice are rolled, what is probability that sum is 4?",3/36,4/36,2/36,3/6,1,hard,probability
+Logic default,a,b,c,d,1,easy,logic
+"If the ratio of A:B is 30:6 and B:C is 4:4, what is A:C?",30:6.0,31:6.0,30:7.0,30:5.0,1,easy,math
+"Sequence: 9, 11, 13, 14, ? What is next?",16,17,15,18,1,hard,logic
+"If every 3rd person is selected from a queue of 14, how many are selected?",4,5,5,4,1,easy,logic
+"If two fair dice are rolled, what is probability that sum is 6?",5/36,6/36,4/36,5/6,1,hard,probability
+Synonym of 'ancient' is:,small,empty,old,slow,3,medium,verbal
+A cube painted on all faces is cut into 27 equal smaller cubes. How many of the small cubes have exactly two painted faces?,12,6,8,0,1,medium,logic
+A train travels at 40 km/h and covers a distance in 4 hours. What is the distance?,160,170,155,171,1,medium,math
+"Find the odd one out: spinach, apple, banana, carrot",spinach,apple,banana,carrot,1,medium,logic
+Choose the grammatically correct sentence:,She don't like it.,She doesn't like it.,She do not like it.,She doesn't likes it.,2,easy,verbal
+"If P% of a number is 33.4 and Q% of the same number is 41.75, what is P:Q?",20:25,25:20,40:25,20:50,1,medium,math
+"A process completes a job in 109 hours. If 3 identical processes work together, how long will they take?",21.8,10.9,32.7,43.6,1,easy,math
+Which data structure is best for LIFO?,Queue,Stack,Heap,Graph,2,medium,algorithmic
+Logic default,a,b,c,d,1,easy,logic
+"If two fair dice are rolled, what is probability that sum is 7?",6/36,7/36,5/36,6/6,1,medium,probability
+"If the ratio of A:B is 88:2 and B:C is 6:9, what is A:C?",88:3.0,89:3.0,88:4.0,88:2.0,1,easy,math
+"If two fair dice are rolled, what is probability that sum is 5?",4/36,5/36,3/36,4/6,1,easy,probability
+"Product X price increases by 26%. If original expenditure was $100, new expenditure is $?",126,139,120,132,1,hard,math
+Choose the correct sentence:,He has less books than before.,He has fewer books than before.,Both are correct,Both are incorrect,2,medium,verbal
+"If two fair dice are rolled, what is probability that sum is 8?",5/36,6/36,4/36,5/6,1,hard,probability
+Logic default,a,b,c,d,1,easy,logic
+A cube painted on all faces is cut into 27 equal smaller cubes. How many of the small cubes have exactly two painted faces?,12,6,8,0,1,hard,logic
+"If two fair dice are rolled, what is probability that sum is 7?",6/36,7/36,5/36,6/6,1,easy,probability
+"If two fair dice are rolled, what is probability that sum is 10?",3/36,4/36,2/36,3/6,1,easy,probability
+"If a number increases by 11% and then decreases by 5%, the net change is closest to?",5.45%,6%,16%,6.45%,1,hard,math
+A cube painted on all faces is cut into 27 equal smaller cubes. How many of the small cubes have exactly two painted faces?,12,6,8,0,1,medium,logic
+"If two fair dice are rolled, what is probability that sum is 7?",6/36,7/36,5/36,6/6,1,easy,probability
+"If an array is sorted and then reversed, what is time complexity for worst-case search using binary search?",O(log n),O(n),O(n log n),O(1),1,medium,algorithmic
+"If two fair dice are rolled, what is probability that sum is 8?",5/36,6/36,4/36,5/6,1,hard,probability
+A cube painted on all faces is cut into 27 equal smaller cubes. How many of the small cubes have exactly two painted faces?,12,6,8,0,1,medium,logic
+"If every 3rd person is selected from a queue of 91, how many are selected?",30,31,31,30,1,medium,logic
+Logic default,a,b,c,d,1,easy,logic
+A cube painted on all faces is cut into 27 equal smaller cubes. How many of the small cubes have exactly two painted faces?,12,6,8,0,1,easy,logic
+"Average of five numbers is 52. If one number 58 is replaced by 95, new average is?",59.4,60.4,58.9,61.4,1,medium,math
+"If two fair dice are rolled, what is probability that sum is 6?",5/36,6/36,4/36,5/6,1,medium,probability
+"Product X price increases by 41%. If original expenditure was $100, new expenditure is $?",141,155,134,148,1,easy,math
+"If two fair dice are rolled, what is probability that sum is 12?",1/36,2/36,1/36,1/6,1,easy,probability
+"Find the odd one out: pear, banana, carrot, spinach",pear,banana,carrot,spinach,3,hard,logic
+"Sequence: 8, 11, 15, 20, ? What is next?",23,24,22,25,1,medium,logic
+"If 5 items cost $199, what is the cost of 13 items?",517.4,518.4,515.4,522.4,1,hard,math
+"If two fair dice are rolled, what is probability that sum is 4?",3/36,4/36,2/36,3/6,1,medium,probability
+Synonym of 'sparse' is:,scant,empty,small,slow,1,hard,verbal
+"Find the odd one out: pear, banana, grape, spinach",pear,banana,grape,spinach,4,easy,logic
+"If P% of a number is 15.6 and Q% of the same number is 15.6, what is P:Q?",10:10,10:10,20:10,10:20,1,easy,math
+"If P% of a number is 12.0 and Q% of the same number is 1.2, what is P:Q?",50:5,5:50,100:5,50:10,1,easy,math
+"Find the odd one out: carrot, apple, spinach, grape",carrot,apple,spinach,grape,1,hard,logic
+"If the ratio of A:B is 75:11 and B:C is 11:11, what is A:C?",75:11.0,76:11.0,75:12.0,75:10.0,1,medium,math
+Logic default,a,b,c,d,1,hard,logic
+"Product X price increases by 12%. If original expenditure was $100, new expenditure is $?",112,123,106,118,1,medium,math
+"If a number increases by 43% and then decreases by 42%, the net change is closest to?",-17.06%,1%,85%,-16.06%,1,easy,math
+A cube painted on all faces is cut into 27 equal smaller cubes. How many of the small cubes have exactly two painted faces?,12,6,8,0,1,easy,logic
+"A process completes a job in 48 hours. If 5 identical processes work together, how long will they take?",12.0,6.0,18.0,24.0,1,hard,math
+"If you need to get min and max in one pass, time complexity is",O(n),O(log n),O(n log n),O(1),1,hard,algorithmic
+Choose the grammatically correct sentence:,She don't like it.,She doesn't like it.,She do not like it.,She doesn't likes it.,2,easy,verbal
+A cube painted on all faces is cut into 27 equal smaller cubes. How many of the small cubes have exactly two painted faces?,12,6,8,0,1,hard,logic
+"If P% of a number is 26.0 and Q% of the same number is 10.4, what is P:Q?",25:10,10:25,50:10,25:20,1,medium,math
+"If every 3rd person is selected from a queue of 100, how many are selected?",33,34,34,33,1,hard,logic
+A cube painted on all faces is cut into 27 equal smaller cubes. How many of the small cubes have exactly two painted faces?,12,6,8,0,1,hard,logic
+"If every 3rd person is selected from a queue of 18, how many are selected?",6,7,6,5,1,hard,logic
+Logic default,a,b,c,d,1,easy,logic
+Choose the best inference from: All swans in the lake are white.,All white birds are swans.,Some swans are white.,No swans are black.,All swans are black.,2,medium,verbal
+"If you need to get min and max in one pass, time complexity is",O(n),O(log n),O(n log n),O(1),1,medium,algorithmic
+"If 5 items cost $55, what is the cost of 13 items?",143.0,144.0,141.0,148.0,1,medium,math
+"If a number increases by 25% and then decreases by 5%, the net change is closest to?",18.75%,20%,30%,19.75%,1,hard,math
+"If you need to get min and max in one pass, time complexity is",O(n),O(log n),O(n log n),O(1),1,hard,algorithmic
+Choose the correct sentence:,He has less books than before.,He has fewer books than before.,Both are correct,Both are incorrect,2,hard,verbal
+"Sequence: 6, 11, 15, 20, ? What is next?",25,26,24,27,1,medium,logic
+"Sequence: 3, 8, 11, 14, ? What is next?",19,20,18,21,1,medium,logic
+"If P% of a number is 37.0 and Q% of the same number is 7.4, what is P:Q?",25:5,5:25,50:5,25:10,1,easy,math
+A cube painted on all faces is cut into 27 equal smaller cubes. How many of the small cubes have exactly two painted faces?,12,6,8,0,1,easy,logic
+"If two fair dice are rolled, what is probability that sum is 8?",5/36,6/36,4/36,5/6,1,medium,probability
+"If two fair dice are rolled, what is probability that sum is 9?",4/36,5/36,3/36,4/6,1,medium,probability
+A cube painted on all faces is cut into 27 equal smaller cubes. How many of the small cubes have exactly two painted faces?,12,6,8,0,1,medium,logic
+"Sequence: 9, 14, 18, 22, ? What is next?",27,28,26,29,1,medium,logic
+"If an array is sorted and then reversed, what is time complexity for worst-case search using binary search?",O(log n),O(n),O(n log n),O(1),1,easy,algorithmic
+"Product X price increases by 35%. If original expenditure was $100, new expenditure is $?",135,148,128,142,1,easy,math
+Synonym of 'quick' is:,rapid,slow,small,empty,1,medium,verbal
+A cube painted on all faces is cut into 27 equal smaller cubes. How many of the small cubes have exactly two painted faces?,12,6,8,0,1,medium,logic
+"If 5 items cost $129, what is the cost of 13 items?",335.4,336.4,333.4,340.4,1,easy,math
+"If two fair dice are rolled, what is probability that sum is 8?",5/36,6/36,4/36,5/6,1,hard,probability
+"A process completes a job in 117 hours. If 4 identical processes work together, how long will they take?",23.4,11.7,35.1,46.8,1,easy,math
+"If every 3rd person is selected from a queue of 84, how many are selected?",28,29,28,27,1,medium,logic
+"Sequence: 2, 4, 6, 11, ? What is next?",13,14,12,15,1,medium,logic
+"Product X price increases by 28%. If original expenditure was $100, new expenditure is $?",128,141,122,134,1,medium,math
+"If two fair dice are rolled, what is probability that sum is 6?",5/36,6/36,4/36,5/6,1,hard,probability
+"Sequence: 1, 5, 6, 11, ? What is next?",15,16,14,17,1,easy,logic
+"If P% of a number is 47.25 and Q% of the same number is 18.9, what is P:Q?",25:10,10:25,50:10,25:20,1,easy,math
+"If every 3rd person is selected from a queue of 95, how many are selected?",31,32,32,31,1,easy,logic
+"If every 3rd person is selected from a queue of 62, how many are selected?",20,21,21,20,1,easy,logic
+"If an array is sorted and then reversed, what is time complexity for worst-case search using binary search?",O(log n),O(n),O(n log n),O(1),1,medium,algorithmic
+A train travels at 51 km/h and covers a distance in 4 hours. What is the distance?,204,214,199,209,1,hard,math
+Logic default,a,b,c,d,1,hard,logic
+Choose the best inference from: All swans in the lake are white.,All white birds are swans.,Some swans are white.,No swans are black.,All swans are black.,2,hard,verbal
+"If an array is sorted and then reversed, what is time complexity for worst-case search using binary search?",O(log n),O(n),O(n log n),O(1),1,hard,algorithmic
+"Sequence: 6, 7, 10, 13, ? What is next?",14,15,13,16,1,medium,logic
+"Find the odd one out: apple, spinach, grape, banana",apple,spinach,grape,banana,2,hard,logic
+"If two fair dice are rolled, what is probability that sum is 10?",3/36,4/36,2/36,3/6,1,medium,probability
+"If two fair dice are rolled, what is probability that sum is 9?",4/36,5/36,3/36,4/6,1,hard,probability
+Choose the grammatically correct sentence:,She don't like it.,She doesn't like it.,She do not like it.,She doesn't likes it.,2,hard,verbal
+Choose the correct sentence:,He has less books than before.,He has fewer books than before.,Both are correct,Both are incorrect,2,hard,verbal
+"If every 3rd person is selected from a queue of 38, how many are selected?",12,13,13,12,1,hard,logic
+"If two fair dice are rolled, what is probability that sum is 7?",6/36,7/36,5/36,6/6,1,easy,probability
+"If a number increases by 49% and then decreases by 20%, the net change is closest to?",19.2%,29%,69%,20.2%,1,medium,math
+"A process completes a job in 80 hours. If 3 identical processes work together, how long will they take?",26.67,13.34,40.01,53.34,1,medium,math
+"Find the odd one out: apple, spinach, pear, carrot",apple,spinach,pear,carrot,2,medium,logic
+"If two fair dice are rolled, what is probability that sum is 10?",3/36,4/36,2/36,3/6,1,hard,probability
+"If every 3rd person is selected from a queue of 45, how many are selected?",15,16,15,14,1,medium,logic
+"If 5 items cost $156, what is the cost of 13 items?",405.6,406.6,403.6,410.6,1,hard,math
+"Product X price increases by 14%. If original expenditure was $100, new expenditure is $?",114,125,108,120,1,medium,math
+A train travels at 87 km/h and covers a distance in 6 hours. What is the distance?,522,532,517,538,1,medium,math
+"Find the odd one out: banana, spinach, grape, pear",banana,spinach,grape,pear,2,hard,logic
+"If two fair dice are rolled, what is probability that sum is 9?",4/36,5/36,3/36,4/6,1,easy,probability
+"If the ratio of A:B is 71:2 and B:C is 7:7, what is A:C?",71:2.0,72:2.0,71:3.0,71:1.0,1,easy,math
+"If 5 items cost $37, what is the cost of 13 items?",96.2,97.2,94.2,101.2,1,easy,math
+"If 5 items cost $60, what is the cost of 13 items?",156.0,157.0,154.0,161.0,1,hard,math
+"If two fair dice are rolled, what is probability that sum is 7?",6/36,7/36,5/36,6/6,1,hard,probability
+"If every 3rd person is selected from a queue of 14, how many are selected?",4,5,5,4,1,hard,logic
+"Sequence: 3, 5, 7, 10, ? What is next?",12,13,11,14,1,hard,logic
+Choose the correct sentence:,He has less books than before.,He has fewer books than before.,Both are correct,Both are incorrect,2,easy,verbal
+"Sequence: 5, 7, 12, 16, ? What is next?",18,19,17,20,1,hard,logic
+"A process completes a job in 102 hours. If 2 identical processes work together, how long will they take?",34.0,17.0,51.0,68.0,1,easy,math
+Logic default,a,b,c,d,1,easy,logic
+"Find the odd one out: grape, banana, carrot, pear",grape,banana,carrot,pear,3,medium,logic
+"Find the odd one out: pear, grape, apple, spinach",pear,grape,apple,spinach,4,hard,logic
+"Product X price increases by 13%. If original expenditure was $100, new expenditure is $?",113,124,107,119,1,medium,math
+Synonym of 'sparse' is:,empty,scant,slow,small,2,medium,verbal
+"If two fair dice are rolled, what is probability that sum is 11?",2/36,3/36,1/36,2/6,1,hard,probability
+Logic default,a,b,c,d,1,medium,logic
+"If a number increases by 47% and then decreases by 19%, the net change is closest to?",19.07%,28%,66%,20.07%,1,easy,math
+"Average of five numbers is 68. If one number 39 is replaced by 41, new average is?",68.4,69.4,67.9,70.4,1,medium,math
+Choose the grammatically correct sentence:,She don't like it.,She doesn't like it.,She do not like it.,She doesn't likes it.,2,hard,verbal
+"If two fair dice are rolled, what is probability that sum is 8?",5/36,6/36,4/36,5/6,1,medium,probability
+Synonym of 'quick' is:,slow,rapid,empty,small,2,medium,verbal
+"If every 3rd person is selected from a queue of 63, how many are selected?",21,22,21,20,1,easy,logic
+Logic default,a,b,c,d,1,hard,logic
+"A process completes a job in 29 hours. If 4 identical processes work together, how long will they take?",14.5,7.25,21.75,29.0,1,easy,math
+Logic default,a,b,c,d,1,easy,logic
+"Sequence: 2, 6, 8, 10, ? What is next?",14,15,13,16,1,easy,logic
+Choose the correct sentence:,He has less books than before.,He has fewer books than before.,Both are correct,Both are incorrect,2,medium,verbal
+"A process completes a job in 33 hours. If 5 identical processes work together, how long will they take?",11.0,5.5,16.5,22.0,1,medium,math
+"Find the odd one out: banana, apple, grape, spinach",banana,apple,grape,spinach,4,easy,logic
+"Average of five numbers is 75. If one number 23 is replaced by 95, new average is?",89.4,90.4,88.9,91.4,1,hard,math
+"If every 3rd person is selected from a queue of 68, how many are selected?",22,23,23,22,1,easy,logic
+"If a number increases by 16% and then decreases by 11%, the net change is closest to?",3.24%,5%,27%,4.24%,1,hard,math
+A cube painted on all faces is cut into 27 equal smaller cubes. How many of the small cubes have exactly two painted faces?,12,6,8,0,1,hard,logic
+A cube painted on all faces is cut into 27 equal smaller cubes. How many of the small cubes have exactly two painted faces?,12,6,8,0,1,medium,logic
+"If two fair dice are rolled, what is probability that sum is 8?",5/36,6/36,4/36,5/6,1,medium,probability
+Logic default,a,b,c,d,1,medium,logic
+"Average of five numbers is 76. If one number 41 is replaced by 87, new average is?",85.2,86.2,84.7,87.2,1,hard,math
+"A process completes a job in 114 hours. If 2 identical processes work together, how long will they take?",57.0,28.5,85.5,114.0,1,easy,math
+Synonym of 'sparse' is:,empty,small,scant,slow,3,hard,verbal
+"If an array is sorted and then reversed, what is time complexity for worst-case search using binary search?",O(log n),O(n),O(n log n),O(1),1,medium,algorithmic
+Choose the grammatically correct sentence:,She don't like it.,She doesn't like it.,She do not like it.,She doesn't likes it.,2,medium,verbal
+A cube painted on all faces is cut into 27 equal smaller cubes. How many of the small cubes have exactly two painted faces?,12,6,8,0,1,medium,logic
+"Find the odd one out: banana, spinach, pear, grape",banana,spinach,pear,grape,2,easy,logic
+"If two fair dice are rolled, what is probability that sum is 8?",5/36,6/36,4/36,5/6,1,medium,probability
+"Average of five numbers is 69. If one number 93 is replaced by 92, new average is?",68.8,69.8,68.3,70.8,1,easy,math
+"If P% of a number is 2.5 and Q% of the same number is 0.5, what is P:Q?",25:5,5:25,50:5,25:10,1,hard,math
+"If the ratio of A:B is 53:3 and B:C is 4:7, what is A:C?",53:5.25,54:5.25,53:6.25,53:4.25,1,hard,math
+A cube painted on all faces is cut into 27 equal smaller cubes. How many of the small cubes have exactly two painted faces?,12,6,8,0,1,easy,logic
+Synonym of 'ancient' is:,slow,old,empty,small,2,medium,verbal
+"If two fair dice are rolled, what is probability that sum is 9?",4/36,5/36,3/36,4/6,1,medium,probability
+A cube painted on all faces is cut into 27 equal smaller cubes. How many of the small cubes have exactly two painted faces?,12,6,8,0,1,hard,logic
+"If every 3rd person is selected from a queue of 46, how many are selected?",15,16,16,15,1,hard,logic
+"If every 3rd person is selected from a queue of 100, how many are selected?",33,34,34,33,1,hard,logic
+"If 5 items cost $51, what is the cost of 13 items?",132.6,133.6,130.6,137.6,1,medium,math
+"If two fair dice are rolled, what is probability that sum is 10?",3/36,4/36,2/36,3/6,1,hard,probability
+"If P% of a number is 24.2 and Q% of the same number is 30.25, what is P:Q?",20:25,25:20,40:25,20:50,1,medium,math
+"If you need to get min and max in one pass, time complexity is",O(n),O(log n),O(n log n),O(1),1,hard,algorithmic
+"If two fair dice are rolled, what is probability that sum is 9?",4/36,5/36,3/36,4/6,1,medium,probability
+"If the ratio of A:B is 89:10 and B:C is 12:2, what is A:C?",89:1.67,90:1.67,89:2.67,89:0.67,1,medium,math
+"Average of five numbers is 26. If one number 18 is replaced by 44, new average is?",31.2,32.2,30.7,33.2,1,hard,math
+"If a number increases by 37% and then decreases by 29%, the net change is closest to?",-2.73%,8%,66%,-1.73%,1,medium,math
+"If two fair dice are rolled, what is probability that sum is 3?",2/36,3/36,1/36,2/6,1,easy,probability
+"Sequence: 8, 12, 17, 21, ? What is next?",25,26,24,27,1,medium,logic
+A cube painted on all faces is cut into 27 equal smaller cubes. How many of the small cubes have exactly two painted faces?,12,6,8,0,1,hard,logic
+"If two fair dice are rolled, what is probability that sum is 6?",5/36,6/36,4/36,5/6,1,hard,probability
+Which data structure is best for LIFO?,Queue,Stack,Heap,Graph,2,hard,algorithmic
+"Find the odd one out: spinach, carrot, pear, apple",spinach,carrot,pear,apple,1,hard,logic
+"A process completes a job in 30 hours. If 4 identical processes work together, how long will they take?",15.0,7.5,22.5,30.0,1,easy,math
+"If two fair dice are rolled, what is probability that sum is 6?",5/36,6/36,4/36,5/6,1,hard,probability
+"If P% of a number is 8.6 and Q% of the same number is 4.3, what is P:Q?",10:5,5:10,20:5,10:10,1,hard,math
+Choose the best inference from: All swans in the lake are white.,All white birds are swans.,Some swans are white.,No swans are black.,All swans are black.,2,medium,verbal
+"If every 3rd person is selected from a queue of 87, how many are selected?",29,30,29,28,1,hard,logic
+Choose the best inference from: All swans in the lake are white.,All white birds are swans.,Some swans are white.,No swans are black.,All swans are black.,2,hard,verbal
+A train travels at 59 km/h and covers a distance in 12 hours. What is the distance?,708,718,703,725,1,easy,math
+"A process completes a job in 93 hours. If 2 identical processes work together, how long will they take?",23.25,11.62,34.88,46.5,1,easy,math
+"Product X price increases by 18%. If original expenditure was $100, new expenditure is $?",118,130,112,124,1,hard,math
+A train travels at 59 km/h and covers a distance in 12 hours. What is the distance?,708,718,703,718,1,easy,math
+"If two fair dice are rolled, what is probability that sum is 4?",3/36,4/36,2/36,3/6,1,easy,probability
+"If 5 items cost $175, what is the cost of 13 items?",455.0,456.0,453.0,460.0,1,easy,math
+"If two fair dice are rolled, what is probability that sum is 10?",3/36,4/36,2/36,3/6,1,medium,probability
+"If 5 items cost $19, what is the cost of 13 items?",49.4,50.4,47.4,54.4,1,medium,math
+"If every 3rd person is selected from a queue of 37, how many are selected?",12,13,13,12,1,medium,logic
+"Average of five numbers is 28. If one number 32 is replaced by 100, new average is?",41.6,42.6,41.1,43.6,1,hard,math
+Choose the grammatically correct sentence:,She don't like it.,She doesn't like it.,She do not like it.,She doesn't likes it.,2,hard,verbal
+"If two fair dice are rolled, what is probability that sum is 7?",6/36,7/36,5/36,6/6,1,easy,probability
+"If the ratio of A:B is 79:5 and B:C is 4:6, what is A:C?",79:7.5,80:7.5,79:8.5,79:6.5,1,hard,math
+"If every 3rd person is selected from a queue of 12, how many are selected?",4,5,4,3,1,easy,logic
+Choose the grammatically correct sentence:,She don't like it.,She doesn't like it.,She do not like it.,She doesn't likes it.,2,easy,verbal
+A train travels at 84 km/h and covers a distance in 12 hours. What is the distance?,1008,1018,1003,1026,1,easy,math
+"Find the odd one out: apple, pear, banana, grape",apple,pear,banana,grape,1,hard,logic
+"If two fair dice are rolled, what is probability that sum is 8?",5/36,6/36,4/36,5/6,1,easy,probability
+A cube painted on all faces is cut into 27 equal smaller cubes. How many of the small cubes have exactly two painted faces?,12,6,8,0,1,medium,logic
+Choose the correct sentence:,He has less books than before.,He has fewer books than before.,Both are correct,Both are incorrect,2,hard,verbal
+"Find the odd one out: spinach, carrot, apple, grape",spinach,carrot,apple,grape,1,easy,logic
+"If a number increases by 10% and then decreases by 1%, the net change is closest to?",8.9%,9%,11%,9.9%,1,medium,math
+A cube painted on all faces is cut into 27 equal smaller cubes. How many of the small cubes have exactly two painted faces?,12,6,8,0,1,medium,logic
+"Sequence: 2, 5, 8, 12, ? What is next?",15,16,14,17,1,easy,logic
+"Product X price increases by 31%. If original expenditure was $100, new expenditure is $?",131,144,124,138,1,easy,math
+"If two fair dice are rolled, what is probability that sum is 9?",4/36,5/36,3/36,4/6,1,easy,probability
+Choose the correct sentence:,He has less books than before.,He has fewer books than before.,Both are correct,Both are incorrect,2,medium,verbal
+"If 5 items cost $62, what is the cost of 13 items?",161.2,162.2,159.2,166.2,1,easy,math
+"Product X price increases by 49%. If original expenditure was $100, new expenditure is $?",149,164,142,156,1,medium,math
+Choose the best inference from: All swans in the lake are white.,All white birds are swans.,Some swans are white.,No swans are black.,All swans are black.,2,medium,verbal
+"Find the odd one out: grape, banana, spinach, carrot",grape,banana,spinach,carrot,3,hard,logic
+"Find the odd one out: grape, carrot, banana, apple",grape,carrot,banana,apple,2,medium,logic
+"If 5 items cost $80, what is the cost of 13 items?",208.0,209.0,206.0,213.0,1,medium,math
+Logic default,a,b,c,d,1,medium,logic
+"If 5 items cost $108, what is the cost of 13 items?",280.8,281.8,278.8,285.8,1,medium,math
+"If the ratio of A:B is 63:12 and B:C is 6:10, what is A:C?",63:20.0,64:20.0,63:21.0,63:19.0,1,medium,math
+"If a number increases by 44% and then decreases by 13%, the net change is closest to?",25.28%,31%,57%,26.28%,1,hard,math
+"Product X price increases by 50%. If original expenditure was $100, new expenditure is $?",150,165,142,158,1,medium,math
+Logic default,a,b,c,d,1,medium,logic
+"If the ratio of A:B is 105:12 and B:C is 9:12, what is A:C?",105:16.0,106:16.0,105:17.0,105:15.0,1,easy,math
+Which data structure is best for LIFO?,Queue,Stack,Heap,Graph,2,hard,algorithmic
+A train travels at 106 km/h and covers a distance in 3 hours. What is the distance?,318,328,313,331,1,medium,math
+"Sequence: 9, 10, 11, 13, ? What is next?",14,15,13,16,1,medium,logic
+"If a number increases by 33% and then decreases by 26%, the net change is closest to?",-1.58%,7%,59%,-0.58%,1,hard,math
+"If every 3rd person is selected from a queue of 38, how many are selected?",12,13,13,12,1,medium,logic
+"If the ratio of A:B is 92:3 and B:C is 2:10, what is A:C?",92:15.0,93:15.0,92:16.0,92:14.0,1,easy,math
+"If you need to get min and max in one pass, time complexity is",O(n),O(log n),O(n log n),O(1),1,hard,algorithmic
+Choose the best inference from: All swans in the lake are white.,All white birds are swans.,Some swans are white.,No swans are black.,All swans are black.,2,easy,verbal
+"Find the odd one out: carrot, grape, spinach, apple",carrot,grape,spinach,apple,1,hard,logic
+"Sequence: 2, 5, 8, 9, ? What is next?",12,13,11,14,1,hard,logic
+"Sequence: 3, 4, 6, 9, ? What is next?",10,11,9,12,1,hard,logic
+"If two fair dice are rolled, what is probability that sum is 8?",5/36,6/36,4/36,5/6,1,easy,probability
+"Sequence: 3, 5, 6, 7, ? What is next?",9,10,8,11,1,medium,logic
+A cube painted on all faces is cut into 27 equal smaller cubes. How many of the small cubes have exactly two painted faces?,12,6,8,0,1,medium,logic
+"Find the odd one out: spinach, pear, grape, carrot",spinach,pear,grape,carrot,1,hard,logic
+Choose the best inference from: All swans in the lake are white.,All white birds are swans.,Some swans are white.,No swans are black.,All swans are black.,2,medium,verbal
+"If the ratio of A:B is 48:7 and B:C is 11:4, what is A:C?",48:2.55,49:2.55,48:3.55,48:1.55,1,hard,math
+"If 5 items cost $171, what is the cost of 13 items?",444.6,445.6,442.6,449.6,1,medium,math
+A cube painted on all faces is cut into 27 equal smaller cubes. How many of the small cubes have exactly two painted faces?,12,6,8,0,1,hard,logic
+"If two fair dice are rolled, what is probability that sum is 5?",4/36,5/36,3/36,4/6,1,easy,probability
+"If every 3rd person is selected from a queue of 79, how many are selected?",26,27,27,26,1,medium,logic
+Choose the best inference from: All swans in the lake are white.,All white birds are swans.,Some swans are white.,No swans are black.,All swans are black.,2,medium,verbal
+"Product X price increases by 15%. If original expenditure was $100, new expenditure is $?",115,126,109,121,1,medium,math
+"If two fair dice are rolled, what is probability that sum is 7?",6/36,7/36,5/36,6/6,1,medium,probability
+A cube painted on all faces is cut into 27 equal smaller cubes. How many of the small cubes have exactly two painted faces?,12,6,8,0,1,hard,logic
+Logic default,a,b,c,d,1,easy,logic
+"If the ratio of A:B is 74:12 and B:C is 11:9, what is A:C?",74:9.82,75:9.82,74:10.82,74:8.82,1,hard,math
+"If two fair dice are rolled, what is probability that sum is 2?",1/36,2/36,1/36,1/6,1,hard,probability
+"If P% of a number is 54.0 and Q% of the same number is 10.8, what is P:Q?",50:10,10:50,100:10,50:20,1,medium,math
+A train travels at 109 km/h and covers a distance in 10 hours. What is the distance?,1090,1100,1085,1105,1,medium,math
+"If two fair dice are rolled, what is probability that sum is 7?",6/36,7/36,5/36,6/6,1,medium,probability
+"If 5 items cost $29, what is the cost of 13 items?",75.4,76.4,73.4,80.4,1,hard,math
+"Sequence: 10, 12, 13, 14, ? What is next?",16,17,15,18,1,medium,logic
+"If two fair dice are rolled, what is probability that sum is 7?",6/36,7/36,5/36,6/6,1,medium,probability
+"If two fair dice are rolled, what is probability that sum is 6?",5/36,6/36,4/36,5/6,1,medium,probability
+"If the ratio of A:B is 113:4 and B:C is 3:5, what is A:C?",113:6.67,114:6.67,113:7.67,113:5.67,1,hard,math
+"If every 3rd person is selected from a queue of 66, how many are selected?",22,23,22,21,1,hard,logic
+"If 5 items cost $21, what is the cost of 13 items?",54.6,55.6,52.6,59.6,1,medium,math
+A cube painted on all faces is cut into 27 equal smaller cubes. How many of the small cubes have exactly two painted faces?,12,6,8,0,1,hard,logic
+"If the ratio of A:B is 58:9 and B:C is 10:3, what is A:C?",58:2.7,59:2.7,58:3.7,58:1.7,1,hard,math
+"If two fair dice are rolled, what is probability that sum is 12?",1/36,2/36,1/36,1/6,1,medium,probability
+"If every 3rd person is selected from a queue of 33, how many are selected?",11,12,11,10,1,easy,logic
+"If two fair dice are rolled, what is probability that sum is 5?",4/36,5/36,3/36,4/6,1,easy,probability
+Synonym of 'quick' is:,small,empty,rapid,slow,3,hard,verbal
+"If P% of a number is 84.0 and Q% of the same number is 42.0, what is P:Q?",50:25,25:50,100:25,50:50,1,medium,math
+"If 5 items cost $30, what is the cost of 13 items?",78.0,79.0,76.0,83.0,1,easy,math
+"If an array is sorted and then reversed, what is time complexity for worst-case search using binary search?",O(log n),O(n),O(n log n),O(1),1,medium,algorithmic
+A cube painted on all faces is cut into 27 equal smaller cubes. How many of the small cubes have exactly two painted faces?,12,6,8,0,1,hard,logic
+"Average of five numbers is 59. If one number 90 is replaced by 87, new average is?",58.4,59.4,57.9,60.4,1,medium,math
+"If an array is sorted and then reversed, what is time complexity for worst-case search using binary search?",O(log n),O(n),O(n log n),O(1),1,easy,algorithmic
+"Find the odd one out: grape, pear, banana, carrot",grape,pear,banana,carrot,4,medium,logic
+"If two fair dice are rolled, what is probability that sum is 8?",5/36,6/36,4/36,5/6,1,medium,probability
+"If two fair dice are rolled, what is probability that sum is 10?",3/36,4/36,2/36,3/6,1,hard,probability
+"If two fair dice are rolled, what is probability that sum is 7?",6/36,7/36,5/36,6/6,1,easy,probability
+"If two fair dice are rolled, what is probability that sum is 11?",2/36,3/36,1/36,2/6,1,hard,probability

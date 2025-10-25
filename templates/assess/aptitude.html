@@ -1,0 +1,116 @@
+{% extends "base.html" %}
+{% load static %}
+
+{% block content %}
+<div class="container mt-4">
+  <h2 class="mb-4">Aptitude Assessment</h2>
+
+  <form method="POST">
+    {% csrf_token %}
+    <div class="card mb-4">
+      <div class="card-body">
+        {% if questions %}
+          {% for question in questions %}
+            <div class="question-block mb-4">
+              <h5>Q{{ forloop.counter }}: {{ question.text }}</h5>
+              <div class="options mt-2">
+                {% for option in question.options %}
+                  <div class="form-check">
+                    <input
+                      class="form-check-input"
+                      type="radio"
+                      name="q_{{ question.id }}"
+                      value="{{ forloop.counter0 }}"
+                      id="q{{ question.id }}_{{ forloop.counter }}">
+                    <label class="form-check-label" for="q{{ question.id }}_{{ forloop.counter }}">
+                      {{ option }}
+                    </label>
+                  </div>
+                {% endfor %}
+              </div>
+            </div>
+          {% endfor %}
+          <button type="submit" class="btn btn-primary mt-3">Submit Assessment</button>
+        {% else %}
+          <div class="alert alert-warning">
+            ⚠ No questions found. Check if your CSV dataset loaded properly.
+          </div>
+        {% endif %}
+      </div>
+    </div>
+  </form>
+</div>
+<script>
+  // --- Balanced Anti-Cheat System (Improved Internal Nav Handling) ---
+  let warningCount = 0;
+  const maxWarnings = 3;
+  let lastWarningTime = 0;
+  let internalNav = false; // NEW
+
+  function issueWarning(reason) {
+    const now = Date.now();
+    if (now - lastWarningTime < 3000) return; // prevent rapid-fire alerts
+    lastWarningTime = now;
+
+    warningCount++;
+    alert(`⚠️ Warning ${warningCount}/${maxWarnings}: ${reason}`);
+
+    if (warningCount >= maxWarnings) {
+      alert("🚫 Test terminated due to multiple violations.");
+      window.location.href = "/rejected/";
+    }
+  }
+
+  // mark when user clicks internal links/buttons
+  document.querySelectorAll("a, button, input[type=submit]").forEach(el => {
+    el.addEventListener("click", () => {
+      internalNav = true;
+      setTimeout(() => { internalNav = false; }, 1500); // reset after brief delay
+    });
+  });
+
+  // 1️⃣ Leaving tab or switching window
+  let leftTab = false;
+  document.addEventListener("visibilitychange", () => {
+    if (document.hidden && !internalNav) {
+      leftTab = true;
+      issueWarning("You left the test tab.");
+    } else if (!document.hidden) {
+      leftTab = false;
+    }
+  });
+
+  // 2️⃣ Block copy / paste / right-click
+  ["copy", "paste", "cut"].forEach(evt =>
+    document.addEventListener(evt, e => {
+      e.preventDefault();
+      issueWarning("Clipboard actions are disabled during the test.");
+    })
+  );
+
+  document.addEventListener("contextmenu", e => {
+    e.preventDefault();
+    issueWarning("Right-click is disabled during the test.");
+  });
+
+  // 3️⃣ Detect dev-tools open (basic)
+  window.addEventListener("keydown", e => {
+    if (
+      e.key === "F12" ||
+      (e.ctrlKey && e.shiftKey && (e.key === "I" || e.key === "J"))
+    ) {
+      e.preventDefault();
+      issueWarning("Developer tools are not allowed.");
+    }
+  });
+
+  // 4️⃣ Optional external-monitor check
+  window.addEventListener("resize", () => {
+    if (window.outerWidth > screen.width + 150) {
+      issueWarning("External display or virtual desktop detected.");
+    }
+  });
+</script>
+
+
+{% endblock %}

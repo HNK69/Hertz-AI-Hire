@@ -1,0 +1,36 @@
+{% extends "base.html" %}
+{% block title %}Rejection Report{% endblock %}
+
+{% block content %}
+<div class="container mt-5">
+  <h3 class="text-danger mb-3">Rejection Report</h3>
+  <p class="lead">Thank you for participating, {{ profile.user.username }}.</p>
+
+  {% if report %}
+    <p><strong>Decision Date:</strong> {{ report.created_at|date:"F j, Y, g:i a" }}</p>
+    <p><strong>Report Summary:</strong> {{ report.report_text }}</p>
+  {% endif %}
+
+  <hr>
+  <h5>Round-wise Performance</h5>
+  <ul>
+    <li>Aptitude: {{ aptitude|floatformat:1 }}%</li>
+    <li>Coding: {{ coding|floatformat:1 }}%</li>
+    <li>Technical Interview: {{ tech|floatformat:1 }}%</li>
+    <li>HR Evaluation: {{ hr|floatformat:2 }}</li>
+  </ul>
+
+  <hr>
+  <h5>Key Feedback</h5>
+  <ul>
+    {% for reason in reasons %}
+      <li>{{ reason }}</li>
+    {% endfor %}
+  </ul>
+
+  <hr>
+  <p class="text-muted">
+    We encourage you to review these areas and apply again. Your efforts were appreciated.
+  </p>
+</div>
+{% endblock %}

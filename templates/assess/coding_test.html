@@ -1,0 +1,89 @@
+{% extends "base.html" %}
+{% block title %}Coding Test{% endblock %}
+{% block content %}
+<h3>Coding Test (3 Questions)</h3>
+<form method="post">
+  {% csrf_token %}
+  {% for q in questions %}
+    <div class="card p-3 mb-4 shadow-sm">
+      <h5>Question {{ forloop.counter }}: {{ q.title }}</h5>
+      <p>{{ q.description }}</p>
+      <textarea color:white ; name="code_{{ q.id }}" class="form-control" rows="12">{{ q.starter_code }}</textarea>
+    </div>
+  {% endfor %}
+  <button class="btn btn-success">Run & Submit</button>
+</form>
+<script>
+  // --- Balanced Anti-Cheat System (Improved Internal Nav Handling) ---
+  let warningCount = 0;
+  const maxWarnings = 3;
+  let lastWarningTime = 0;
+  let internalNav = false; // NEW
+
+  function issueWarning(reason) {
+    const now = Date.now();
+    if (now - lastWarningTime < 3000) return; // prevent rapid-fire alerts
+    lastWarningTime = now;
+
+    warningCount++;
+    alert(`⚠️ Warning ${warningCount}/${maxWarnings}: ${reason}`);
+
+    if (warningCount >= maxWarnings) {
+      alert("🚫 Test terminated due to multiple violations.");
+      window.location.href = "/rejected/";
+    }
+  }
+
+  // mark when user clicks internal links/buttons
+  document.querySelectorAll("a, button, input[type=submit]").forEach(el => {
+    el.addEventListener("click", () => {
+      internalNav = true;
+      setTimeout(() => { internalNav = false; }, 1500); // reset after brief delay
+    });
+  });
+
+  // 1️⃣ Leaving tab or switching window
+  let leftTab = false;
+  document.addEventListener("visibilitychange", () => {
+    if (document.hidden && !internalNav) {
+      leftTab = true;
+      issueWarning("You left the test tab.");
+    } else if (!document.hidden) {
+      leftTab = false;
+    }
+  });
+
+  // 2️⃣ Block copy / paste / right-click
+  ["copy", "paste", "cut"].forEach(evt =>
+    document.addEventListener(evt, e => {
+      e.preventDefault();
+      issueWarning("Clipboard actions are disabled during the test.");
+    })
+  );
+
+  document.addEventListener("contextmenu", e => {
+    e.preventDefault();
+    issueWarning("Right-click is disabled during the test.");
+  });
+
+  // 3️⃣ Detect dev-tools open (basic)
+  window.addEventListener("keydown", e => {
+    if (
+      e.key === "F12" ||
+      (e.ctrlKey && e.shiftKey && (e.key === "I" || e.key === "J"))
+    ) {
+      e.preventDefault();
+      issueWarning("Developer tools are not allowed.");
+    }
+  });
+
+  // 4️⃣ Optional external-monitor check
+  window.addEventListener("resize", () => {
+    if (window.outerWidth > screen.width + 150) {
+      issueWarning("External display or virtual desktop detected.");
+    }
+  });
+</script>
+
+
+{% endblock %}
